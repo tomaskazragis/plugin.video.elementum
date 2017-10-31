@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -251,8 +251,8 @@ msgid "Username"
 msgstr "Benutzername"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Quasar authorisieren"
+msgid "Authorize Elementum"
+msgstr "Elementum authorisieren"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -260,20 +260,20 @@ msgstr "Update der Bibliothek beim Start verzögern (Sekunden)"
 
 # Interface
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar ist abgestürzt, Neustart…"
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum ist abgestürzt, Neustart…"
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Sie müssen Kodi neustarten bevor Sie Quasar benutzen können"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Sie müssen Kodi neustarten bevor Sie Elementum benutzen können"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Dieses Add-on kann nur innerhalb von Quasar verwendet werden"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Dieses Add-on kann nur innerhalb von Elementum verwendet werden"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Kann Quasar Binärdatei nicht finden"
+msgid "Unable to find Elementum binary"
+msgstr "Kann Elementum Binärdatei nicht finden"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -315,7 +315,7 @@ msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Download Pfad nicht angegeben, überprüfen Sie Ihre Einstellungen"
 
-# Quasar daemon
+# Elementum daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Speicher (Cache) geleert"
@@ -349,8 +349,8 @@ msgid "Not enough space available on the download path."
 msgstr "Nicht genügend Platz im Download Pfad"
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar Daemon gestartet"
+msgid "Elementum daemon has started"
+msgstr "Elementum Daemon gestartet"
 
 msgctxt "#30209"
 msgid "Search"
@@ -425,8 +425,8 @@ msgid "Daemon error"
 msgstr "Daemon Fehler"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Fehler beim Aktualisieren des Quasar Daemons"
+msgid "Error updating Elementum daemon"
+msgstr "Fehler beim Aktualisieren des Elementum Daemons"
 
 msgctxt "#30228"
 msgid "Available streams for"

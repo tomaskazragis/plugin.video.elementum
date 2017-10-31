@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -251,25 +251,25 @@ msgid "Username"
 msgstr "Όνομα χρήστη"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Εξουσιοδότηση Quasar"
+msgid "Authorize Elementum"
+msgstr "Εξουσιοδότηση Elementum"
 
 # Interface
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Το Quasar έχει κλείσει αναπάντεχα, γίνεται επανεκκίνηση..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Το Elementum έχει κλείσει αναπάντεχα, γίνεται επανεκκίνηση..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Απαιτείται η επανεκκίνηση του Kodi πριν από τη χρήση του Quasar"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Απαιτείται η επανεκκίνηση του Kodi πριν από τη χρήση του Elementum"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Το συγκεκριμένο πρόσθετο μπορεί να χρησιμοποιηθεί μόνο μέσα από το Quasar"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Το συγκεκριμένο πρόσθετο μπορεί να χρησιμοποιηθεί μόνο μέσα από το Elementum"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Δεν βρέθηκε το binary του Quasar"
+msgid "Unable to find Elementum binary"
+msgstr "Δεν βρέθηκε το binary του Elementum"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -311,7 +311,7 @@ msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Δεν έχει ορισθεί η διαδρομή λήψης, ελέγξτε τις ρυθμίσεις"
 
-# Quasar daemon
+# Elementum daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Έγινε εκκαθάριση της προσωρινής μνήμης"
@@ -345,8 +345,8 @@ msgid "Not enough space available on the download path."
 msgstr "Δεν υπάρχει ελεύθερος διαθέσιμος χώρος στη διαδρομή λήψης"
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Έγινε εκκίνηση του Quasar"
+msgid "Elementum daemon has started"
+msgstr "Έγινε εκκίνηση του Elementum"
 
 msgctxt "#30209"
 msgid "Search"
@@ -421,8 +421,8 @@ msgid "Daemon error"
 msgstr "Σφάλμα Daemon"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Πρόβλημα ενημέρωσης Quasar daemon"
+msgid "Error updating Elementum daemon"
+msgstr "Πρόβλημα ενημέρωσης Elementum daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"

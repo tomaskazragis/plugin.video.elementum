@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -253,8 +253,8 @@ msgid "Username"
 msgstr "Username"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Autorizzare Quasar"
+msgid "Authorize Elementum"
+msgstr "Autorizzare Elementum"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -376,20 +376,20 @@ msgstr "Chiedi se cancellare i file dopo lo streaming"
 # Interface
 
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar si è interrotto, sta riavviando..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum si è interrotto, sta riavviando..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Riavvia Kodi prima di usare Quasar"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Riavvia Kodi prima di usare Elementum"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Questo add-on funziona solo con Quasar avviato"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Questo add-on funziona solo con Elementum avviato"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Binario di Quasar non trovato"
+msgid "Unable to find Elementum binary"
+msgstr "Binario di Elementum non trovato"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -440,7 +440,7 @@ msgid "TV show scraper used by Kodi library"
 msgstr "TV scraper utilizzato dalla libreria"
 
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -475,8 +475,8 @@ msgid "Not enough space available on the download path."
 msgstr "Spazio nel percorso di archiviazione insufficiente."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar daemon si è avviato"
+msgid "Elementum daemon has started"
+msgstr "Elementum daemon si è avviato"
 
 msgctxt "#30209"
 msgid "Search"
@@ -551,8 +551,8 @@ msgid "Daemon error"
 msgstr "Errore del Daemon"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Errore aggiornamento Quasar daemon"
+msgid "Error updating Elementum daemon"
+msgstr "Errore aggiornamento Elementum daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"

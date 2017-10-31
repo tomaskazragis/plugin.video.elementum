@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 #, fuzzy
 msgid ""
@@ -252,8 +252,8 @@ msgid "Username"
 msgstr "Felhasználónév"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Quasar felhatalmazása"
+msgid "Authorize Elementum"
+msgstr "Elementum felhatalmazása"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -419,20 +419,20 @@ msgstr "Csak aktív torrenteknél"
 # Interface
 
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "A Quasar összeomlott, újraindítás..."
+msgid "Elementum has crashed, restarting..."
+msgstr "A Elementum összeomlott, újraindítás..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Kodi újraindítás szükséges a Quasar használata előtt"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Kodi újraindítás szükséges a Elementum használata előtt"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Ez a kiegészítő csupán a Quasaron keresztül futtatható"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Ez a kiegészítő csupán a Elementumon keresztül futtatható"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary[CR]Required platform:"
-msgstr "Nem sikerült megtalálni a Quasar binárist[CR]Elvárt platform:"
+msgid "Unable to find Elementum binary[CR]Required platform:"
+msgstr "Nem sikerült megtalálni a Elementum binárist[CR]Elvárt platform:"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -483,8 +483,8 @@ msgid "TV show scraper used by Kodi library"
 msgstr "Sorozat scrappelése Kodin keresztül"
 
 msgctxt "#30116"
-msgid "Looks like Quasar is still starting up, give it a few seconds..."
-msgstr "Úgy tűnik, hogy a Quasar éppen elindulni készül, kérem várjon pár másodpercet..."
+msgid "Looks like Elementum is still starting up, give it a few seconds..."
+msgstr "Úgy tűnik, hogy a Elementum éppen elindulni készül, kérem várjon pár másodpercet..."
 
 msgctxt "#30117"
 msgid "Resolving torrent files..."
@@ -495,8 +495,8 @@ msgid "Scraping trackers..."
 msgstr "Trackerek scrappelése..."
 
 msgctxt "#30141"
-msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
-msgstr "Kérjük támogassa a Quasar fejlesztését a https://quasar.surge.sh/donate oldal meglátogatásával"
+msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
+msgstr "Kérjük támogassa a Elementum fejlesztését a https://quasar.surge.sh/donate oldal meglátogatásával"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
@@ -535,7 +535,7 @@ msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application cont
 msgstr "JSON-RPC csatlakozás a Kodihoz nem lehetséges.[CR]Engedélyezze mindkét applikáció irányító opciót a Szolgáltatásbeállítások / Vezérlés menüpont alatt, majd indítsa újra a Kodit!"
 
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -570,8 +570,8 @@ msgid "Not enough space available on the download path."
 msgstr "Nincs elég szabad hely a letöltési útvonal alatt."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "A Quasar daemon elindult"
+msgid "Elementum daemon has started"
+msgstr "A Elementum daemon elindult"
 
 msgctxt "#30209"
 msgid "Search"
@@ -646,8 +646,8 @@ msgid "Daemon error"
 msgstr "Daemon hiba"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Hiba a Quasar daemon frissítése során"
+msgid "Error updating Elementum daemon"
+msgstr "Hiba a Elementum daemon frissítése során"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -822,16 +822,16 @@ msgid "Match found in your active torrents, play it?"
 msgstr "Találat az aktív torrentjei közt, le szeretné játszani?"
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr "Megjelent egy hivatalos multi-kiszolgáló a Quasarhoz, a [COLOR FFFF6B00]Burst[/COLOR]. Szeretné most telepíteni?"
+msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Megjelent egy hivatalos multi-kiszolgáló a Elementumhoz, a [COLOR FFFF6B00]Burst[/COLOR]. Szeretné most telepíteni?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "Telepítés sikeres! Élvezze a Quasar [COLOR FFFF6B00]Burst[/COLOR]öt!"
+msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Telepítés sikeres! Élvezze a Elementum [COLOR FFFF6B00]Burst[/COLOR]öt!"
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
-msgstr "Ajjaj... Úgy tűnik, hogy nem sikerült a [COLOR FFFF6B00]Burst[/COLOR] automatikus telepítése. Kérem látogasson el a Quasar Repositoryhoz, majd a Program kiegészítők szekcióból telepítse kézzel!"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
+msgstr "Ajjaj... Úgy tűnik, hogy nem sikerült a [COLOR FFFF6B00]Burst[/COLOR] automatikus telepítése. Kérem látogasson el a Elementum Repositoryhoz, majd a Program kiegészítők szekcióból telepítse kézzel!"
 
 msgctxt "#30274"
 msgid "Enable all"
@@ -866,8 +866,8 @@ msgid "List added to library"
 msgstr "Lista hozzáadva a könyvtárához"
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Quasar"
-msgstr "Nem maradt más eltávolítható a Quasarból"
+msgid "Nothing left to remove from Elementum"
+msgstr "Nem maradt más eltávolítható a Elementumból"
 
 msgctxt "#30283"
 msgid "Merge to library"

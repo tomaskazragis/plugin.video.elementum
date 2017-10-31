@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 #, fuzzy
 msgid ""
@@ -253,7 +253,7 @@ msgid "Username"
 msgstr ""
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
+msgid "Authorize Elementum"
 msgstr ""
 
 msgctxt "#30059"
@@ -420,19 +420,19 @@ msgstr ""
 # Interface
 
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
+msgid "Elementum has crashed, restarting..."
 msgstr ""
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
+msgid "You must restart Kodi before using Elementum"
 msgstr ""
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
+msgid "This add-on can only be run from within Elementum"
 msgstr ""
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary[CR]Required platform:"
+msgid "Unable to find Elementum binary[CR]Required platform:"
 msgstr ""
 
 msgctxt "#30104"
@@ -484,7 +484,7 @@ msgid "TV show scraper used by Kodi library"
 msgstr ""
 
 msgctxt "#30116"
-msgid "Looks like Quasar is still starting up, give it a few seconds..."
+msgid "Looks like Elementum is still starting up, give it a few seconds..."
 msgstr ""
 
 msgctxt "#30117"
@@ -496,7 +496,7 @@ msgid "Scraping trackers..."
 msgstr ""
 
 msgctxt "#30141"
-msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
+msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
 msgstr ""
 
 msgctxt "#30142"
@@ -536,7 +536,7 @@ msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application cont
 msgstr ""
 
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -571,7 +571,7 @@ msgid "Not enough space available on the download path."
 msgstr ""
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
+msgid "Elementum daemon has started"
 msgstr ""
 
 msgctxt "#30209"
@@ -647,7 +647,7 @@ msgid "Daemon error"
 msgstr ""
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
+msgid "Error updating Elementum daemon"
 msgstr ""
 
 msgctxt "#30228"
@@ -823,15 +823,15 @@ msgid "Match found in your active torrents, play it?"
 msgstr ""
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
 msgstr ""
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
 msgstr ""
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
 msgstr ""
 
 msgctxt "#30274"
@@ -867,7 +867,7 @@ msgid "List added to library"
 msgstr ""
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Quasar"
+msgid "Nothing left to remove from Elementum"
 msgstr ""
 
 msgctxt "#30283"

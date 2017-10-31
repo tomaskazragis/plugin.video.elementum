@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -252,8 +252,8 @@ msgid "Username"
 msgstr "Nume"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Autorizează Quasar"
+msgid "Authorize Elementum"
+msgstr "Autorizează Elementum"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -385,20 +385,20 @@ msgstr "Timp răspuns în secunde"
 
 # Interface
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar a întâmpinat probleme, se repornește..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum a întâmpinat probleme, se repornește..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Este necesar să reporniți Kodi înainte de utilizarea Quasar"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Este necesar să reporniți Kodi înainte de utilizarea Elementum"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Acesta extensie poate fi rulată doar din Quasar"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Acesta extensie poate fi rulată doar din Elementum"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Nu se găsește binarul Quasar"
+msgid "Unable to find Elementum binary"
+msgstr "Nu se găsește binarul Elementum"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -440,7 +440,7 @@ msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Calea pentru descărcare nu a fost setata, verificați setările"
 
-# Quasar daemon
+# Elementum daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Cache-ul a fost șters"
@@ -474,8 +474,8 @@ msgid "Not enough space available on the download path."
 msgstr "Loc insuficient în calea pentru descărcare"
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Serviciul Quasar a pornit"
+msgid "Elementum daemon has started"
+msgstr "Serviciul Elementum a pornit"
 
 msgctxt "#30209"
 msgid "Search"
@@ -550,8 +550,8 @@ msgid "Daemon error"
 msgstr "Eroare serviciu"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Eroare în actualizarea serviciului Quasar"
+msgid "Error updating Elementum daemon"
+msgstr "Eroare în actualizarea serviciului Elementum"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -727,26 +727,26 @@ msgstr "S-a găsit un fișier asemănător in torentele tale active, îl redau?"
 
 msgctxt "#30271"
 msgid ""
-"There is now an official multi-provider for Quasar called [COLOR "
+"There is now an official multi-provider for Elementum called [COLOR "
 "FFFF6B00]Burst[/COLOR], would you like to install it now?"
 msgstr ""
-"Există un multi furnizor oficial pentru Quasar numit  [COLOR "
+"Există un multi furnizor oficial pentru Elementum numit  [COLOR "
 "FFFF6B00]Burst[/COLOR], vrei să-l instalezi acum?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
 msgstr ""
-"Instalarea s-a efectuat cu succes, bucură-te de Quasar [COLOR "
+"Instalarea s-a efectuat cu succes, bucură-te de Elementum [COLOR "
 "FFFF6B00]Burst[/COLOR] !"
 
 msgctxt "#30273"
 msgid ""
 "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] "
-"automatically, head over to the Quasar Repository, then under the Program "
+"automatically, head over to the Elementum Repository, then under the Program "
 "add-ons section to install it."
 msgstr ""
 "Opa... Se pare ca nu s-a putut instala [COLOR FFFF6B00]Burst[/COLOR] "
-"automat. Instalează-l manual din Repository-ul Quasar, secțiunea Program "
+"automat. Instalează-l manual din Repository-ul Elementum, secțiunea Program "
 "add-ons"
 
 msgctxt "#30274"

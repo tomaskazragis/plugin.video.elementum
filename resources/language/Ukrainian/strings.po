@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -249,7 +249,7 @@ msgid "Username"
 msgstr "Користувач"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
+msgid "Authorize Elementum"
 msgstr "Авторизувати Trakt"
 
 msgctxt "#30059"
@@ -394,20 +394,20 @@ msgstr "Режим 'Не турбувати'"
 
 # Interface
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
+msgid "Elementum has crashed, restarting..."
 msgstr "Упс, перезапуск..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
+msgid "You must restart Kodi before using Elementum"
 msgstr "Перезапустіть Kodi"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Це доповнення можна запустити тілько через Quasar"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Це доповнення можна запустити тілько через Elementum"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary[CR]Required platform:"
-msgstr "Quasar binary не знайдений[CR]Необхідна платформа:"
+msgid "Unable to find Elementum binary[CR]Required platform:"
+msgstr "Elementum binary не знайдений[CR]Необхідна платформа:"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -458,8 +458,8 @@ msgid "TV show scraper used by Kodi library"
 msgstr "Скреппер для Серіалів, в користуванні библиотеки Kodi"
 
 msgctxt "#30116"
-msgid "Looks like Quasar is still starting up, give it a few seconds..."
-msgstr "Схоже Quasar ще стартує, зачекайте ще декілька секунд..."
+msgid "Looks like Elementum is still starting up, give it a few seconds..."
+msgstr "Схоже Elementum ще стартує, зачекайте ще декілька секунд..."
 
 msgctxt "#30117"
 msgid "Resolving torrent files..."
@@ -470,8 +470,8 @@ msgid "Scraping trackers..."
 msgstr "Скануємо трекери..."
 
 msgctxt "#30141"
-msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
-msgstr "Будь ласка, підтримайте розробку Quasar відвідуванням https://quasar.surge.sh/donate"
+msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
+msgstr "Будь ласка, підтримайте розробку Elementum відвідуванням https://quasar.surge.sh/donate"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
@@ -507,7 +507,7 @@ msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application cont
 msgstr "Нема доступного з'єднання JSON-RPC.[CR]Увімкніть обидві опції Контроль приложения "
 "в розділі Сервисні налаштування / Управління і перезапустіть Kodi"
 
-# Quasar daemon
+# Elementum daemon
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Кеш очищений"
@@ -541,8 +541,8 @@ msgid "Not enough space available on the download path."
 msgstr "Недостатньо місця в папці для завантажень."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar запустився"
+msgid "Elementum daemon has started"
+msgstr "Elementum запустився"
 
 msgctxt "#30209"
 msgid "Search"
@@ -614,11 +614,11 @@ msgstr "Помилка навігації"
 
 msgctxt "#30226"
 msgid "Daemon error"
-msgstr "Помилка Quasar daemon"
+msgstr "Помилка Elementum daemon"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Помилка оновлення Quasar daemon"
+msgid "Error updating Elementum daemon"
+msgstr "Помилка оновлення Elementum daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -793,21 +793,21 @@ msgid "Match found in your active torrents, play it?"
 msgstr "Знайдено співпадіння в ваших активних торрентах, переглянути його?"
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Quasar called [COLOR "
+msgid "There is now an official multi-provider for Elementum called [COLOR "
 "FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr "Зараз є офіційний мульти-провайдер для Quasar під назвою [COLOR "
+msgstr "Зараз є офіційний мульти-провайдер для Elementum під назвою [COLOR "
 "FFFF6B00]Burst[/COLOR], хочете завантажити його?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "Встановлювання пройшло успішно, насолоджуйтесь Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Встановлювання пройшло успішно, насолоджуйтесь Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
 
 msgctxt "#30273"
 msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] "
-"automatically, head over to the Quasar Repository, then under the Program "
+"automatically, head over to the Elementum Repository, then under the Program "
 "add-ons section to install it."
 msgstr "Схоже ми не змогли встановити [COLOR FFFF6B00]Burst[/COLOR] автоматично, "
-"пройдіть в Репозиторій Quasar, в Доповненнях - Встановити з репозиторія для ручного встановлення."
+"пройдіть в Репозиторій Elementum, в Доповненнях - Встановити з репозиторія для ручного встановлення."
 
 msgctxt "#30274"
 msgid "Enable all"
@@ -846,8 +846,8 @@ msgid "List added to library"
 msgstr "Список доданий в бібліотеку"
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Quasar"
-msgstr "Ничого видаляти з Quasar"
+msgid "Nothing left to remove from Elementum"
+msgstr "Ничого видаляти з Elementum"
 
 msgctxt "#30283"
 msgid "Merge to library"

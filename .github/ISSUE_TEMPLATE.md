@@ -38,7 +38,7 @@
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 * Version used:
-<!--- Which version of Quasar are you using? -->
+<!--- Which version of Elementum are you using? -->
 * Environment name and version:
 <!--- Which Kodi version (16 [Jarvis] or 17 [Krypton]) and OS, eg. SPMC, OSMC, OpenELEC, LibreELEC, etc. -->
 * Operating System and version:

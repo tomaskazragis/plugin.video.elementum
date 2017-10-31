@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -138,20 +138,20 @@ msgstr "Frecuencia para grabar sesiones (segundos)"
 # Interface
 
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar se ha cerrado insperadamente, reiniciando..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum se ha cerrado insperadamente, reiniciando..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Debe reiniciar Kodi antes de usar Quasar"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Debe reiniciar Kodi antes de usar Elementum"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Este complemento solo puede ser utilizado desde Quasar"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Este complemento solo puede ser utilizado desde Elementum"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "No se ha encontrado el binario de Quasar"
+msgid "Unable to find Elementum binary"
+msgstr "No se ha encontrado el binario de Elementum"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -177,7 +177,7 @@ msgctxt "#30109"
 msgid "OK"
 msgstr "OK"
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -212,8 +212,8 @@ msgid "Not enough space available on the download path."
 msgstr "No hay suficiente espacio disponible en la ruta de descarga."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar daemon ha iniciado"
+msgid "Elementum daemon has started"
+msgstr "Elementum daemon ha iniciado"
 
 msgctxt "#30209"
 msgid "Search"
@@ -288,8 +288,8 @@ msgid "Daemon error"
 msgstr "Error del daemon"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Error al actualizar Quasar daemon"
+msgid "Error updating Elementum daemon"
+msgstr "Error al actualizar Elementum daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"

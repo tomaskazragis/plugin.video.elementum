@@ -95,13 +95,13 @@
     <category label="30015">
         <!-- Advanced -->
         <setting label="30019" type="lsep" />
-        <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.quasar/cmd/clear_cache)" />
-        <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.quasar/library/update)" />
+        <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.elementum/cmd/clear_cache)" />
+        <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
         <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
         <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
         <setting id="library_auto_scan" type="bool" label="30089" default="true" />
         <setting label="30056" type="lsep" />
-        <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.quasar/trakt/authorize)" />
+        <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.elementum/trakt/authorize)" />
         <setting id="trakt_username" type="text" label="30057" default="" />
         <setting id="trakt_scrobble" type="bool" label="Scrobble" default="false" />
         <setting id="trakt_sync" label="30061" type="slider" option="int" range="0,1,24" default="0" />
@@ -111,7 +111,7 @@
         <setting label="CloudHole" type="lsep" />
         <setting id="use_cloudhole" type="bool" label="30240" default="false" />
         <setting id="cloudhole_key" type="text" label="30040" default="" />
-        <setting type="action" label="30264" action="RunPlugin(plugin://plugin.video.quasar/cmd/reset_clearances)" />
+        <setting type="action" label="30264" action="RunPlugin(plugin://plugin.video.elementum/cmd/reset_clearances)" />
         <setting label="30039" type="lsep" />
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
     </category>

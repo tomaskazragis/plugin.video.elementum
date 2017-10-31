@@ -1,14 +1,17 @@
-NAME = plugin.video.quasar
+NAME = plugin.video.elementum
 GIT = git
 GIT_VERSION = $(shell $(GIT) describe --always)
 VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" addon.xml)
 ARCHS = \
 	android_arm \
-	android_x64 \
+	android_arm64 \
 	android_x86 \
+	darwin_x86 \
 	darwin_x64 \
-	linux_arm \
-	linux_armv7 \
+	ios_arm64 \
+	ios_arm-7 \
+	linux_arm-6 \
+	linux_arm-7 \
 	linux_arm64 \
 	linux_x64 \
 	linux_x86 \

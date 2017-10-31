@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -252,8 +252,8 @@ msgid "Username"
 msgstr "Korisničko ime"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Autoriziraj Quasar"
+msgid "Authorize Elementum"
+msgstr "Autoriziraj Elementum"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -381,20 +381,20 @@ msgstr "Pitaj da izbrišeš datoteke nakon streamanja"
 
 # Interface
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar se srušio, ponovno pokrećem..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum se srušio, ponovno pokrećem..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Morate restartati Kodi prije korištenja Quasara"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Morate restartati Kodi prije korištenja Elementuma"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Ovaj add-on se može pokrenuti jedino iz Quasara"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Ovaj add-on se može pokrenuti jedino iz Elementuma"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Ne može se naći Quasarov binary"
+msgid "Unable to find Elementum binary"
+msgstr "Ne može se naći Elementumov binary"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -436,7 +436,7 @@ msgctxt "#30113"
 msgid "Download path not set, check your settings"
 msgstr "Lokacija skidanja nije određena, provjerite postavke"
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -471,8 +471,8 @@ msgid "Not enough space available on the download path."
 msgstr "Nema dovoljno mjesta na lokaciji skidanja."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar daemon je pokrenut"
+msgid "Elementum daemon has started"
+msgstr "Elementum daemon je pokrenut"
 
 msgctxt "#30209"
 msgid "Search"
@@ -547,8 +547,8 @@ msgid "Daemon error"
 msgstr "Greška Daemona"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Greška prilikom updatea Quasar daemona"
+msgid "Error updating Elementum daemon"
+msgstr "Greška prilikom updatea Elementum daemona"
 
 msgctxt "#30228"
 msgid "Available streams for"

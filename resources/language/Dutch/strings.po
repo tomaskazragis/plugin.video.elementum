@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -248,8 +248,8 @@ msgid "Username"
 msgstr "Gebruikersnaam"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Autoriseer Quasar"
+msgid "Authorize Elementum"
+msgstr "Autoriseer Elementum"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -395,20 +395,20 @@ msgstr "Niet storen modus"
 # Interface
 
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar is gecrasht, opnieuw starten..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum is gecrasht, opnieuw starten..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Je moet Kodi opnieuw opstarten voordat je Quasar gebruikt"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Je moet Kodi opnieuw opstarten voordat je Elementum gebruikt"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Deze add-on kan alleen gebruikt worden door Quasar"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Deze add-on kan alleen gebruikt worden door Elementum"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Kan Quasar binary niet vinden"
+msgid "Unable to find Elementum binary"
+msgstr "Kan Elementum binary niet vinden"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -459,8 +459,8 @@ msgid "TV show scraper used by Kodi library"
 msgstr "Serie scraper gebruikt door Kodi bibliotheek"
 
 msgctxt "#30116"
-msgid "Looks like Quasar is still starting up, give it a few seconds..."
-msgstr "Quasar is nog aan het opstarten, even geduld..."
+msgid "Looks like Elementum is still starting up, give it a few seconds..."
+msgstr "Elementum is nog aan het opstarten, even geduld..."
 
 msgctxt "#30117"
 msgid "Resolving torrent files..."
@@ -471,8 +471,8 @@ msgid "Scraping trackers..."
 msgstr "Scraping trackers..."
 
 msgctxt "#30141"
-msgid "Please support Quasar development by visiting https://quasar.surge.sh/donate"
-msgstr "Doneer aan Quasar development door https://quasar.surge.sh/donte te bezoeken"
+msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
+msgstr "Doneer aan Elementum development door https://Elementum.surge.sh/donte te bezoeken"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
@@ -491,7 +491,7 @@ msgid "Default view for TV show genres"
 msgstr "Standaard weergave voor serie genres"
 
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -526,8 +526,8 @@ msgid "Not enough space available on the download path."
 msgstr "Niet genoeg ruimte beschikbaar in het download pad."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar daemon is gestart"
+msgid "Elementum daemon has started"
+msgstr "Elementum daemon is gestart"
 
 msgctxt "#30209"
 msgid "Search"
@@ -602,8 +602,8 @@ msgid "Daemon error"
 msgstr "Daemon error"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Fout tijdens updaten van Quasar daemon"
+msgid "Error updating Elementum daemon"
+msgstr "Fout tijdens updaten van Elementum daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -778,16 +778,16 @@ msgid "Match found in your active torrents, play it?"
 msgstr "Match gevonden in uw actieve torrents, wilt u deze afspelen?"
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr "Er is nu een officiele multi-provider voor Quasar genaamd [COLOR FFFF6B00]Burst[/COLOR], wilt u deze nu installeren?"
+msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Er is nu een officiele multi-provider voor Elementum genaamd [COLOR FFFF6B00]Burst[/COLOR], wilt u deze nu installeren?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "Installatie succesvol, veel plezier met het gebruik van Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Installatie succesvol, veel plezier met het gebruik van Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
-msgstr "Het is niet gelukt Quasar [COLOR FFFF6B00]Burst[/COLOR] automatisch te installeren, ga naar de Quasar Repository. Via programma add-ons kunt u het installeren"
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
+msgstr "Het is niet gelukt Elementum [COLOR FFFF6B00]Burst[/COLOR] automatisch te installeren, ga naar de Elementum Repository. Via programma add-ons kunt u het installeren"
 
 msgctxt "#30274"
 msgid "Enable all"
@@ -822,8 +822,8 @@ msgid "List added to library"
 msgstr "Lijst toegevoegd aan bibliotheek"
 
 msgctxt "#30282"
-msgid "Nothing left to remove from Quasar"
-msgstr "Niks over om te verwijderen van Quasar"
+msgid "Nothing left to remove from Elementum"
+msgstr "Niks over om te verwijderen van Elementum"
 
 msgctxt "#30283"
 msgid "Merge to library"

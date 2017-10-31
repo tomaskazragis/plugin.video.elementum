@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -139,20 +139,20 @@ msgstr "Frekvencia ukladania relácie (seconds)"
 # Interface
 
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar spadol, reštartovanie..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum spadol, reštartovanie..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
+msgid "You must restart Kodi before using Elementum"
 msgstr "Prosím reštartujte Kodi pred spustením Qualsara"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Tento doplnok je možné spustiť len cez Quasar"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Tento doplnok je možné spustiť len cez Elementum"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Quasar binary nenájdený"
+msgid "Unable to find Elementum binary"
+msgstr "Elementum binary nenájdený"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -178,7 +178,7 @@ msgctxt "#30109"
 msgid "OK"
 msgstr "Potvrdiť"
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -213,8 +213,8 @@ msgid "Not enough space available on the download path."
 msgstr "Nedostatok miesta pre uloženie ."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar daemon sa práve spustil"
+msgid "Elementum daemon has started"
+msgstr "Elementum daemon sa práve spustil"
 
 msgctxt "#30209"
 msgid "Search"
@@ -289,8 +289,8 @@ msgid "Daemon error"
 msgstr "Chyba daemona "
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Chyba updatovania Quasar daemona"
+msgid "Error updating Elementum daemon"
+msgstr "Chyba updatovania Elementum daemona"
 
 msgctxt "#30228"
 msgid "Available streams for"

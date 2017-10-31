@@ -1,7 +1,7 @@
 # Kodi Media Center language file
-# Addon Name: Quasar
-# Addon id: plugin.video.quasar
-# Addon Provider: scakemyer
+# Addon Name: Elementum
+# Addon id: plugin.video.elementum
+# Addon Provider: elgatito
 #
 msgid ""
 msgstr ""
@@ -249,8 +249,8 @@ msgid "Username"
 msgstr "Utilizador"
 
 msgctxt "#30058"
-msgid "Authorize Quasar"
-msgstr "Autorizar Quasar"
+msgid "Authorize Elementum"
+msgstr "Autorizar Elementum"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
@@ -384,20 +384,20 @@ msgstr "Timeout de buffering inicial (segundos)"
 # Interface
 
 msgctxt "#30100"
-msgid "Quasar has crashed, restarting..."
-msgstr "Quasar fechou de forma inesperada, a reiniciar..."
+msgid "Elementum has crashed, restarting..."
+msgstr "Elementum fechou de forma inesperada, a reiniciar..."
 
 msgctxt "#30101"
-msgid "You must restart Kodi before using Quasar"
-msgstr "Deve reiniciar o Kodi antes de usar o Quasar"
+msgid "You must restart Kodi before using Elementum"
+msgstr "Deve reiniciar o Kodi antes de usar o Elementum"
 
 msgctxt "#30102"
-msgid "This add-on can only be run from within Quasar"
-msgstr "Este addon apenas pode ser corrido pelo Quasar"
+msgid "This add-on can only be run from within Elementum"
+msgstr "Este addon apenas pode ser corrido pelo Elementum"
 
 msgctxt "#30103"
-msgid "Unable to find Quasar binary"
-msgstr "Binário do Quasar não encontrado"
+msgid "Unable to find Elementum binary"
+msgstr "Binário do Elementum não encontrado"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -440,7 +440,7 @@ msgid "Download path not set, check your settings"
 msgstr "Pasta de transferência não foi definida, verifique as configurações"
 
 
-# Quasar daemon
+# Elementum daemon
 
 msgctxt "#30200"
 msgid "Cache cleared"
@@ -475,8 +475,8 @@ msgid "Not enough space available on the download path."
 msgstr "Sem espaço disponível na pasta de transferência."
 
 msgctxt "#30208"
-msgid "Quasar daemon has started"
-msgstr "Quasar daemon foi iniciado"
+msgid "Elementum daemon has started"
+msgstr "Elementum daemon foi iniciado"
 
 msgctxt "#30209"
 msgid "Search"
@@ -551,8 +551,8 @@ msgid "Daemon error"
 msgstr "Erro do daemon"
 
 msgctxt "#30227"
-msgid "Error updating Quasar daemon"
-msgstr "Erro ao atualizar o Quasar daemon"
+msgid "Error updating Elementum daemon"
+msgstr "Erro ao atualizar o Elementum daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
@@ -727,16 +727,16 @@ msgid "Match found in your active torrents, play it?"
 msgstr "Correspondência encontrada nos torrents ativos, reproduzi-la?"
 
 msgctxt "#30271"
-msgid "There is now an official multi-provider for Quasar called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr "Há agora um multi-provedor oficial para o Quasar chamado [COLOR FFFF6B00]Burst[/COLOR], gostaria de o instalar agora?"
+msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
+msgstr "Há agora um multi-provedor oficial para o Elementum chamado [COLOR FFFF6B00]Burst[/COLOR], gostaria de o instalar agora?"
 
 msgctxt "#30272"
-msgid "Installation successful, enjoy Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "Instalação terminou com sucesso, desfrute do Quasar [COLOR FFFF6B00]Burst[/COLOR]!"
+msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "Instalação terminou com sucesso, desfrute do Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
 
 msgctxt "#30273"
-msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Quasar Repository, then under the Program add-ons section to install it."
-msgstr "Bolas... Parece que não conseguimos instalar o [COLOR FFFF6B00]Burst[/COLOR] automaticamente, dirija-se à secção Program add-ons no repositório do Quasar para o instalar."
+msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
+msgstr "Bolas... Parece que não conseguimos instalar o [COLOR FFFF6B00]Burst[/COLOR] automaticamente, dirija-se à secção Program add-ons no repositório do Elementum para o instalar."
 
 msgctxt "#30274"
 msgid "Enable all"
