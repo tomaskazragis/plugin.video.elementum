@@ -23,7 +23,7 @@
         <license>Non commercial. See https://github.com/elgatito/plugin.video.elementum/blob/master/LICENSE</license>
         <assets>
             <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <fanart></fanart>
             <screenshot>resources/screenshots/home.jpg</screenshot>
             <screenshot>resources/screenshots/movies.jpg</screenshot>
             <screenshot>resources/screenshots/webui.png</screenshot>
