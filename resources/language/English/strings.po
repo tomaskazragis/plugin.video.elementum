@@ -129,7 +129,7 @@ msgid "Connections limit"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Do not ask to keep downloading"
+msgid "Download after play was stopped"
 msgstr ""
 
 msgctxt "#30029"
@@ -971,4 +971,68 @@ msgstr ""
 
 msgctxt "#30308"
 msgid "Move completed"
+msgstr ""
+
+msgctxt "#30309"
+msgid "Keep"
+msgstr ""
+
+msgctxt "#30310"
+msgid "Ask to delete"
+msgstr ""
+
+msgctxt "#30311"
+msgid "Delete"
+msgstr ""
+
+msgctxt "#30312"
+msgid "Keep files for not finished video"
+msgstr ""
+
+msgctxt "#30313"
+msgid "Keep files for watched/downloaded video"
+msgstr ""
+
+msgctxt "#30314"
+msgid "Settings were not initialized.[CR]Save addon settings, then restart Kodi."
+msgstr ""
+
+msgctxt "#30315"
+msgid "Download storage type"
+msgstr ""
+
+msgctxt "#30316"
+msgid "File"
+msgstr ""
+
+msgctxt "#30317"
+msgid "Memory"
+msgstr ""
+
+msgctxt "#30318"
+msgid "Memory size to use for each torrent"
+msgstr ""
+
+msgctxt "#30319"
+msgid "Continue"
+msgstr ""
+
+msgctxt "#30320"
+msgid "Ask to stop"
+msgstr ""
+
+msgctxt "#30321"
+msgid "Stop"
+msgstr ""
+
+msgctxt "#30322"
+msgid "FAT32"
+msgstr ""
+
+msgctxt "#30323"
+msgid "New search"
+msgstr ""
+
+msgctxt "#30324"
+msgid "Force stream selection from settings"
 msgstr ""

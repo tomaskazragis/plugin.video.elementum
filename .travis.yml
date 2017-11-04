@@ -6,8 +6,10 @@ git:
   submodules: false
 
 before_install:
-  - git submodule init
-  - git submodule update --depth=22
+  - rm -rf plugin.video.elementum
+  - git clone https://github.com/elgatito/elementum-binaries.git resources/bin/
+  # - git submodule init
+  # - git submodule update --depth=22
 
 install:
   - pip install -r requirements.txt
@@ -41,5 +43,6 @@ deploy:
     - plugin.video.elementum-${TRAVIS_TAG:1}.windows_x64.zip
     - plugin.video.elementum-${TRAVIS_TAG:1}.windows_x86.zip
   skip_cleanup: true
+  overwrite: true
   on:
     tags: true

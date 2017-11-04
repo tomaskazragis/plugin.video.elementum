@@ -130,7 +130,7 @@ msgstr "Лимит подключений"
 
 msgctxt "#30028"
 msgid "Do not ask to keep downloading"
-msgstr "Не спрашивать продолжать скачивание"
+msgstr "Разрешить скачивание без просмотра"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"

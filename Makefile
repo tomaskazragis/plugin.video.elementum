@@ -1,6 +1,8 @@
 NAME = plugin.video.elementum
 GIT = git
 GIT_VERSION = $(shell $(GIT) describe --always)
+GIT_USER = elgatito
+GIT_REPOSITORY = plugin.video.elementum
 VERSION = $(shell sed -ne "s/.*version=\"\([0-9a-z\.\-]*\)\"\sprovider.*/\1/p" addon.xml)
 ARCHS = \
 	android_arm \
@@ -32,7 +34,7 @@ $(ZIP_FILE):
 	git archive --format zip --prefix $(NAME)/ --output $(ZIP_FILE) HEAD
 	mkdir -p $(NAME)/resources/bin
 	for arch in $(ARCHS); do \
-		ln -s `pwd`/resources/bin$(DEV)/$$arch $(NAME)/resources/bin/$$arch; \
+		cp -r `pwd`/$(DEV)/resources/bin/$$arch $(NAME)/resources/bin/$$arch; \
 		zip -9 -r -g $(ZIP_FILE) $(NAME)/resources/bin/$$arch; \
 	done
 	rm -rf $(NAME)
@@ -43,6 +45,32 @@ zipfiles: addon.xml
 	for arch in $(ARCHS); do \
 		$(MAKE) $$arch; \
 	done
+
+upload:
+	github-release release \
+		--user $(GIT_USER) \
+		--repo $(GIT_REPOSITORY) \
+		--tag v$(VERSION) \
+		--name "$(VERSION)" \
+		--description "$(VERSION)"
+
+	for arch in $(ARCHS); do \
+		github-release upload \
+			--user $(GIT_USER) \
+			--repo $(GIT_REPOSITORY) \
+			--replace \
+			--tag v$(VERSION) \
+			--file $(NAME)-$(VERSION).$$arch.zip \
+			--name $(NAME)-$(VERSION).$$arch.zip; \
+	done
+
+	github-release upload \
+		--user $(GIT_USER) \
+		--repo $(GIT_REPOSITORY) \
+		--replace \
+		--tag v$(VERSION) \
+		--file $(NAME)-$(VERSION).zip \
+		--name $(NAME)-$(VERSION).zip
 
 clean_arch:
 	 rm -f $(ZIP_FILE)
