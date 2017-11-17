@@ -749,8 +749,8 @@ msgid "Remove from collection"
 msgstr "Удалить из коллекции"
 
 msgctxt "#30260"
-msgid "A torrent was previously chosen, use it?"
-msgstr "Торрент был выбран перед этим, использовать его?"
+msgid "A torrent was previously chosen, use it?[CR]%s"
+msgstr "Торрент был выбран перед этим, использовать его?[CR]%s"
 
 msgctxt "#30261"
 msgid "Search history"

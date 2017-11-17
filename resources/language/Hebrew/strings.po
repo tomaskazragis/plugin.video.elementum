@@ -781,8 +781,8 @@ msgid "Remove from collection"
 msgstr "הסרה מהאוסף"
 
 msgctxt "#30260"
-msgid "A torrent was previously chosen, use it?"
-msgstr "הטורנט הזה כבר נבחר בעבר, האם להשתמש בו?"
+msgid "A torrent was previously chosen, use it?[CR]%s"
+msgstr "הטורנט הזה כבר נבחר בעבר, האם להשתמש בו?[CR]%s"
 
 msgctxt "#30261"
 msgid "Search history"

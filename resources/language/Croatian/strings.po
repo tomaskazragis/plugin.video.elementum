@@ -679,8 +679,8 @@ msgid "Remove from collection"
 msgstr "Ukloni iz kolekcije"
 
 msgctxt "#30260"
-msgid "A torrent was previously chosen, use it?"
-msgstr "Torrent je već izabran, da ga koristim?"
+msgid "A torrent was previously chosen, use it?[CR]%s"
+msgstr "Torrent je već izabran, da ga koristim?[CR]%s"
 
 msgctxt "#30261"
 msgid "Search history"

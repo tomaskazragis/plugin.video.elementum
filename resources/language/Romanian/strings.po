@@ -682,8 +682,8 @@ msgid "Remove from collection"
 msgstr "Șterge din colecție"
 
 msgctxt "#30260"
-msgid "A torrent was previously chosen, use it?"
-msgstr "Un torent a fost ales anterior, îl folosesc?"
+msgid "A torrent was previously chosen, use it?[CR]%s"
+msgstr "Un torent a fost ales anterior, îl folosesc?[CR]%s"
 
 msgctxt "#30261"
 msgid "Search history"

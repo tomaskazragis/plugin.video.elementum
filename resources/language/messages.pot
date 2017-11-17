@@ -779,7 +779,7 @@ msgid "Remove from collection"
 msgstr ""
 
 msgctxt "#30260"
-msgid "A torrent was previously chosen, use it?"
+msgid "A torrent was previously chosen, use it?[CR]%s"
 msgstr ""
 
 msgctxt "#30261"

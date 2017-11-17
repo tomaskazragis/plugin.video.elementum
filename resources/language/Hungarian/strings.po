@@ -778,8 +778,8 @@ msgid "Remove from collection"
 msgstr "Eltávolítás a gyűjteményből"
 
 msgctxt "#30260"
-msgid "A torrent was previously chosen, use it?"
-msgstr "Egy torrent előzőleg már ki lett választva, kívánja használni azt?"
+msgid "A torrent was previously chosen, use it?[CR]%s"
+msgstr "Egy torrent előzőleg már ki lett választva, kívánja használni azt?[CR]%s"
 
 msgctxt "#30261"
 msgid "Search history"
