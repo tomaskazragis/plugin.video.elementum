@@ -21,8 +21,8 @@ msgid "General"
 msgstr "Общие"
 
 msgctxt "#30001"
-msgid "Download path (not FAT32)"
-msgstr "Путь для загрузок (кроме FAT32)"
+msgid "Download path"
+msgstr "Путь для загрузок"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
@@ -30,7 +30,7 @@ msgstr "Сохранять файлы после просмотра"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
-msgstr "Размер буфера (МБ)"
+msgstr "Размер буфера перед просмотром (МБ)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
@@ -117,8 +117,8 @@ msgid "Get updates for pre-releases"
 msgstr "Получать обновления для пре-релизов"
 
 msgctxt "#30025"
-msgid "Limit rates after buffering only"
-msgstr "Ограничить скорость только после буферизации"
+msgid "Limit rates after initial buffering only"
+msgstr "Ограничить скорость только после начала просмотра"
 
 msgctxt "#30026"
 msgid "Library path"
@@ -129,8 +129,8 @@ msgid "Connections limit"
 msgstr "Лимит подключений"
 
 msgctxt "#30028"
-msgid "Do not ask to keep downloading"
-msgstr "Разрешить скачивание без просмотра"
+msgid "Download after play was stopped"
+msgstr "Продолжать скачивание после просмотра"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -182,7 +182,7 @@ msgstr "ключ API"
 
 msgctxt "#30041"
 msgid "Stream sorting"
-msgstr "Сортировка стримов"
+msgstr "Сортировка результатов"
 
 msgctxt "#30042"
 msgid "Sorting mode for Movies"
@@ -206,11 +206,11 @@ msgstr "баланс"
 
 msgctxt "#30047"
 msgid "Resolution preference for Movies"
-msgstr "Предпочтительное разрешение для фильмов"
+msgstr "Приоритет разрешений фильмов"
 
 msgctxt "#30048"
 msgid "Resolution preference for TV Shows"
-msgstr "Предпочтительное резрешение для сериалов"
+msgstr "Приоритет разрешений сериалов"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
@@ -370,7 +370,7 @@ msgstr "Спрашивать об удалении файлов после пр�
 
 msgctxt "#30088"
 msgid "Initial buffering timeout (seconds)"
-msgstr "Тайм-аут предварительной буфферизации (секунд)"
+msgstr "Тайм-аут пре-буфферизации (секунд)"
 
 msgctxt "#30089"
 msgid "Automatically re-scan Kodi library after updates"
@@ -391,6 +391,26 @@ msgstr "Использовать фанарт по-умолчанию"
 msgctxt "#30093"
 msgid "Do Not Disturb mode"
 msgstr "Режим 'Не беспокоить'"
+
+msgctxt "#30094"
+msgid "Disable background progress dialog"
+msgstr "Отключить окно прогресса в фоне"
+
+msgctxt "#30095"
+msgid "Sync watched progress with Kodi"
+msgstr "Сохранять прогресс просмотра"
+
+msgctxt "#30096"
+msgid "Never"
+msgstr "Никогда"
+
+msgctxt "#30097"
+msgid "Always"
+msgstr "Всегда"
+
+msgctxt "#30098"
+msgid "Active torrents only"
+msgstr "Только активные торренты"
 
 # Interface
 msgctxt "#30100"
@@ -455,7 +475,7 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "TV show scraper used by Kodi library"
-msgstr "Скреппер для Сериалов, используемый в библиотеке Kodi"
+msgstr "Скреппер для Сериалов в Kodi"
 
 msgctxt "#30116"
 msgid "Looks like Elementum is still starting up, give it a few seconds..."
@@ -925,18 +945,126 @@ msgctxt "#30300"
 msgid "All Premieres"
 msgstr "Все Премьеры"
 
-#~ msgctxt "#30021"
-#~ msgid "Enable pagination"
-#~ msgstr "Выводить фильмы и сериалы постранично"
+msgctxt "#30301"
+msgid "Move finished downloads to separate folders"
+msgstr "Переместить в другую папку после завершения"
 
-#~ msgctxt "#30028"
-#~ msgid "Background handling of torrents"
-#~ msgstr "Фоновая обработка торрентов"
+msgctxt "#30302"
+msgid "Files will only be moved after seeding is finished (see[CR]"
+"- BitTorrent settings), and will wait if currently playing"
+msgstr "Файлы будут перемещены после завершения сидирования,[CR]"
+"и после завершения просмотра"
 
-#~ msgctxt "#30219"
-#~ msgid "Add/Remove from library"
-#~ msgstr "Добавить/удалить с библиотеки"
+msgctxt "#30303"
+msgid "RAR archive detected. Download will need to be completed before"
+" playback can start and will require around twice the amount of"
+" space, continue?"
+msgstr ""
 
-#~ msgctxt "#30230"
-#~ msgid "Play/resume torrent"
-#~ msgstr "Играть/возобновить торрент"
+msgctxt "#30304"
+msgid "Error creating output pipe for 'unrar' command"
+msgstr ""
+
+msgctxt "#30305"
+msgid "Error starting 'unrar' command"
+msgstr ""
+
+msgctxt "#30306"
+msgid "Error waiting for 'unrar' command"
+msgstr ""
+
+msgctxt "#30307"
+msgid "Error reading from destination folder"
+msgstr "Ошибка чтения из папки назначения"
+
+msgctxt "#30308"
+msgid "Move completed"
+msgstr "Переместить завершенные"
+
+msgctxt "#30309"
+msgid "Keep"
+msgstr "Оставить"
+
+msgctxt "#30310"
+msgid "Ask to delete"
+msgstr "Спросить удалить"
+
+msgctxt "#30311"
+msgid "Delete"
+msgstr "Удалить"
+
+msgctxt "#30312"
+msgid "Keep files for not finished video"
+msgstr "Оставлять файлы для недосмотренных"
+
+msgctxt "#30313"
+msgid "Keep files for watched/downloaded video"
+msgstr "Оставлять файлы для просмотренных"
+
+msgctxt "#30314"
+msgid "Settings were not initialized.[CR]Save addon settings, then restart Kodi."
+msgstr "Настройки не сохранены[CR]Сохраните настройки плагина, потом перезагрузите Kodi."
+
+msgctxt "#30315"
+msgid "Download storage type"
+msgstr "Как сохранять торренты"
+
+msgctxt "#30316"
+msgid "Use files"
+msgstr "Использовать файлы"
+
+msgctxt "#30317"
+msgid "Use memory"
+msgstr "Использовать память"
+
+msgctxt "#30318"
+msgid "Memory size to use for each torrent (Mb)"
+msgstr "Размер памяти для каждого торрента (Мб)"
+
+msgctxt "#30319"
+msgid "Continue"
+msgstr "Продолжать"
+
+msgctxt "#30320"
+msgid "Ask to stop"
+msgstr "Спросить остановить"
+
+msgctxt "#30321"
+msgid "Stop"
+msgstr "Остановить"
+
+msgctxt "#30322"
+msgid "Use Fat32 files"
+msgstr "Использовать Fat32 файлы"
+
+msgctxt "#30323"
+msgid "New search"
+msgstr "Новый поиск"
+
+msgctxt "#30324"
+msgid "Force stream auto-selection from settings"
+msgstr "Использовать авто-выбор из настроек"
+
+msgctxt "#30325"
+msgid "Download"
+msgstr "Скачивание"
+
+msgctxt "#30326"
+msgid "Kodi library"
+msgstr "Библиотека Kodi"
+
+msgctxt "#30327"
+msgid "Storage"
+msgstr "Сохранение"
+
+msgctxt "#30328"
+msgid "Disable TCP"
+msgstr "Отключить TCP"
+
+msgctxt "#30329"
+msgid "Disable UTP"
+msgstr "Отключить UTP"
+
+msgctxt "#30330"
+msgid "Update Trakt"
+msgstr "Обновить Trakt"

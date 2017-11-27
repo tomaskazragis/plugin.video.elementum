@@ -21,7 +21,7 @@ msgid "General"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Download path (not FAT32)"
+msgid "Download path"
 msgstr ""
 
 msgctxt "#30002"
@@ -397,7 +397,7 @@ msgid "Disable background progress dialog"
 msgstr ""
 
 msgctxt "#30095"
-msgid "Resume playback from library integration"
+msgid "Sync watched progress with Kodi"
 msgstr ""
 
 msgctxt "#30096"
@@ -1002,15 +1002,15 @@ msgid "Download storage type"
 msgstr ""
 
 msgctxt "#30316"
-msgid "File"
+msgid "Use files"
 msgstr ""
 
 msgctxt "#30317"
-msgid "Memory"
+msgid "Use memory"
 msgstr ""
 
 msgctxt "#30318"
-msgid "Memory size to use for each torrent"
+msgid "Memory size to use for each torrent (Mb)"
 msgstr ""
 
 msgctxt "#30319"
@@ -1026,7 +1026,7 @@ msgid "Stop"
 msgstr ""
 
 msgctxt "#30322"
-msgid "FAT32"
+msgid "Use Fat32 files"
 msgstr ""
 
 msgctxt "#30323"
@@ -1034,5 +1034,29 @@ msgid "New search"
 msgstr ""
 
 msgctxt "#30324"
-msgid "Force stream selection from settings"
+msgid "Force stream auto-selection from settings"
+msgstr ""
+
+msgctxt "#30325"
+msgid "Download"
+msgstr ""
+
+msgctxt "#30326"
+msgid "Kodi library"
+msgstr ""
+
+msgctxt "#30327"
+msgid "Storage"
+msgstr ""
+
+msgctxt "#30328"
+msgid "Disable TCP"
+msgstr ""
+
+msgctxt "#30329"
+msgid "Disable UTP"
+msgstr ""
+
+msgctxt "#30330"
+msgid "Update Trakt"
 msgstr ""

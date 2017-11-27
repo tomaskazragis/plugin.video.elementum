@@ -129,8 +129,8 @@ msgid "Connections limit"
 msgstr "Ліміт підключень"
 
 msgctxt "#30028"
-msgid "Do not ask to keep downloading"
-msgstr "Не запитувати продовжувати завантаження"
+msgid "Download after play was stopped"
+msgstr "Продовжувати завантаження пiсля завершення перегляду"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
