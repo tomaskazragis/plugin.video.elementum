@@ -1068,3 +1068,7 @@ msgstr "Отключить UTP"
 msgctxt "#30330"
 msgid "Update Trakt"
 msgstr "Обновить Trakt"
+
+msgctxt "#30331"
+msgid "MMap File"
+msgstr "Использовать MMap файл"

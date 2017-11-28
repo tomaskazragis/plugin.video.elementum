@@ -3,7 +3,7 @@
     <category label="30000">
         <!-- Storage -->
         <setting label="30327" type="lsep" />
-        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317|30322" default="0" />
+        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317|30322|30331" default="0" />
           <setting id="memory_size" label="30318" type="number" default="100" subsetting="true" visible="eq(-1,1)" />
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
