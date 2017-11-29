@@ -47,12 +47,15 @@ zipfiles: addon.xml
 	done
 
 upload:
+	$(eval EXISTS := $(shell github-release info --user $(GIT_USER) --repo $(GIT_REPOSITORY) --tag v$(VERSION) 1>&2 2>/dev/null; echo $$?))
+ifeq ($(EXISTS),1)
 	github-release release \
 		--user $(GIT_USER) \
 		--repo $(GIT_REPOSITORY) \
 		--tag v$(VERSION) \
 		--name "$(VERSION)" \
 		--description "$(VERSION)"
+endif
 
 	for arch in $(ARCHS); do \
 		github-release upload \
