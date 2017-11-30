@@ -1072,3 +1072,7 @@ msgstr "Обновить Trakt"
 msgctxt "#30331"
 msgid "MMap File"
 msgstr "Использовать MMap файл"
+
+msgctxt "#30332"
+msgid "Reloading configuration..."
+msgstr "Перезапускаем плагин..."

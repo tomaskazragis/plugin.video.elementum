@@ -1068,3 +1068,7 @@ msgstr ""
 msgctxt "#30331"
 msgid "MMap File"
 msgstr ""
+
+msgctxt "#30332"
+msgid "Reloading configuration..."
+msgstr ""
