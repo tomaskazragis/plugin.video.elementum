@@ -6,7 +6,7 @@ What it is
 ----------
 Elementum is a torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted add-ons (called providers) that are installed separately. They are normal Kodi add-ons, and thus can be installed/updated/distributed just like any other add-on.
 
-This project is a fork of Quasar, created by [scakemyer](https://github.com/scakemyer/plugin.video.quasar), which came fro the well known, but no longer maintained Pulsar project from [steeve](https://github.com/steeve/plugin.video.pulsar).
+This project is a fork of Quasar, created by [scakemyer](https://github.com/scakemyer/plugin.video.quasar), which came from the well known, but no longer maintained Pulsar project from [steeve](https://github.com/steeve/plugin.video.pulsar).
 Thanks, guys, for your titanic work!
 
 Supported platforms
