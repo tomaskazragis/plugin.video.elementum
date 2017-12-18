@@ -337,7 +337,7 @@ msgstr "Episodios Recientes"
 
 msgctxt "#30239"
 msgid "Providers"
-msgstr "Proovedores"
+msgstr "Proveedores"
 
 msgctxt "#30240"
 msgid "Enable"
@@ -353,11 +353,11 @@ msgstr "Chequear"
 
 msgctxt "#30243"
 msgid "Provider failures"
-msgstr "Fallas de Proovedor"
+msgstr "Fallas de Proveedor"
 
 msgctxt "#30244"
 msgid "Provider settings"
-msgstr "Configuracion de Proovedores"
+msgstr "Configuracion de Proveedores"
 
 msgctxt "#30245"
 msgid "Popular on Trakt"
