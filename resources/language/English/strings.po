@@ -1068,3 +1068,7 @@ msgstr ""
 msgctxt "#30332"
 msgid "Reloading configuration..."
 msgstr ""
+
+msgctxt "#30333"
+msgid "Try to find other episodes in the torrent"
+msgstr ""

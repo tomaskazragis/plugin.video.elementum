@@ -1076,3 +1076,7 @@ msgstr "Использовать MMap файл"
 msgctxt "#30332"
 msgid "Reloading configuration..."
 msgstr "Перезапускаем плагин..."
+
+msgctxt "#30333"
+msgid "Try to find other episodes in the torrent"
+msgstr "Искать другие серии в торренте"

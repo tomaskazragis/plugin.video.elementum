@@ -19,6 +19,7 @@
           <setting id="completed_help" label="30302" type="text" enable="false" subsetting="true" visible="eq(-3,true)" />
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="force_link_type" type="bool" label="30324" default="false" />
+        <setting id="smart_episode_match" type="bool" label="30333" default="true" />
 
         <!-- Library -->
         <setting label="30326" type="lsep" />
