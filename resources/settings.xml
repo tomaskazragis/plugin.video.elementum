@@ -128,4 +128,9 @@
         <setting label="30039" type="lsep" />
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
     </category>
+    <category label="30334">
+        <!-- Quasar -->
+        <setting label="30335" type="lsep" />
+        <setting type="action" label="30336" action="RunPlugin(plugin://plugin.video.elementum/migrate/quasar)" />
+    </category>
 </settings>

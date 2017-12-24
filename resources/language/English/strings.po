@@ -1072,3 +1072,55 @@ msgstr ""
 msgctxt "#30333"
 msgid "Try to find other episodes in the torrent"
 msgstr ""
+
+msgctxt "#30334"
+msgid "Migration"
+msgstr ""
+
+msgctxt "#30335"
+msgid "Quasar"
+msgstr ""
+
+msgctxt "#30336"
+msgid "Run migration"
+msgstr ""
+
+msgctxt "#30337"
+msgid "This operation will change strm files and cleanup Quasar library![CR]Are you sure you want to do it?"
+msgstr ""
+
+msgctxt "#30338"
+msgid "Looking for Quasar database"
+msgstr ""
+
+msgctxt "#30339"
+msgid "Searching strm files"
+msgstr ""
+
+msgctxt "#30340"
+msgid "Performing strm migration"
+msgstr ""
+
+msgctxt "#30341"
+msgid "Performing database migration"
+msgstr ""
+
+msgctxt "#30342"
+msgid "Cannot find Quasar userdata directory"
+msgstr ""
+
+msgctxt "#30343"
+msgid "Cannot find Quasar settings.xml path"
+msgstr ""
+
+msgctxt "#30344"
+msgid "Cannot find Quasar library path"
+msgstr ""
+
+msgctxt "#30345"
+msgid "Successfully migrated items: %s"
+msgstr ""
+
+msgctxt "#30346"
+msgid "Could not migrate any item"
+msgstr ""
