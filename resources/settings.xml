@@ -5,6 +5,13 @@
         <setting label="30327" type="lsep" />
         <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317|30322|30331" default="0" />
           <setting id="memory_size" label="30318" type="number" default="100" subsetting="true" visible="eq(-1,1)" />
+
+          <setting type="text" label="30348" enable="false" visible="eq(-2,0)" />
+          <setting type="text" label="30349" enable="false" visible="eq(-3,1)" />
+          <setting type="text" label="30350" enable="false" visible="eq(-4,1)" />
+          <setting type="text" label="30351" enable="false" visible="eq(-5,2)" />
+          <setting type="text" label="30352" enable="false" visible="eq(-6,3)" />
+
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
 

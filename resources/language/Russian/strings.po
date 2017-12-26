@@ -1132,3 +1132,27 @@ msgstr "Удачно пенесено записей: %s"
 msgctxt "#30346"
 msgid "Could not migrate any item"
 msgstr "Не получилось перенести записи"
+
+msgctxt "#30347"
+msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
+msgstr "Не получилось найти файлы для архитектуры '%s'![CR]Попробуйте удалить дополнение, скачать и переустановить из большого архива zip."
+
+msgctxt "#30348"
+msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
+msgstr "Использовать обычные файлы для скачивания.[CR]Требуется наличие свободного места под целый файл!"
+
+msgctxt "#30349"
+msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
+msgstr "Использовать память устройства для скачивания частей торрента.[CR]Диск используется только для сохранения .torrent файлов."
+
+msgctxt "#30350"
+msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
+msgstr "Для 1гб устройств достаточно 100мб для хранения,[CR]200-250мб для устройств с большей памятью."
+
+msgctxt "#30351"
+msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
+msgstr "Как и с обычными файлами, но сохраняет как много мелких файлов.[CR]Для использования на FAT-32 файловых системах."
+
+msgctxt "#30352"
+msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
+msgstr "Как и с обычными файлами, но использует память[CR]для уменьшения операция с файловой системой. Экспериментальная версия!"
