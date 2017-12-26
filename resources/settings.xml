@@ -114,10 +114,10 @@
         <setting id="library_auto_scan" type="bool" label="30089" default="true" />
         <setting label="30056" type="lsep" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.elementum/trakt/authorize)" />
-        <setting id="trakt_username" type="text" label="30057" default="" />
         <setting id="trakt_scrobble" type="bool" label="Scrobble" default="false" />
         <setting id="trakt_sync" label="30061" type="slider" option="int" range="0,1,24" default="0" />
         <setting id="trakt_token" type="text" label="Trakt token" default="" visible="false" />
+        <setting id="trakt_username" type="text" label="30057" default="" enable="false" visible="!eq(-1,'')" />
         <setting type="action" label="30330" action="RunPlugin(plugin://plugin.video.elementum/trakt/update)" />
         <setting id="trakt_refresh_token" type="text" label="Trakt refresh token" default="" visible="false" />
         <setting id="trakt_token_expiry" type="number" label="Trakt token expiry" default="0" visible="false" />
