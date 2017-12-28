@@ -317,8 +317,8 @@ msgid "Spoof user agent (highly inadvisable)"
 msgstr ""
 
 msgctxt "#30075"
-msgid "Default from libtorrent (acceptable)"
-msgstr "По-умолчанию из libtorrent"
+msgid "Default advisable (acceptable)"
+msgstr "По-умолчанию рекоммендуемое"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
