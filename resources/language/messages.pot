@@ -1152,3 +1152,11 @@ msgstr ""
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
 msgstr ""
+
+msgctxt "#30353"
+msgid "Auto-assign network ports"
+msgstr ""
+
+msgctxt "#30354"
+msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
+msgstr ""

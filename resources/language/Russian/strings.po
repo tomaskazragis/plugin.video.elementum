@@ -1156,3 +1156,11 @@ msgstr "Как и с обычными файлами, но сохраняет к
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
 msgstr "Как и с обычными файлами, но использует память[CR]для уменьшения операция с файловой системой. Экспериментальная версия!"
+
+msgctxt "#30353"
+msgid "Auto-assign network ports"
+msgstr "Автоматически назначать сетевой порт"
+
+msgctxt "#30354"
+msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
+msgstr "Невозможно создать Торрент клиент. Пожалуйста, сообщите об ошибке в github с логом Kodi!"
