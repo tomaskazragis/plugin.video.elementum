@@ -1,0 +1,7 @@
+[COLOR springgreen]Elementum Addon changelog:[/COLOR]
+
+[COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
+
+[B][COLOR red]2087/01/09[/COLOR][/B]
+v0.0.26
+    - Added Changelog

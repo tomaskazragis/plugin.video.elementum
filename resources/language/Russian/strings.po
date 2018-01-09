@@ -1164,3 +1164,7 @@ msgstr "Автоматически назначать сетевой порт"
 msgctxt "#30354"
 msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
 msgstr "Невозможно создать Торрент клиент. Пожалуйста, сообщите об ошибке в github с логом Kodi!"
+
+msgctxt "#30355"
+msgid "Changelog"
+msgstr "Изменения"

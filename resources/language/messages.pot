@@ -1160,3 +1160,7 @@ msgstr ""
 msgctxt "#30354"
 msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
 msgstr ""
+
+msgctxt "#30355"
+msgid "Changelog"
+msgstr ""
