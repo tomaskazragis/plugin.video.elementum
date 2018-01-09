@@ -1,7 +1,13 @@
-[COLOR springgreen]Elementum Addon changelog:[/COLOR]
+[COLOR springgreen]Elementum:[/COLOR]
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
-[B][COLOR red]2087/01/09[/COLOR][/B]
-v0.0.26
+[B][COLOR red]v0.0.26[/COLOR][/B]
     - Added Changelog
+    - Caching moved to the database
+    - Added proper OS signal handling
+    - Fixed not-removed files after torrent removed
+    - Fixed rate limiting for download/upload
+    - Seeding is not disabled by default
+    - New rate limiter in use
+    - Faster tmdb listings
