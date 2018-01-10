@@ -13,15 +13,15 @@ Supported platforms
 -------------------
 - Windows 32/64 bits
 - Linux 32/64 bits (starting Ubuntu 15.04)
-- Linux ARM (Raspberry Pi, Cubox i4Pro, etc)
-- OS X 64 bits
-- Android ARM (4.4.x, and later), x86, x64, ARM
+- Linux ARM (armv6, armv7, armv8)
+- OS X 32/64 bits
+- Android ARM (4.4.x, and later), x86, x64, ARM, ARM64
 
 Minimum supported Kodi version: 16 (Jarvis)
 
 Download
 --------
-See the [Releases](https://github.com/elgatito/plugin.video.elementum/releases) page. **Do NOT use the `Download ZIP` button on this page.**
+See the [Releases](http://elementum.surge.sh/) page. **Do NOT use the `Download ZIP` button on this page.**
 
 
 Installation
@@ -37,22 +37,14 @@ good thing because it's quite a complicated one with many dependencies and
 repositories. Here's the stack from top to bottom:
 
 - [elementum](https://github.com/elgatito/elementum) - The Elementum daemon itself, built on top of the cross-compiler
-- [cross-compiler](https://github.com/elgatito/cross-compiler) - Builds the base images to, you guessed it, cross-compile Elementum
+- [xgo](https://github.com/karalabe/xgo) - Docker images and utility to cross-compile Elementum binary for different platforms
 
 #### Build status of each project
-| elementum daemon | cross-compiler |
-| ---------------- | -------------- |
-| [![Build Status](https://travis-ci.org/elgatito/elementum.svg?branch=master)](https://travis-ci.org/elgatito/elementum) | [![Build Status](https://travis-ci.org/elgatito/cross-compiler.svg?branch=master)](https://travis-ci.org/elgatito/cross-compiler) |
+| elementum daemon |
+| ---------------- |
+| [![Build Status](https://travis-ci.org/elgatito/elementum.svg?branch=master)](https://travis-ci.org/elgatito/elementum) |
 
-There are different ways to build the Elementum daemon. You can either pull the different Docker images or build it all yourself. If you want to go for the latter, start by building the cross-compiler images, and come back to Elementum afterwards. There should be enough info in each of the projects to get you started, but you'll obviously have to dive into the code at some point.
-
-Since the whole build process is now automated, this repository is using [pre-built binaries](https://github.com/elgatito/elementum-binaries) from the last Elementum daemon build as a submodule. Here's how you'd build this add-on using those:
-```
-git clone https://github.com/elgatito/plugin.video.elementum
-cd plugin.video.elementum
-git submodule update --init
-make
-```
+For Developers' guide, please, refer to [Elementum website](http://elementum.surge.sh)
 
 How it works
 ------------
@@ -78,13 +70,6 @@ The BitTorrent streaming engine is very resilient (or at least it's designed to 
 Providers
 ---------
 As said before, Elementum **relies on providers to find streams**. Providers are easy to write, and can be as little as ~20 lines of Python code. As they are normal Kodi add-ons, which can have their own configuration (although it is not recommended because it complicates things).
-
-Sample Elementum provider: [https://github.com/scakemyer/script.quasar.dummy](https://github.com/scakemyer/script.quasar.dummy)
-
-Providers are given a max amount of time to run before Elementum considers them to be too slow. The timeouts are as follow:
-- 10 seconds on Intel CPUs
-- 20 seconds on multi-core ARM CPUs
-- 30 seconds on single core ARM CPUs (Raspberry Pi)
 
 Please note that for legal reasons, **I won't discuss, develop nor distribute any providers connecting to illegal sources**. So there is no need to ask me.
 While I can partake in general discussions regarding provider development, **I won't do so for illegal sources specific problems**.
