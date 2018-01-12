@@ -1164,3 +1164,7 @@ msgstr ""
 msgctxt "#30355"
 msgid "Changelog"
 msgstr ""
+
+msgctxt "#30356"
+msgid "Not enough free memory!"
+msgstr ""
