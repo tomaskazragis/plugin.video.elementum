@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.30[/COLOR][/B]
+    - Added unified watched status. TheMovieDB/Trakt lists can show Watched items, same with Kodi Library.
+
 [B][COLOR red]v0.0.29[/COLOR][/B]
     - Global changes to Library management
     - Trakt Watched items are synced to Kodi library
