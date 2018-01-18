@@ -170,7 +170,7 @@ msgstr "Вид по-умолчанию для эпизодов"
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
-msgstr "Только оригинальные названия"
+msgstr "Брать оригинальные названия для поиска"
 
 msgctxt "#30039"
 msgid "TheMovieDB"
@@ -1172,3 +1172,7 @@ msgstr "Изменения"
 msgctxt "#30356"
 msgid "Not enough free memory!"
 msgstr "Недостаточно свободной памяти!"
+
+msgctxt "#30357"
+msgid "Use Trakt information if available"
+msgstr "Использовать данные Trakt если доступны"

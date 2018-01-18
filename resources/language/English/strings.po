@@ -1164,3 +1164,7 @@ msgstr ""
 msgctxt "#30356"
 msgid "Not enough free memory!"
 msgstr ""
+
+msgctxt "#30357"
+msgid "Use Trakt information if available"
+msgstr ""
