@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.31[/COLOR][/B]
+    - Trakt lists now use TMDB data. Can be turned off in Settings > Appearance
+    - Not removing UTF characters from search payload.
+    - Smaller fixes to stability.
+
 [B][COLOR red]v0.0.30[/COLOR][/B]
     - Added unified watched status. TheMovieDB/Trakt lists can show Watched items, same with Kodi Library.
 
