@@ -1172,3 +1172,7 @@ msgstr ""
 msgctxt "#30357"
 msgid "Use Trakt information if available"
 msgstr ""
+
+msgctxt "#30358"
+msgid "Trakt update started"
+msgstr ""
