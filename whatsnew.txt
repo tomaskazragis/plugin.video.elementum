@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.33[/COLOR][/B]
+    - Re-Enabled seeding for memory storage.
+    - Fixed few bugs from github.
+
 [B][COLOR red]v0.0.31[/COLOR][/B]
     - Trakt lists now use TMDB data. Can be turned off in Settings > Appearance
     - Not removing UTF characters from search payload.
