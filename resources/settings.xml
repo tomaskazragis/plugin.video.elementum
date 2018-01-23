@@ -30,7 +30,7 @@
 
         <!-- Library -->
         <setting label="30326" type="lsep" />
-        <setting id="library_tv_scraper" label="30115" type="enum" lvalues="30114|30039|30056" />
+        <!-- TODO: Remove this usage -->
         <setting id="library_resume" label="30095" type="enum" lvalues="30096|30097|30098" default="2" />
         <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,30" default="9" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
