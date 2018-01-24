@@ -1172,3 +1172,7 @@ msgstr ""
 msgctxt "#30358"
 msgid "Trakt update started"
 msgstr ""
+
+msgctxt "#30359"
+msgid "Do not ask questions before playback"
+msgstr ""

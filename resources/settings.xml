@@ -24,14 +24,14 @@
           <setting id="completed_movies_path" type="folder" label="30214" source="auto" option="writeable" subsetting="true" visible="eq(-1,true)" />
           <setting id="completed_shows_path" type="folder" label="30215" source="auto" option="writeable" subsetting="true" visible="eq(-2,true)" />
           <setting id="completed_help" label="30302" type="text" enable="false" subsetting="true" visible="eq(-3,true)" />
+        <setting id="silent_stream_start" type="bool" label="30359" default="false" />
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="force_link_type" type="bool" label="30324" default="false" />
         <setting id="smart_episode_match" type="bool" label="30333" default="true" />
 
         <!-- Library -->
         <setting label="30326" type="lsep" />
-        <!-- TODO: Remove this usage -->
-        <setting id="library_resume" label="30095" type="enum" lvalues="30096|30097|30098" default="2" />
+        <setting id="play_resume" label="30095" type="bool" default="true" />
         <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,30" default="9" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
           <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" visible="eq(-1,true)" />

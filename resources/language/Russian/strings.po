@@ -1180,3 +1180,7 @@ msgstr "Использовать данные Trakt если доступны"
 msgctxt "#30358"
 msgid "Trakt update started"
 msgstr "Обновление Trakt запущено"
+
+msgctxt "#30359"
+msgid "Do not ask questions before playback"
+msgstr "Не спрашивать вопросы перед проигрыванием"
