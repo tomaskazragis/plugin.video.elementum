@@ -2,6 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.35[/COLOR][/B]
+    - Added Upnp/NAT support (is testing mode).
+    - Added Shows Progress page for Trakt.
+    - Movies/Shows menu reorganization and unification.
+    - Added Silent playback start setting to not ask for existing torrents and reusing old ones.
+
 [B][COLOR red]v0.0.33[/COLOR][/B]
     - Re-Enabled seeding for memory storage.
     - Fixed few bugs from github.
