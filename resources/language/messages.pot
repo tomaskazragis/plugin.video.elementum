@@ -1180,3 +1180,11 @@ msgstr ""
 msgctxt "#30359"
 msgid "Do not ask questions before playback"
 msgstr ""
+
+msgctxt "#30360"
+msgid "Progress"
+msgstr ""
+
+msgctxt "#30361"
+msgid "History"
+msgstr ""

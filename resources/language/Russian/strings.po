@@ -1184,3 +1184,11 @@ msgstr "Обновление Trakt запущено"
 msgctxt "#30359"
 msgid "Do not ask questions before playback"
 msgstr "Не спрашивать вопросы перед проигрыванием"
+
+msgctxt "#30360"
+msgid "Progress"
+msgstr "Прогресс"
+
+msgctxt "#30361"
+msgid "History"
+msgstr "История"
