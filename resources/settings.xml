@@ -72,7 +72,7 @@
         <setting id="disable_dht" label="30050" type="bool" default="false" />
         <setting id="disable_tcp" label="30328" type="bool" default="false" />
         <setting id="disable_utp" label="30329" type="bool" default="false" />
-        <!-- <setting id="disable_upnp" label="30063" type="bool" default="false" /> -->
+        <setting id="disable_upnp" label="30063" type="bool" default="false" />
         <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" />
         <setting id="listen_autodetect" label="30353" type="bool" default="true" />
         <setting id="listen_port_min" label="30006" type="number" default="6881" visible="eq(-1,false)" />
