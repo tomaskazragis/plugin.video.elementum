@@ -1192,3 +1192,27 @@ msgstr "Прогресс"
 msgctxt "#30361"
 msgid "History"
 msgstr "История"
+
+msgctxt "#30362"
+msgid "Synchronization"
+msgstr "Синхронизация"
+
+msgctxt "#30363"
+msgid "Sync items from collections into Kodi library"
+msgstr "Синхронизировать collections из Тракта в библиотеку"
+
+msgctxt "#30364"
+msgid "Sync items from watchlist into Kodi library"
+msgstr "Синхронизировать watchlist из Тракта в библиотеку"
+
+msgctxt "#30365"
+msgid "Sync items from user lists into Kodi library"
+msgstr "Синхронизировать user lists из Тракта в библиотеку"
+
+msgctxt "#30366"
+msgid "Sync watched states from Trakt into Kodi library"
+msgstr "Синхронизировать просмотренное в библиотеку"
+
+msgctxt "#30367"
+msgid "Sync back Kodi watched states into Trakt"
+msgstr "Синхронизировать в Тракт просмотренное из Коди"

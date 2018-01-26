@@ -1184,3 +1184,27 @@ msgstr ""
 msgctxt "#30361"
 msgid "History"
 msgstr ""
+
+msgctxt "#30362"
+msgid "Synchronization"
+msgstr ""
+
+msgctxt "#30363"
+msgid "Sync items from collections into Kodi library"
+msgstr ""
+
+msgctxt "#30364"
+msgid "Sync items from watchlist into Kodi library"
+msgstr ""
+
+msgctxt "#30365"
+msgid "Sync items from user lists into Kodi library"
+msgstr ""
+
+msgctxt "#30366"
+msgid "Sync watched states from Trakt into Kodi library"
+msgstr ""
+
+msgctxt "#30367"
+msgid "Sync back Kodi watched states into Trakt"
+msgstr ""
