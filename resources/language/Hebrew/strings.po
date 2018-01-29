@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-04-03 21:51+0300\n"
-"PO-Revision-Date: 2017-04-03 21:53+0300\n"
+"POT-Creation-Date: 2016-01-27 19:53+0200\n"
+"PO-Revision-Date: 2018-01-29 10:20+0200\n"
 "Last-Translator: Assaf Sapir <meijin007 AT gmail.com>, ShlomiD\n"
 "Language-Team: \n"
 "Language: he\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.11\n"
+"X-Generator: Poedit 2.0.6\n"
 
 # Settings
 msgctxt "#30000"
@@ -24,8 +24,8 @@ msgid "General"
 msgstr "כללי"
 
 msgctxt "#30001"
-msgid "Download path (not FAT32)"
-msgstr "נתיב הורדה (לא FAT32)"
+msgid "Download path"
+msgstr "נתיב הורדה"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
@@ -132,8 +132,8 @@ msgid "Connections limit"
 msgstr "הגבלת חיבורים"
 
 msgctxt "#30028"
-msgid "Do not ask to keep downloading"
-msgstr "לא לשאול האם להמשיך להוריד"
+msgid "Download after play was stopped"
+msgstr "הורדה לאחר עצירת הניגון"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -321,8 +321,8 @@ msgid "Spoof user agent (highly inadvisable)"
 msgstr "שינוי\tUser agent (מאוד לא מומלץ)"
 
 msgctxt "#30075"
-msgid "Default from libtorrent (acceptable)"
-msgstr "ברירת המחדל של libtorrent (סביר)"
+msgid "Default advisable (acceptable)"
+msgstr "ברירת המחדל המומלצת (רצוי)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -401,8 +401,8 @@ msgid "Disable background progress dialog"
 msgstr "כיבוי הצגת מצב ההתקדמות ברקע"
 
 msgctxt "#30095"
-msgid "Resume playback from library integration"
-msgstr "המשך צפיה באינטגרציה עם הספריה"
+msgid "Sync watched progress with Kodi"
+msgstr "סנכרון התקדמות צפייה עם קודי"
 
 msgctxt "#30096"
 msgid "Never"
@@ -451,7 +451,7 @@ msgstr "הכנסת כתובת אינטרנט"
 
 msgctxt "#30108"
 msgid "File path"
-msgstr "נתיב לקובץ "
+msgstr "נתיב לקובץ"
 
 msgctxt "#30109"
 msgid "OK"
@@ -488,16 +488,18 @@ msgstr "נראה כי Elementum עדיין בעליה, תנו לזה עוד כמ
 
 msgctxt "#30117"
 msgid "Resolving torrent files..."
-msgstr "מוצא קבצי טורנט"
+msgstr "מוצא קבצי טורנט..."
 
 msgctxt "#30118"
 msgid "Scraping trackers..."
-msgstr "מוצא טראקרים"
+msgstr "מוצא טראקרים..."
 
 msgctxt "#30141"
 msgid ""
-"Please support Elementum development by visiting https://quasar.surge.sh/donate"
-msgstr "תמכו בפיתוח של Elementum באמצעות ביקור ב־https://quasar.surge.sh/donate"
+"Please support Elementum development by visiting https://quasar.surge.sh/"
+"donate"
+msgstr ""
+"תמכו בפיתוח של Elementum באמצעות ביקור ב־https://quasar.surge.sh/donate"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
@@ -521,7 +523,7 @@ msgstr "האם להמשיך להוריד?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
-msgstr "עדיין טוען את הקאש, יש עוד דקה או שתיים"
+msgstr "עדיין טוען את הקאש, יש עוד דקה או שתיים..."
 
 msgctxt "#30148"
 msgid "Caches warmed up"
@@ -537,7 +539,7 @@ msgid ""
 "options in Service settings / Control and restart Kodi."
 msgstr ""
 "לא מצליח ליצור קישור JSON-RPC ל־Kodi.[CR]יש להפעיל את שתי האפשרויות לשליטה "
-"באפליקציה תחת הגדרות שירות / שליטה ולהפעיל את Kodi מחדש"
+"באפליקציה תחת הגדרות שירות / שליטה ולהפעיל את Kodi מחדש."
 
 # Elementum daemon
 msgctxt "#30200"
@@ -862,8 +864,8 @@ msgid ""
 "%s added to library, do you want to rescan it?[CR]You can later use Kodi's "
 "'Update library' feature instead."
 msgstr ""
-"%s נוסף לספריה. האם לסרוק אותה מחדש?[CR]אפשר להשתמש מאוחר יותר ב\"עדכון "
-"ספריה של קודי"
+"%s נוסף לספריה. האם לסרוק אותה מחדש?[CR]אפשר להשתמש מאוחר יותר ב\"עדכון ספריה"
+"\" של קודי."
 
 msgctxt "#30278"
 msgid ""
@@ -871,7 +873,7 @@ msgid ""
 "Kodi's 'Clean library' feature instead."
 msgstr ""
 "%s הוסרה מהספריה, האם לנקות אותה?[CR]אפשר להשתמש מאוחר יותר גם באפשרות "
-"המובנית בקודי \"ניקוי ספריה\""
+"המובנית בקודי \"ניקוי ספריה\"."
 
 msgctxt "#30279"
 msgid "Watchlist added to library"
@@ -907,7 +909,7 @@ msgid ""
 "'Update library' feature instead."
 msgstr ""
 "%s מוזגה לספריה, האם לסרוק אותה מחדש?[CR]אפשר גם להשתמש מאוחר יותר ב\"עדכון "
-"ספריה\" של קודי"
+"ספריה\" של קודי."
 
 msgctxt "#30287"
 msgid "%s already in library"
@@ -919,7 +921,7 @@ msgid ""
 "'Update library' feature instead."
 msgstr ""
 "הספריה עודכנה, האם לסרוק אותה מחדש?[CR]ניתן לעשות זאת מאוחר יותר באמצעות "
-"\"עדכון ספריה\" של קודי"
+"\"עדכון ספריה\" של קודי."
 
 msgctxt "#30289"
 msgid "Genres"
@@ -995,11 +997,11 @@ msgstr "שגיאה בעת יצירת פלט של הפקודה unrar"
 
 msgctxt "#30305"
 msgid "Error starting 'unrar' command"
-msgstr "שגיאה בהפעלת פקודת 'unrar'"
+msgstr "הפעלת 'unrar' גרמה לשגיאה"
 
 msgctxt "#30306"
 msgid "Error waiting for 'unrar' command"
-msgstr "לא נמצאה פקודת 'unrar'"
+msgstr "הפקודה 'unrar' לא נמצאה"
 
 msgctxt "#30307"
 msgid "Error reading from destination folder"
@@ -1008,6 +1010,281 @@ msgstr "שגיאה בקריאת תיקיית היעד"
 msgctxt "#30308"
 msgid "Move completed"
 msgstr "העברה הושלמה"
+
+msgctxt "#30309"
+msgid "Keep"
+msgstr "שמור"
+
+msgctxt "#30310"
+msgid "Ask to delete"
+msgstr "לשאול האם למחוק"
+
+msgctxt "#30311"
+msgid "Delete"
+msgstr "מחק"
+
+msgctxt "#30312"
+msgid "Keep files for not finished video"
+msgstr "שמירת הקבצים שטרם סיימת לראות"
+
+msgctxt "#30313"
+msgid "Keep files for watched/downloaded video"
+msgstr "שמירת הקבצים בסיום הצפיה/ההורדה"
+
+msgctxt "#30314"
+msgid ""
+"Settings were not initialized.[CR]Save addon settings, then restart Kodi."
+msgstr ""
+"הגדרות לא אותחלו.[CR] יש לשמור את ההגדרות ולאחר מכן להפעיל את קודי מחדש."
+
+msgctxt "#30315"
+msgid "Download storage type"
+msgstr "סוג אחסון להורדה"
+
+msgctxt "#30316"
+msgid "Use files"
+msgstr "קבצים בשימוש"
+
+msgctxt "#30317"
+msgid "Use memory"
+msgstr "זכרון בשימוש"
+
+msgctxt "#30318"
+msgid "Memory size to use for each torrent (Mb)"
+msgstr "כמות זיכרון לשימוש עבור כל טורנט (Mb)"
+
+msgctxt "#30319"
+msgid "Continue"
+msgstr "המשך"
+
+msgctxt "#30320"
+msgid "Ask to stop"
+msgstr "שאל האם לעצור"
+
+msgctxt "#30321"
+msgid "Stop"
+msgstr "עצור"
+
+msgctxt "#30322"
+msgid "Use Fat32 files"
+msgstr "שימוש במערכת קבצים Fat32"
+
+msgctxt "#30323"
+msgid "New search"
+msgstr "חיפוש חדש"
+
+msgctxt "#30324"
+msgid "Force stream auto-selection from settings"
+msgstr "תמיד לבצע בחירה אוטומטית של המקור מההגדרות"
+
+msgctxt "#30325"
+msgid "Download"
+msgstr "הורדה"
+
+msgctxt "#30326"
+msgid "Kodi library"
+msgstr "ספריית קודי"
+
+msgctxt "#30327"
+msgid "Storage"
+msgstr "אחסון"
+
+msgctxt "#30328"
+msgid "Disable TCP"
+msgstr "כיבוי TCP"
+
+msgctxt "#30329"
+msgid "Disable UTP"
+msgstr "כיבוי UDP"
+
+msgctxt "#30330"
+msgid "Update Trakt"
+msgstr "עדכון Trakt"
+
+msgctxt "#30331"
+msgid "MMap File"
+msgstr "קובץ MMap"
+
+msgctxt "#30332"
+msgid "Reloading configuration..."
+msgstr "טוען הגדרות מחדש..."
+
+msgctxt "#30333"
+msgid "Try to find other episodes in the torrent"
+msgstr "יש לנסות למצוא עוד פרקים בקובץ הטורנט"
+
+msgctxt "#30334"
+msgid "Migration"
+msgstr "הגירה"
+
+msgctxt "#30335"
+msgid "Quasar"
+msgstr "Quasar"
+
+msgctxt "#30336"
+msgid "Run migration"
+msgstr "הרצת הגירה"
+
+msgctxt "#30337"
+msgid ""
+"This operation will change strm files and cleanup Quasar library![CR]Are you "
+"sure you want to do it?"
+msgstr "הפעולה תשנה את קבצי strm ותנקה את ספריית Quasar![CR]האם להמשיך?"
+
+msgctxt "#30338"
+msgid "Looking for Quasar database"
+msgstr "מחפש מסד נתונים של Quasar"
+
+msgctxt "#30339"
+msgid "Searching strm files"
+msgstr "חיפוש קבצי strm"
+
+msgctxt "#30340"
+msgid "Performing strm migration"
+msgstr "מבצע הגירה לקבציי strm"
+
+msgctxt "#30341"
+msgid "Performing database migration"
+msgstr "מבצע הגירה למסד הנתונים"
+
+msgctxt "#30342"
+msgid "Cannot find Quasar userdata directory"
+msgstr "לא ניתן למצוא את ספריית userdata מ Quasar"
+
+msgctxt "#30343"
+msgid "Cannot find Quasar settings.xml path"
+msgstr "לא ניתן למצוא את הנתיב לקובץ settings.xml של Quasar"
+
+msgctxt "#30344"
+msgid "Cannot find Quasar library path"
+msgstr "לא ניתן למצוא את הנתיב לספריית Quasar"
+
+msgctxt "#30345"
+msgid "Successfully migrated items: %s"
+msgstr "בוצעה הגירה בהצלחה לפריטים: %s"
+
+msgctxt "#30346"
+msgid "Could not migrate any item"
+msgstr "לא ניתן לבצע הגירה לאף פריט"
+
+msgctxt "#30347"
+msgid ""
+"Could not find binary for architecture '%s'![CR]Try to uninstall this addon, "
+"re-download and re-install it from the biggest zip."
+msgstr ""
+"לא ניתן לצוא את קובץ ההרצה עבור ארכיטקטורת  '%s'![CR] יש לנסות להסיר את "
+"ההרחבה ולהוריד אותה מחדש מקובץ הזיפ הגדול ביותר."
+
+msgctxt "#30348"
+msgid ""
+"Create usual files on the file system and write to them.[CR]Needs selected "
+"file's full size to be available on the disk!"
+msgstr ""
+"יצירת קבצים מועילים במערכת הקבצים וכתיבה אליהם. [CR]יש צורך במקום פנוי כגדול "
+"הקובץ בדיסק!"
+
+msgctxt "#30349"
+msgid ""
+"Using device's memory to download parts of the torrent.[CR]Disk is used only "
+"to download and save .torrent file,"
+msgstr ""
+"שימוש בזיכרון המכשיר להורדת חלקי הקבוץ.[CR]הדיסק ישמש רק להורדה ושמירה של "
+"קבצי .torrent,"
+
+msgctxt "#30350"
+msgid ""
+"so can be any storage. For 1gb memory devices[CR]100mb is enough for memory "
+"storage, 200-250mb for bigger devices."
+msgstr ""
+"יכול להיות כל אחסון. למכישירים עם 1gb זיכרון[CR] 100 mb מספיקים, אחרת "
+"200-250mb."
+
+msgctxt "#30351"
+msgid ""
+"Same as for usual file storage, but splits file into many small files."
+"[CR]Should be used on FAT-32 file-systems."
+msgstr ""
+"זהה לאחסון קצבים רגיל, אבל מפצל את הקובץ לקבצים קטנים רבים.[CR]לשימוש במערכת "
+"קבצים FAT32."
+
+msgctxt "#30352"
+msgid ""
+"Same as for usual file storage, but using memory[CR]to lower filesystem "
+"operations. Experimental storage!"
+msgstr ""
+"זהה לאחסון קבצים רגיל, אבל שימוש בזיכרון[CR]עבור פעולות ברמה בסיסית. אחסון "
+"ניסויי!"
+
+msgctxt "#30353"
+msgid "Auto-assign network ports"
+msgstr "הקצאה אוטומטית של פורטים ברשת"
+
+msgctxt "#30354"
+msgid ""
+"Could not start Torrent client. Please report to github with the Kodi log "
+"file!"
+msgstr ""
+"לא ניתן להפעיל את קליינט ה Torrent. אנא התייעצו בגיטהאב בצירוף קבצי הלוג!"
+
+msgctxt "#30355"
+msgid "Changelog"
+msgstr "רשימת שינויים"
+
+msgctxt "#30356"
+msgid "Not enough free memory!"
+msgstr "אין מספיק זכרון פנוי!"
+
+msgctxt "#30357"
+msgid "Use Trakt information if available"
+msgstr "יש להשתמש במידע מ Trakt אם זמין"
+
+msgctxt "#30358"
+msgid "Trakt update started"
+msgstr "החל עדכון של Trakt"
+
+msgctxt "#30359"
+msgid "Do not ask questions before playback"
+msgstr "לא לשאול שאלות לפני תחילת הצפיה"
+
+msgctxt "#30360"
+msgid "Progress"
+msgstr "התקדמוץ"
+
+msgctxt "#30361"
+msgid "History"
+msgstr "היסטוריה"
+
+msgctxt "#30362"
+msgid "Synchronization"
+msgstr "סנכרון"
+
+msgctxt "#30363"
+msgid "Sync items from collections into Kodi library"
+msgstr "סנכרון פריטים מרשימות לספריית קודי"
+
+msgctxt "#30364"
+msgid "Sync items from watchlist into Kodi library"
+msgstr "סנכרון פריטים מרשימת צפייה לספריית קודי"
+
+msgctxt "#30365"
+msgid "Sync items from user lists into Kodi library"
+msgstr "סנכרון פריטים מרשימות משתמש לספריית קודי"
+
+msgctxt "#30366"
+msgid "Sync watched states from Trakt into Kodi library"
+msgstr "סנכרון מצב הצפייה מ Trakt לספריית קודי"
+
+msgctxt "#30367"
+msgid "Sync back Kodi watched states into Trakt"
+msgstr "סנכרון חזרה מקודי לTrakt"
+
+#~ msgctxt "#30028"
+#~ msgid "Do not ask to keep downloading"
+#~ msgstr "לא לשאול האם להמשיך להוריד"
+
+#~ msgctxt "#30095"
+#~ msgid "Resume playback from library integration"
+#~ msgstr "המשך צפיה באינטגרציה עם הספריה"
 
 #~ msgctxt "#30025"
 #~ msgid "Limit rates after buffering only"
