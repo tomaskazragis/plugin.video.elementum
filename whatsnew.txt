@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.38[/COLOR][/B]
+    - Fixing reported issues with the library management.
+    - Fixed searching non-english originated movies/shows.
+    - Updated Croatian and Hebrew languages. Thanks to @muzena and @meijin007.
+
 [B][COLOR red]v0.0.35[/COLOR][/B]
     - Added Upnp/NAT support (is testing mode).
     - Added Shows Progress page for Trakt.
