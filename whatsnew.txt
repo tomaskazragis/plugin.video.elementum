@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.39[/COLOR][/B]
+    - Added custom DNS resolvers (Using Google/Quad9/Opennic servers).
+
 [B][COLOR red]v0.0.38[/COLOR][/B]
     - Fixing reported issues with the library management.
     - Fixed searching non-english originated movies/shows.
