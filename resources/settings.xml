@@ -91,6 +91,7 @@
         <setting id="percentage_additional_seeders" label="30049" type="number" default="25" />
         <!-- Providers -->
         <setting label="30239" type="lsep" />
+        <setting id="use_public_dns" label="30368" type="bool" default="false" />
         <setting id="provider_disable_failing" label="30031" type="bool" default="false" />
         <setting id="provider_allowed_failures" label="30032" type="slider" option="int" range="0,1,10" default="3" />
         <setting label="30016" type="lsep" />

@@ -1208,3 +1208,7 @@ msgstr ""
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
 msgstr ""
+
+msgctxt "#30368"
+msgid "Use Public DNS (Google, Quad9, Opennic)"
+msgstr ""

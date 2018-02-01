@@ -1216,3 +1216,7 @@ msgstr "Синхронизировать просмотренное в библ�
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
 msgstr "Синхронизировать в Тракт просмотренное из Коди"
+
+msgctxt "#30368"
+msgid "Use Public DNS (Google, Quad9, Opennic)"
+msgstr "Использовать публичные DNS (Google, Quad9, Opennic)"
