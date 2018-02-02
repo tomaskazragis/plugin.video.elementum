@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.41[/COLOR][/B]
+    - Added Context menu add-on to Elementum repository. Allows playing any item from Kodi library, not only strm files.
+    - Fixes for Kodi 16 library.
+    - Updated torrent engine.
+
 [B][COLOR red]v0.0.40[/COLOR][/B]
     - Custom DNS names reverted to become optional.
     - Small fixes.
