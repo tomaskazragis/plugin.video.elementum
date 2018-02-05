@@ -1216,3 +1216,7 @@ msgstr ""
 msgctxt "#30368"
 msgid "Use Public DNS (Google, Quad9, Opennic)"
 msgstr ""
+
+msgctxt "#30369"
+msgid "Disable Upload"
+msgstr ""

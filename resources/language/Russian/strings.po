@@ -1220,3 +1220,7 @@ msgstr "Синхронизировать в Тракт просмотренно�
 msgctxt "#30368"
 msgid "Use Public DNS (Google, Quad9, Opennic)"
 msgstr "Использовать публичные DNS (Google, Quad9, Opennic)"
+
+msgctxt "#30369"
+msgid "Disable Upload"
+msgstr "Выключить раздачу"
