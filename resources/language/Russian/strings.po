@@ -1223,4 +1223,4 @@ msgstr "Использовать публичные DNS (Google, Quad9, Opennic)
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr "Выключить раздачу"
+msgstr "Отключить раздачу"
