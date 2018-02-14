@@ -2,6 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.43[/COLOR][/B]
+    - Migrating to another database engine to allow flexibility in the future.
+    - Library manipulations changed a lot due to database change, so it can bring bugs and errors. Please, report them on https://github.com/elgatito/plugin.video.elementum/issues website.
+    - Small fixes.
+    - Updated torrent engine.
+
 [B][COLOR red]v0.0.42[/COLOR][/B]
     - Added Disable Upload setting to disable Uploading at all, if Seed Time is 0 - upload will stop when download is finished.
     - Updated torrent engine.
