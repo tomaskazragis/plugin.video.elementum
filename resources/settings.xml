@@ -74,10 +74,11 @@
         <setting id="disable_utp" label="30329" type="bool" default="false" />
         <setting id="disable_upnp" label="30063" type="bool" default="false" />
         <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" default="0" />
-        <setting id="listen_autodetect" label="30353" type="bool" default="true" />
+        <setting id="listen_autodetect_ip" label="30370" type="bool" default="true" />
+        <setting id="listen_interfaces" label="30090" type="text" default="" visible="eq(-1,false)" />
+        <setting id="listen_autodetect_port" label="30371" type="bool" default="true" />
         <setting id="listen_port_min" label="30006" type="number" default="6881" visible="eq(-1,false)" />
         <setting id="listen_port_max" label="30007" type="number" default="6891" visible="eq(-2,false)" />
-        <setting id="listen_interfaces" label="30090" type="text" default="" visible="eq(-3,false)" />
         <!-- <setting id="outgoing_interfaces" label="30091" type="text" default="" /> -->
         <!-- <setting id="tuned_storage" label="30086" type="bool" default="false" /> -->
         <setting id="spoof_user_agent" label="30074" type="enum" lvalues="30065|30075|30076|30077|30078|30079|30080|30081|30082|30083|30084|30085" />

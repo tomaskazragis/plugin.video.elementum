@@ -1224,3 +1224,11 @@ msgstr "Использовать публичные DNS (Google, Quad9, Opennic)
 msgctxt "#30369"
 msgid "Disable Upload"
 msgstr "Отключить раздачу"
+
+msgctxt "#30370"
+msgid "Auto-assign network IP"
+msgstr "Автоматически назначать сетевой IP"
+
+msgctxt "#30371"
+msgid "Auto-assign network ports"
+msgstr "Автоматически назначать сетевой порт"

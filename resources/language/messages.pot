@@ -1220,3 +1220,11 @@ msgstr ""
 msgctxt "#30369"
 msgid "Disable Upload"
 msgstr ""
+
+msgctxt "#30370"
+msgid "Auto-assign network IP"
+msgstr ""
+
+msgctxt "#30371"
+msgid "Auto-assign network ports"
+msgstr ""
