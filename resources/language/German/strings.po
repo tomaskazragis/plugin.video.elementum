@@ -533,7 +533,7 @@ msgid "Remove from library"
 msgstr "Aus Bibliothek entfernen"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "Merkliste"
 
 msgctxt "#30255"
@@ -545,7 +545,7 @@ msgid "Remove from watchlist"
 msgstr "Aus Merkliste entfernen"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "Sammlung"
 
 msgctxt "#30258"

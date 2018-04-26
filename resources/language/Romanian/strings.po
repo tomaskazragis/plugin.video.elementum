@@ -658,7 +658,7 @@ msgid "Remove from library"
 msgstr "Șterge din librărie"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "Listă de vizionat"
 
 msgctxt "#30255"
@@ -670,7 +670,7 @@ msgid "Remove from watchlist"
 msgstr "Șterge din lista de vizionat"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "Colecție"
 
 msgctxt "#30258"
@@ -694,7 +694,7 @@ msgid "Use search history?"
 msgstr "Folosește istoricul căutărilor?"
 
 msgctxt "#30263"
-msgid "Lists"
+msgid "My Lists"
 msgstr "Liste"
 
 msgctxt "#30264"

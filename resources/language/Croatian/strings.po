@@ -760,7 +760,7 @@ msgid "Remove from library"
 msgstr "Ukloni iz videoteke"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "Popis gledanja"
 
 msgctxt "#30255"
@@ -772,7 +772,7 @@ msgid "Remove from watchlist"
 msgstr "Ukloni iz popisa gledanja"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "Kolekcija"
 
 msgctxt "#30258"
@@ -796,7 +796,7 @@ msgid "Use search history?"
 msgstr "Koristiti povijest pretrage?"
 
 msgctxt "#30263"
-msgid "Lists"
+msgid "My Lists"
 msgstr "Popisi"
 
 msgctxt "#30264"
@@ -1256,11 +1256,11 @@ msgid "Do not ask questions before playback"
 msgstr "Ne postavljaj upit prije reprodukcije"
 
 msgctxt "#30360"
-msgid "Progress"
+msgid "My Progress"
 msgstr "Napredak"
 
 msgctxt "#30361"
-msgid "History"
+msgid "My History"
 msgstr "Povijest"
 
 msgctxt "#30362"

@@ -752,7 +752,7 @@ msgid "Remove from library"
 msgstr "Remover da biblioteca"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "Minha Lista"
 
 msgctxt "#30255"
@@ -764,7 +764,7 @@ msgid "Remove from watchlist"
 msgstr "Remover da Minha Lista"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "Coleção"
 
 msgctxt "#30258"
@@ -788,7 +788,7 @@ msgid "Use search history?"
 msgstr "Usar o histórico de pesquisa?"
 
 msgctxt "#30263"
-msgid "Lists"
+msgid "My Lists"
 msgstr "Listas"
 
 msgctxt "#30264"

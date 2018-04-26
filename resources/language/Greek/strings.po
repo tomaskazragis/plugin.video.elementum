@@ -529,7 +529,7 @@ msgid "Remove from library"
 msgstr "Διαγραφή από την ταινιοθήκη"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "Λίστα παρακολούθησης"
 
 msgctxt "#30255"
@@ -541,7 +541,7 @@ msgid "Remove from watchlist"
 msgstr "Διαγραφή από τη λίστα παρακολούθησης"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "Συλλογή"
 
 msgctxt "#30258"

@@ -747,7 +747,7 @@ msgid "Remove from library"
 msgstr "Poista kirjastosta"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "Katselulista"
 
 msgctxt "#30255"
@@ -759,7 +759,7 @@ msgid "Remove from watchlist"
 msgstr "Poista katselulistalta"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "Kokoelma"
 
 msgctxt "#30258"
@@ -783,7 +783,7 @@ msgid "Use search history?"
 msgstr "Käytetäänkö hakuhistoriaa?"
 
 msgctxt "#30263"
-msgid "Lists"
+msgid "My Lists"
 msgstr "Listat"
 
 msgctxt "#30264"

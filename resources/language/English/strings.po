@@ -751,7 +751,7 @@ msgid "Remove from library"
 msgstr ""
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr ""
 
 msgctxt "#30255"
@@ -763,7 +763,7 @@ msgid "Remove from watchlist"
 msgstr ""
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr ""
 
 msgctxt "#30258"
@@ -787,7 +787,7 @@ msgid "Use search history?"
 msgstr ""
 
 msgctxt "#30263"
-msgid "Lists"
+msgid "My Lists"
 msgstr ""
 
 msgctxt "#30264"
@@ -1178,11 +1178,11 @@ msgid "Do not ask questions before playback"
 msgstr ""
 
 msgctxt "#30360"
-msgid "Progress"
+msgid "My Progress"
 msgstr ""
 
 msgctxt "#30361"
-msgid "History"
+msgid "My History"
 msgstr ""
 
 msgctxt "#30362"
@@ -1223,4 +1223,8 @@ msgstr ""
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
+msgstr ""
+
+msgctxt "#30372"
+msgid "Force resume playback"
 msgstr ""

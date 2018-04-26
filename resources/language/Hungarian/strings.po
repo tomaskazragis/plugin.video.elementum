@@ -754,7 +754,7 @@ msgid "Remove from library"
 msgstr "Eltávolítás a könyvtárából"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "Figyelőlista"
 
 msgctxt "#30255"
@@ -766,7 +766,7 @@ msgid "Remove from watchlist"
 msgstr "Eltávolítás a figyelőlistáról"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "Gyűjtemény"
 
 msgctxt "#30258"
@@ -790,7 +790,7 @@ msgid "Use search history?"
 msgstr "Szeretné használni a keresési előzményeket?"
 
 msgctxt "#30263"
-msgid "Lists"
+msgid "My Lists"
 msgstr "Listák"
 
 msgctxt "#30264"

@@ -759,7 +759,7 @@ msgid "Remove from library"
 msgstr "הסרה מהספריה"
 
 msgctxt "#30254"
-msgid "Watchlist"
+msgid "My Watchlist"
 msgstr "רשימת צפייה"
 
 msgctxt "#30255"
@@ -771,7 +771,7 @@ msgid "Remove from watchlist"
 msgstr "הסרה מרשימת צפייה"
 
 msgctxt "#30257"
-msgid "Collection"
+msgid "My Collection"
 msgstr "אוסף"
 
 msgctxt "#30258"
@@ -795,7 +795,7 @@ msgid "Use search history?"
 msgstr "האם להשתמש בהיסטוריית החיפוש?"
 
 msgctxt "#30263"
-msgid "Lists"
+msgid "My Lists"
 msgstr "רשימות"
 
 msgctxt "#30264"
@@ -1247,11 +1247,11 @@ msgid "Do not ask questions before playback"
 msgstr "לא לשאול שאלות לפני תחילת הצפיה"
 
 msgctxt "#30360"
-msgid "Progress"
+msgid "My Progress"
 msgstr "התקדמות"
 
 msgctxt "#30361"
-msgid "History"
+msgid "My History"
 msgstr "היסטוריה"
 
 msgctxt "#30362"
