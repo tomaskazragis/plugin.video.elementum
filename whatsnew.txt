@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.45[/COLOR][/B]
+    - Fixed issues with IP+Port detection.
+    - Resume playback reorganized, so disable it from settings if needed.
+
 [B][COLOR red]v0.0.44[/COLOR][/B]
     - Mostly a maintenance release, fixing small issues.
     - Fixed Pride show being added always to the library.
