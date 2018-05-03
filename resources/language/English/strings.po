@@ -1228,3 +1228,11 @@ msgstr ""
 msgctxt "#30372"
 msgid "Force resume playback"
 msgstr ""
+
+msgctxt "#30373"
+msgid "Languages"
+msgstr ""
+
+msgctxt "#30374"
+msgid "Countries"
+msgstr ""
