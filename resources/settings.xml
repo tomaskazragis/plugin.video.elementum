@@ -3,14 +3,20 @@
     <category label="30000">
         <!-- Storage -->
         <setting label="30327" type="lsep" />
-        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317|30322|30331" default="0" />
-          <setting id="memory_size" label="30318" type="number" default="100" subsetting="true" visible="eq(-1,1)" />
+        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317|30322|30331" default="1" />
+          <setting id="auto_memory_size" label="30376" type="bool" default="true" subsetting="true" visible="eq(-1,1)" />
+          <setting type="text" label="30377" enable="false" visible="eq(-2,1)" />
 
-          <setting type="text" label="30348" enable="false" visible="eq(-2,0)" />
-          <setting type="text" label="30349" enable="false" visible="eq(-3,1)" />
-          <setting type="text" label="30350" enable="false" visible="eq(-4,1)" />
-          <setting type="text" label="30351" enable="false" visible="eq(-5,2)" />
-          <setting type="text" label="30352" enable="false" visible="eq(-6,3)" />
+          <setting id="auto_memory_size_strategy" type="enum" label="30378" lvalues="30380|30381|30382" subsetting="true" default="1" enable="eq(-2,true)" visible="eq(-3,1)" />
+          <setting type="text" label="30379" enable="false" visible="eq(-4,1)" />
+
+          <setting id="memory_size" label="30318" type="number" default="100" subsetting="true" enable="eq(-4,false)" visible="eq(-5,1)" />
+
+          <setting type="text" label="30348" enable="false" visible="eq(-6,0)" />
+          <setting type="text" label="30349" enable="false" visible="eq(-7,1)" />
+          <setting type="text" label="30350" enable="false" visible="eq(-8,1)" />
+          <setting type="text" label="30351" enable="false" visible="eq(-9,2)" />
+          <setting type="text" label="30352" enable="false" visible="eq(-10,3)" />
 
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
@@ -86,8 +92,8 @@
     <category label="30239">
         <!-- Sorting -->
         <setting label="30041" type="lsep" />
-        <setting id="sorting_mode_movies" label="30042" type="enum" lvalues="30044|30045|30046" default="2" />
-        <setting id="sorting_mode_shows" label="30043" type="enum" lvalues="30044|30045|30046" default="2" />
+        <setting id="sorting_mode_movies" label="30042" type="enum" lvalues="30044|30045|30046|30375" default="2" />
+        <setting id="sorting_mode_shows" label="30043" type="enum" lvalues="30044|30045|30046|30375" default="2" />
         <setting id="resolution_preference_movies" label="30047" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="resolution_preference_shows" label="30048" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="percentage_additional_seeders" label="30049" type="number" default="25" />

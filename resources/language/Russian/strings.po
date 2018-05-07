@@ -1244,3 +1244,35 @@ msgstr "Языки"
 msgctxt "#30374"
 msgid "Countries"
 msgstr "Страны"
+
+msgctxt "#30375"
+msgid "By size"
+msgstr "по размеру"
+
+msgctxt "#30376"
+msgid "Choose memory size automatically"
+msgstr "Выбирать размер памяти автоматически"
+
+msgctxt "#30377"
+msgid "Size is chosen automatically, based on[CR]physical amount of memory"
+msgstr "Размер определяется автоматически, в зависимости[CR]от размера физической памяти"
+
+msgctxt "#30378"
+msgid "Allow memory usage"
+msgstr "Режим использования памяти"
+
+msgctxt "#30379"
+msgid "Minimum - 40MB, Default - 5%, Maximum - 10%"
+msgstr "Минимальный - 40MB, По-умолчанию - 5%, Максимальный - 10%"
+
+msgctxt "#30380"
+msgid "Minimum"
+msgstr "Минимальный"
+
+msgctxt "#30381"
+msgid "Default"
+msgstr "По-умолчанию"
+
+msgctxt "#30382"
+msgid "Maximum"
+msgstr "Максимальный"
