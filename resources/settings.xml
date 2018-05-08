@@ -120,6 +120,8 @@
         <setting label="OpenSubtitles" type="lsep" />
         <setting id="osdb_user" label="30057" type="text" default="" />
         <setting id="osdb_pass" label="30014" type="text" option="hidden" default="" />
+        <setting id="osdb_auto_language" label="30383" type="bool" default="true" />
+        <setting id="osdb_language" label="30384" type="text" default="" enable="eq(-1,false)" />
     </category>
     <category label="30056">
         <!-- Trakt -->

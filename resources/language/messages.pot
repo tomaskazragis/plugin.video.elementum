@@ -1272,3 +1272,11 @@ msgstr ""
 msgctxt "#30382"
 msgid "Maximum"
 msgstr ""
+
+msgctxt "#30383"
+msgid "Use Kodi language for subtitles search"
+msgstr ""
+
+msgctxt "#30384"
+msgid "Language code for subtitles (example: en, it, es)"
+msgstr ""
