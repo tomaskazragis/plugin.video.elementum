@@ -2,6 +2,17 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.46[/COLOR][/B]
+    - Added Automatic memory size detection option, which is enabled by default. Default is 5% of physical memory, but not bigger than 200mb.
+    - Fixed TCPv6 issue with listening, while disabled.
+    - Added language selector for OSDB.
+    - Altered Trakt to start sync after startup, not only after period of time.
+    - Fixed issue with removing strm files when Kodi is renewing the information.
+    - Added lists of Movies/Shows, filtered by Countries/Original Language, Country/Language menu in Movies/Shows.
+    - Added sort by size for torrents list in search results.
+    - Now showing directory name in file selection, if files have different directories.
+    - Another attempt to fix hanging "Resolving torrent files" notification.
+
 [B][COLOR red]v0.0.45[/COLOR][/B]
     - Fixed issues with IP+Port detection.
     - Resume playback reorganized, so disable it from settings if needed.
