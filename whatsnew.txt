@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.47[/COLOR][/B]
+    - Added proxy support to torrent library (Supports Socks4/Socks5/HTTP/HTTPS proxy).
+    - Stream selection become bigger.
+    - Added /debug/ URL to show debugging information.
+
 [B][COLOR red]v0.0.46[/COLOR][/B]
     - Added Automatic memory size detection option, which is enabled by default. Default is 5% of physical memory, but not bigger than 200mb.
     - Fixed TCPv6 issue with listening, while disabled.
