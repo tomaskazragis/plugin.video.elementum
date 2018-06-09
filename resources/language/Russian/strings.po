@@ -1284,3 +1284,7 @@ msgstr "Использовать язык Kodi для поиска субтит�
 msgctxt "#30384"
 msgid "Language code for subtitles (example: en, it, es)"
 msgstr "Код языка для субтитров (пример: en, it, ru)"
+
+msgctxt "#30385"
+msgid "HTTPS"
+msgstr "HTTPS"

@@ -1276,3 +1276,7 @@ msgstr ""
 msgctxt "#30384"
 msgid "Language code for subtitles (example: en, it, es)"
 msgstr ""
+
+msgctxt "#30385"
+msgid "HTTPS"
+msgstr ""

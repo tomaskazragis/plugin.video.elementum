@@ -107,15 +107,15 @@
         <setting id="custom_provider_timeout" label="30018" type="slider" option="int" range="10,1,40" default="15" visible="eq(-1,true)" />
     </category>
     <!-- Proxy -->
-    <!-- <category label="30008">
+    <category label="30008">
         <setting label="30008" type="lsep" />
-        <setting id="socks_enabled" label="30010" type="bool" default="false" />
-          <setting id="proxy_type" label="30067" type="enum" default="2" subsetting="true" lvalues="30068|30069|30070|30071|30072|30073" visible="eq(-1,true)" />
-          <setting id="socks_host" label="30011" type="text" default="" subsetting="true" visible="eq(-2,true)" />
-          <setting id="socks_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-3,true)" />
-          <setting id="socks_login" label="30013" type="text" default="" subsetting="true" visible="eq(-4,true)" />
-          <setting id="socks_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-5,true)" />
-    </category> -->
+        <setting id="proxy_enabled" label="30010" type="bool" default="false" />
+          <setting id="proxy_type" label="30067" type="enum" default="1" subsetting="true" lvalues="30068|30069|30071|30385" visible="eq(-1,true)" />
+          <setting id="proxy_host" label="30011" type="text" default="" subsetting="true" visible="eq(-2,true)" />
+          <setting id="proxy_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-3,true)" />
+          <setting id="proxy_login" label="30013" type="text" default="" subsetting="true" visible="eq(-4,true)" />
+          <setting id="proxy_password" label="30014" type="text" default="" option="hidden" subsetting="true" visible="eq(-5,true)" />
+    </category>
     <category label="OpenSubtitles">
         <setting label="OpenSubtitles" type="lsep" />
         <setting id="osdb_user" label="30057" type="text" default="" />
