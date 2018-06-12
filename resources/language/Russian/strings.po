@@ -394,7 +394,7 @@ msgstr "Режим 'Не беспокоить'"
 
 msgctxt "#30094"
 msgid "Disable background progress dialog"
-msgstr "Отключить окно прогресса в фоне"
+msgstr "Скрыть окно прогресса в фоне"
 
 msgctxt "#30095"
 msgid "Sync watched progress with Kodi"
@@ -1288,3 +1288,7 @@ msgstr "Код языка для субтитров (пример: en, it, ru)"
 msgctxt "#30385"
 msgid "HTTPS"
 msgstr "HTTPS"
+
+msgctxt "#30386"
+msgid "Disable background progress dialog on playback"
+msgstr "Скрыть окно прогресса в фоне при проигрывании"

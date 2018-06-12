@@ -1284,3 +1284,7 @@ msgstr ""
 msgctxt "#30385"
 msgid "HTTPS"
 msgstr ""
+
+msgctxt "#30386"
+msgid "Disable background progress dialog on playback"
+msgstr ""
