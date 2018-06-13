@@ -1292,3 +1292,27 @@ msgstr "HTTPS"
 msgctxt "#30386"
 msgid "Disable background progress dialog on playback"
 msgstr "Скрыть окно прогресса в фоне при проигрывании"
+
+msgctxt "#30387"
+msgid "Caching"
+msgstr "Кеширование"
+
+msgctxt "#30388"
+msgid "Cache selected streams"
+msgstr "Кеширование выбора торрента"
+
+msgctxt "#30389"
+msgid "Cache stream search results"
+msgstr "Кеширование результатов поиска торрентов"
+
+msgctxt "#30390"
+msgid "Cache search results duration, seconds"
+msgstr "Длительность кеширование результатов поиска, в секундах"
+
+msgctxt "#30391"
+msgid "List of public DNS IPs"
+msgstr "Список IP публичных DNS"
+
+msgctxt "#30392"
+msgid "List of Opennic DNS IPs"
+msgstr "Список IP Opennic DNS"

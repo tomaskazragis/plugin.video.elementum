@@ -98,11 +98,21 @@
         <setting id="resolution_preference_movies" label="30047" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="resolution_preference_shows" label="30048" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="percentage_additional_seeders" label="30049" type="number" default="25" />
+        <!-- Caching -->
+        <setting label="30387" type="lsep" />
+        <setting id="use_cache_selection" label="30388" type="bool" default="true" />
+        <setting id="use_cache_search" label="30389" type="bool" default="true" />
+        <setting id="cache_search_duration" label="30390" type="number" default="180" visible="eq(-1,true)" />
+
         <!-- Providers -->
         <setting label="30239" type="lsep" />
         <setting id="use_public_dns" label="30368" type="bool" default="false" />
+        <setting id="public_dns_list" label="30391" type="text" default="8.8.8.8, 8.8.4.4, 9.9.9.9" visible="eq(-1,true)" />
+        <setting id="opennic_dns_list" label="30392" type="text" default="193.183.98.66, 172.104.136.243, 89.18.27.167" visible="eq(-2,true)" />
+        
         <setting id="provider_disable_failing" label="30031" type="bool" default="false" />
         <setting id="provider_allowed_failures" label="30032" type="slider" option="int" range="0,1,10" default="3" />
+        <!-- Custom timeout -->
         <setting label="30016" type="lsep" />
         <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
         <setting id="custom_provider_timeout" label="30018" type="slider" option="int" range="10,1,40" default="15" visible="eq(-1,true)" />
