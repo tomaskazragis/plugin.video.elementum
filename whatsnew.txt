@@ -2,6 +2,15 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.48[/COLOR][/B]
+    - Added caching for stream selection.
+    - Added caching for search results. 
+    - Public/Opennic DNS configuration added to Kodi settings.
+    - Fixed usage of special chars in file names.
+    - Added /debug/bundle to download all the debug information.
+    - Fixed labels for /search playback. 
+    - Other small fixes.
+
 [B][COLOR red]v0.0.47[/COLOR][/B]
     - Added proxy support to torrent library (Supports Socks4/Socks5/HTTP/HTTPS proxy).
     - Stream selection become bigger.
