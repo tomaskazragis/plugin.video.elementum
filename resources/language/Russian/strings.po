@@ -1316,3 +1316,55 @@ msgstr "Список IP публичных DNS"
 msgctxt "#30392"
 msgid "List of Opennic DNS IPs"
 msgstr "Список IP Opennic DNS"
+
+msgctxt "#30393"
+msgid "Status"
+msgstr "Статус"
+
+msgctxt "#30394"
+msgid "Version"
+msgstr "Версия"
+
+msgctxt "#30395"
+msgid "IP address"
+msgstr "IP адрес"
+
+msgctxt "#30396"
+msgid "Port"
+msgstr "Порт"
+
+msgctxt "#30397"
+msgid "Web UI"
+msgstr "Web UI"
+
+msgctxt "#30398"
+msgid "Debug information"
+msgstr "Debug информация"
+
+msgctxt "#30399"
+msgid "Addresses"
+msgstr "Веб-Адреса"
+
+msgctxt "#30400"
+msgid "Statistics"
+msgstr "Статистика"
+
+msgctxt "#30401"
+msgid "Torrent library status"
+msgstr "Статус торрент-библиотеки"
+
+msgctxt "#30402"
+msgid "Size of cache.db"
+msgstr "Размер cache.db"
+
+msgctxt "#30403"
+msgid "Size of app.db"
+msgstr "Размер app.db"
+
+msgctxt "#30404"
+msgid "Assigned torrent files"
+msgstr "Сохраненные торрент файлы"
+
+msgctxt "#30405"
+msgid "Search queries"
+msgstr "Поисковые запросы"
