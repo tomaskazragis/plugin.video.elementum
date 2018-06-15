@@ -11383,6 +11383,7 @@
                     deleteFiles: !1,
                     deleteQueue: [],
                     addTorrent: null,
+                    addFile: null,
                     searchLoading: !1,
                     sourceResults: [],
                     searchResults: [],
@@ -11502,43 +11503,63 @@
                         console.error(e)
                     })
                 }, r.handleStreamTorrent = function(e) {
+                    var formData  = new FormData();
+                    formData.append("uri", r.state.addTorrent);
+                    formData.append("file", r.state.addFile);
+
                     return e.preventDefault(), r.setState({
                         showAddTorrent: !1
-                    }), r.state.addTorrent ? void fetch(y + "/playuri?uri=" + encodeURIComponent(r.state.addTorrent)).then(function(e) {
+                    }), r.state.addTorrent || r.state.addFile ? void fetch(y + "/playuri", {
+                        method: 'POST',
+                        body: formData
+                    }).then(function(e) {
                         this.setState({
-                            addTorrent: null
+                            addTorrent: null,
+                            addFile: null
                         })
                     }.bind(r), function(e) {
                         console.error(e), this.setState({
                             errorMessage: e.message,
                             showDimmer: !0,
-                            addTorrent: null
+                            addTorrent: null,
+                            addFile: null
                         })
                     }.bind(r)) : void r.setState({
                         addTorrent: null,
+                        addFile: null,
                         errorMessage: "Nothing to stream...",
                         showDimmer: !0
                     })
                 }, r.handleAddTorrent = function(e) {
+                    var formData  = new FormData();
+                    formData.append("uri", r.state.addTorrent);
+                    formData.append("file", r.state.addFile);
+
                     return e.preventDefault(), r.setState({
                         showAddTorrent: !1
-                    }), r.state.addTorrent ? void fetch(y + "/torrents/add?uri=" + encodeURIComponent(r.state.addTorrent)).then(function(e) {
+                    }), r.state.addTorrent || r.state.addFile ? void fetch(y + "/torrents/add", {
+                        method: 'POST',
+                        body: formData
+                    }).then(function(e) {
                         200 !== e.status && e.text().then(function(e) {
                             this.setState({
                                 errorMessage: e,
                                 showDimmer: !0
                             })
                         }.bind(this)), this.setState({
-                            addTorrent: null
+                            addTorrent: null,
+                            addFile: null
                         })
                     }.bind(r), function(e) {
                         this.setState({
                             errorMessage: e.message,
                             showDimmer: !0,
-                            addTorrent: null
+                            addTorrent: null,
+                            addFile: null
                         })
                     }.bind(r)) : void r.setState({
                         addTorrent: null,
+                        addFile: null,
                         errorMessage: "Nothing to add...",
                         showDimmer: !0
                     })
@@ -11629,6 +11650,10 @@
                 }, r.handleChangeAddTorrent = function(e, t) {
                     e.preventDefault(), r.setState({
                         addTorrent: t.value
+                    })
+                }, r.handleChangeAddFile = function(e, t) {
+                    e.preventDefault(), r.setState({
+                        addFile: e.target.files[0]
                     })
                 }, r.confirmDelete = function() {
                     r.setState({
@@ -11731,7 +11756,8 @@
                         console.error(e), this.setState({
                             errorMessage: e.message,
                             showDimmer: !0,
-                            addTorrent: null
+                            addTorrent: null,
+                            addFile: null
                         })
                     }.bind(r))
                 }, 500), r.showSeasonResults = function(e) {
@@ -12066,7 +12092,14 @@
                         placeholder: "Magnet or Torrent file URL",
                         onChange: this.handleChangeAddTorrent,
                         fluid: !0
-                    })))), s.default.createElement(m.Modal.Actions, null, s.default.createElement(m.Button, {
+                    })), s.default.createElement(m.Form.Field, null, s.default.createElement(m.Input, {
+                        name: "file-torrent",
+                        placeholder: "Select torrent file",
+                        type: "file",
+                        onChange: this.handleChangeAddFile,
+                        fluid: !0
+                    }))
+                )), s.default.createElement(m.Modal.Actions, null, s.default.createElement(m.Button, {
                         color: "red",
                         onClick: this.handleCloseAddTorrent,
                         inverted: !0
