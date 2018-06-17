@@ -2,6 +2,15 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.49[/COLOR][/B]
+    - Added Remove action in context menu of search queries.
+    - Added File submition to WebUI.
+    - Added Statistics menu item, which shows useful information about the plugin.
+    - Fixed usage of plugin with Windows Store's Kodi.
+    - Fixed Pause/Unpause of torrents.
+    - Several small fixes.
+    - Now passing ProxyURL to searchers.
+
 [B][COLOR red]v0.0.48[/COLOR][/B]
     - Added caching for stream selection.
     - Added caching for search results. 
