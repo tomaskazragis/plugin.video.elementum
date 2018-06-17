@@ -1368,3 +1368,7 @@ msgstr "Сохраненные торрент файлы"
 msgctxt "#30405"
 msgid "Search queries"
 msgstr "Поисковые запросы"
+
+msgctxt "#30406"
+msgid "Remove from history"
+msgstr "Удалить из истории"

@@ -1360,3 +1360,7 @@ msgstr ""
 msgctxt "#30405"
 msgid "Search queries"
 msgstr ""
+
+msgctxt "#30406"
+msgid "Remove from history"
+msgstr ""
