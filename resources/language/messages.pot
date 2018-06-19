@@ -1368,3 +1368,7 @@ msgstr ""
 msgctxt "#30406"
 msgid "Remove from history"
 msgstr ""
+
+msgctxt "#30407"
+msgid "Print only Error messages in the Kodi log"
+msgstr ""

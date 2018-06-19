@@ -1372,3 +1372,7 @@ msgstr "Поисковые запросы"
 msgctxt "#30406"
 msgid "Remove from history"
 msgstr "Удалить из истории"
+
+msgctxt "#30407"
+msgid "Print only Error messages in the Kodi log"
+msgstr "Писать в лог Kodi только ошибки"

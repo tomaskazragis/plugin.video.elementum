@@ -159,6 +159,7 @@
     <category label="30015">
         <!-- Advanced -->
         <setting label="30019" type="lsep" />
+        <setting id="logger_silent" type="bool" label="30407" default="false" />
         <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.elementum/cmd/clear_cache)" />
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
         <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
