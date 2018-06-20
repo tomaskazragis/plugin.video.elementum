@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.51[/COLOR][/B]
+    - Hot-fix after v0.0.50 
+
 [B][COLOR red]v0.0.50[/COLOR][/B]
     - Fixed issue with adding not-aired episodes to the library.
     - Attempt to fix Xbox/iOS builds.
