@@ -53,5 +53,5 @@ docs/_build/
 target/
 
 # Other
-# resources/bin
+resources/bin/
 resources/web/static/js/*.map
