@@ -166,13 +166,21 @@
         <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
         <setting id="library_auto_scan" type="bool" label="30089" default="true" />
 
+        <!-- CloudHole -->
         <setting label="CloudHole" type="lsep" />
         <setting id="use_cloudhole" type="bool" label="30240" default="false" />
         <setting id="cloudhole_key" type="text" label="30040" default="" />
         <setting type="action" label="30264" action="RunPlugin(plugin://plugin.video.elementum/cmd/reset_clearances)" />
 
+        <!-- TMDB -->
         <setting label="30039" type="lsep" />
         <setting id="tmdb_api_key" label="30040" type="text" default="" />
+
+        <!-- Connectivity -->
+        <setting label="30408" type="lsep" />
+        <setting id="local_port" label="30409" type="number" default="65221" />
+        <setting id="remote_host" label="30411" type="text" default="127.0.0.1" />
+        <setting id="remote_port" label="30410" type="number" default="65220" />
     </category>
     <category label="30334">
         <!-- Quasar -->
