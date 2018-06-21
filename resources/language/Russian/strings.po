@@ -1392,3 +1392,7 @@ msgstr "Удаленный порт"
 msgctxt "#30411"
 msgid "Remote host"
 msgstr "Удаленный хост"
+
+msgctxt "#30412"
+msgid "Do not start binary"
+msgstr "Не запускать приложение (только клиент)"
