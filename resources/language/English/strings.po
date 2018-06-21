@@ -1388,3 +1388,11 @@ msgstr ""
 msgctxt "#30412"
 msgid "Do not start binary"
 msgstr ""
+
+msgctxt "#30413"
+msgid "Yes"
+msgstr ""
+
+msgctxt "#30414"
+msgid "No"
+msgstr ""

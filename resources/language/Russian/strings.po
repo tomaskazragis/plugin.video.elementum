@@ -1396,3 +1396,11 @@ msgstr "Удаленный хост"
 msgctxt "#30412"
 msgid "Do not start binary"
 msgstr "Не запускать приложение (только клиент)"
+
+msgctxt "#30413"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "#30414"
+msgid "No"
+msgstr "Нет"
