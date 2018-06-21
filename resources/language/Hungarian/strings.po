@@ -16,16 +16,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-
 # Settings
-
 msgctxt "#30000"
 msgid "General"
 msgstr "Általános"
 
 msgctxt "#30001"
-msgid "Download path (not FAT32)"
-msgstr "Letöltés helye (nem FAT32)"
+msgid "Download path"
+msgstr ""
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
@@ -132,8 +130,8 @@ msgid "Connections limit"
 msgstr "Kapcsolatszám korlátozás"
 
 msgctxt "#30028"
-msgid "Do not ask to keep downloading"
-msgstr "Ne kérdezze a letöltés folytatását"
+msgid "Download after play was stopped"
+msgstr ""
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -320,8 +318,8 @@ msgid "Spoof user agent (highly inadvisable)"
 msgstr "User agent átejtés (nagyon nem ajánlott)"
 
 msgctxt "#30075"
-msgid "Default from libtorrent (acceptable)"
-msgstr "libtorrentből alapértelmezetten (elfogadható)"
+msgid "Default advisable (acceptable)"
+msgstr ""
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -400,8 +398,8 @@ msgid "Disable background progress dialog"
 msgstr "Háttérben futó folyamatot jelző ablak letiltása"
 
 msgctxt "#30095"
-msgid "Resume playback from library integration"
-msgstr "Lejátszás folytatása a helyi könyvtárból"
+msgid "Sync watched progress with Kodi"
+msgstr ""
 
 msgctxt "#30096"
 msgid "Never"
@@ -415,9 +413,7 @@ msgctxt "#30098"
 msgid "Active torrents only"
 msgstr "Csak aktív torrenteknél"
 
-
 # Interface
-
 msgctxt "#30100"
 msgid "Elementum has crashed, restarting..."
 msgstr "A Elementum összeomlott, újraindítás..."
@@ -534,9 +530,7 @@ msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
 msgstr "JSON-RPC csatlakozás a Kodihoz nem lehetséges.[CR]Engedélyezze mindkét applikáció irányító opciót a Szolgáltatásbeállítások / Vezérlés menüpont alatt, majd indítsa újra a Kodit!"
 
-
 # Elementum daemon
-
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr "Gyorsítótár megtisztítva"
@@ -914,7 +908,7 @@ msgid "All Movies"
 msgstr "Összes film"
 
 msgctxt "#30294"
-msgid "Összes megjelenés"
+msgid "All Releases"
 msgstr ""
 
 msgctxt "#30295"
@@ -946,18 +940,12 @@ msgid "Move finished downloads to separate folders"
 msgstr "Mozgassa át a kész letöltéseket elkülönített mappákba"
 
 msgctxt "#30302"
-msgid "Files will only be moved after seeding is finished (see[CR]"
-"- BitTorrent settings), and will wait if currently playing"
-msgstr "A fájlok csak a seed befejezése után kerülnek mozgatásra (lássa a[CR]"
-"- BitTorrent beállításokat), és vár abban az esetben, ha éppen aktív a lejátszás"
+msgid "Files will only be moved after seeding is finished (see[CR]- BitTorrent settings), and will wait if currently playing"
+msgstr "A fájlok csak a seed befejezése után kerülnek mozgatásra (lássa a[CR]- BitTorrent beállításokat), és vár abban az esetben, ha éppen aktív a lejátszás"
 
 msgctxt "#30303"
-msgid "RAR archive detected. Download will need to be completed before"
-" playback can start and will require around twice the amount of"
-" space, continue?"
-msgstr "RAR archívum észlelve. A lejátszáshoz meg kell várni"
-" az egész torrent letöltődését és körülbelül kétszer annyi"
-" tárhely szükséges hozzá. Folytatja?"
+msgid "RAR archive detected. Download will need to be completed before playback can start and will require around twice the amount of space, continue?"
+msgstr "RAR archívum észlelve. A lejátszáshoz meg kell várni az egész torrent letöltődését és körülbelül kétszer annyi tárhely szükséges hozzá. Folytatja?"
 
 msgctxt "#30304"
 msgid "Error creating output pipe for 'unrar' command"
@@ -978,3 +966,443 @@ msgstr "Hiba! Nem sikerült a célmappából olvasni"
 msgctxt "#30308"
 msgid "Move completed"
 msgstr "Átmozgatás befejezve!"
+
+msgctxt "#30309"
+msgid "Keep"
+msgstr ""
+
+msgctxt "#30310"
+msgid "Ask to delete"
+msgstr ""
+
+msgctxt "#30311"
+msgid "Delete"
+msgstr ""
+
+msgctxt "#30312"
+msgid "Keep files for not finished video"
+msgstr ""
+
+msgctxt "#30313"
+msgid "Keep files for watched/downloaded video"
+msgstr ""
+
+msgctxt "#30314"
+msgid "Settings were not initialized.[CR]Save addon settings, then restart Kodi."
+msgstr ""
+
+msgctxt "#30315"
+msgid "Download storage type"
+msgstr ""
+
+msgctxt "#30316"
+msgid "Use files"
+msgstr ""
+
+msgctxt "#30317"
+msgid "Use memory"
+msgstr ""
+
+msgctxt "#30318"
+msgid "Memory size to use for each torrent (Mb)"
+msgstr ""
+
+msgctxt "#30319"
+msgid "Continue"
+msgstr ""
+
+msgctxt "#30320"
+msgid "Ask to stop"
+msgstr ""
+
+msgctxt "#30321"
+msgid "Stop"
+msgstr ""
+
+msgctxt "#30322"
+msgid "Use Fat32 files"
+msgstr ""
+
+msgctxt "#30323"
+msgid "New search"
+msgstr ""
+
+msgctxt "#30324"
+msgid "Force stream auto-selection from settings"
+msgstr ""
+
+msgctxt "#30325"
+msgid "Download"
+msgstr ""
+
+msgctxt "#30326"
+msgid "Kodi library"
+msgstr ""
+
+msgctxt "#30327"
+msgid "Storage"
+msgstr ""
+
+msgctxt "#30328"
+msgid "Disable TCP"
+msgstr ""
+
+msgctxt "#30329"
+msgid "Disable UTP"
+msgstr ""
+
+msgctxt "#30330"
+msgid "Update Trakt"
+msgstr ""
+
+msgctxt "#30331"
+msgid "MMap File"
+msgstr ""
+
+msgctxt "#30332"
+msgid "Reloading configuration..."
+msgstr ""
+
+msgctxt "#30333"
+msgid "Try to find other episodes in the torrent"
+msgstr ""
+
+msgctxt "#30334"
+msgid "Migration"
+msgstr ""
+
+msgctxt "#30335"
+msgid "Quasar"
+msgstr ""
+
+msgctxt "#30336"
+msgid "Run migration"
+msgstr ""
+
+msgctxt "#30337"
+msgid "This operation will change strm files and cleanup Quasar library![CR]Are you sure you want to do it?"
+msgstr ""
+
+msgctxt "#30338"
+msgid "Looking for Quasar database"
+msgstr ""
+
+msgctxt "#30339"
+msgid "Searching strm files"
+msgstr ""
+
+msgctxt "#30340"
+msgid "Performing strm migration"
+msgstr ""
+
+msgctxt "#30341"
+msgid "Performing database migration"
+msgstr ""
+
+msgctxt "#30342"
+msgid "Cannot find Quasar userdata directory"
+msgstr ""
+
+msgctxt "#30343"
+msgid "Cannot find Quasar settings.xml path"
+msgstr ""
+
+msgctxt "#30344"
+msgid "Cannot find Quasar library path"
+msgstr ""
+
+msgctxt "#30345"
+msgid "Successfully migrated items: %s"
+msgstr ""
+
+msgctxt "#30346"
+msgid "Could not migrate any item"
+msgstr ""
+
+msgctxt "#30347"
+msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
+msgstr ""
+
+msgctxt "#30348"
+msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
+msgstr ""
+
+msgctxt "#30349"
+msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
+msgstr ""
+
+msgctxt "#30350"
+msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
+msgstr ""
+
+msgctxt "#30351"
+msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
+msgstr ""
+
+msgctxt "#30352"
+msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
+msgstr ""
+
+msgctxt "#30353"
+msgid "Auto-assign network ports"
+msgstr ""
+
+msgctxt "#30354"
+msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
+msgstr ""
+
+msgctxt "#30355"
+msgid "Changelog"
+msgstr ""
+
+msgctxt "#30356"
+msgid "Not enough free memory!"
+msgstr ""
+
+msgctxt "#30357"
+msgid "Use Trakt information if available"
+msgstr ""
+
+msgctxt "#30358"
+msgid "Trakt update started"
+msgstr ""
+
+msgctxt "#30359"
+msgid "Do not ask questions before playback"
+msgstr ""
+
+msgctxt "#30360"
+msgid "My Progress"
+msgstr ""
+
+msgctxt "#30361"
+msgid "My History"
+msgstr ""
+
+msgctxt "#30362"
+msgid "Synchronization"
+msgstr ""
+
+msgctxt "#30363"
+msgid "Sync items from collections into Kodi library"
+msgstr ""
+
+msgctxt "#30364"
+msgid "Sync items from watchlist into Kodi library"
+msgstr ""
+
+msgctxt "#30365"
+msgid "Sync items from user lists into Kodi library"
+msgstr ""
+
+msgctxt "#30366"
+msgid "Sync watched states from Trakt into Kodi library"
+msgstr ""
+
+msgctxt "#30367"
+msgid "Sync back Kodi watched states into Trakt"
+msgstr ""
+
+msgctxt "#30368"
+msgid "Use Public DNS (Google, Quad9, Opennic)"
+msgstr ""
+
+msgctxt "#30369"
+msgid "Disable Upload"
+msgstr ""
+
+msgctxt "#30370"
+msgid "Auto-assign network IP"
+msgstr ""
+
+msgctxt "#30371"
+msgid "Auto-assign network ports"
+msgstr ""
+
+msgctxt "#30372"
+msgid "Force resume playback"
+msgstr ""
+
+msgctxt "#30373"
+msgid "Languages"
+msgstr ""
+
+msgctxt "#30374"
+msgid "Countries"
+msgstr ""
+
+msgctxt "#30375"
+msgid "By size"
+msgstr ""
+
+msgctxt "#30376"
+msgid "Choose memory size automatically"
+msgstr ""
+
+msgctxt "#30377"
+msgid "Size is chosen automatically, based on[CR]physical amount of memory"
+msgstr ""
+
+msgctxt "#30378"
+msgid "Allow memory usage"
+msgstr ""
+
+msgctxt "#30379"
+msgid "Minimum - 40MB, Default - 5%, Maximum - 10%"
+msgstr ""
+
+msgctxt "#30380"
+msgid "Minimum"
+msgstr ""
+
+msgctxt "#30381"
+msgid "Default"
+msgstr ""
+
+msgctxt "#30382"
+msgid "Maximum"
+msgstr ""
+
+msgctxt "#30383"
+msgid "Use Kodi language for subtitles search"
+msgstr ""
+
+msgctxt "#30384"
+msgid "Language code for subtitles (example: en, it, es)"
+msgstr ""
+
+msgctxt "#30385"
+msgid "HTTPS"
+msgstr ""
+
+msgctxt "#30386"
+msgid "Disable background progress dialog on playback"
+msgstr ""
+
+msgctxt "#30387"
+msgid "Caching"
+msgstr ""
+
+msgctxt "#30388"
+msgid "Cache selected streams"
+msgstr ""
+
+msgctxt "#30389"
+msgid "Cache stream search results"
+msgstr ""
+
+msgctxt "#30390"
+msgid "Cache search results duration, seconds"
+msgstr ""
+
+msgctxt "#30391"
+msgid "List of public DNS IPs"
+msgstr ""
+
+msgctxt "#30392"
+msgid "List of Opennic DNS IPs"
+msgstr ""
+
+msgctxt "#30393"
+msgid "Status"
+msgstr ""
+
+msgctxt "#30394"
+msgid "Version"
+msgstr ""
+
+msgctxt "#30395"
+msgid "IP address"
+msgstr ""
+
+msgctxt "#30396"
+msgid "Port"
+msgstr ""
+
+msgctxt "#30397"
+msgid "Web UI"
+msgstr ""
+
+msgctxt "#30398"
+msgid "Debug information"
+msgstr ""
+
+msgctxt "#30399"
+msgid "Addresses"
+msgstr ""
+
+msgctxt "#30400"
+msgid "Statistics"
+msgstr ""
+
+msgctxt "#30401"
+msgid "Torrent library status"
+msgstr ""
+
+msgctxt "#30402"
+msgid "Size of cache.db"
+msgstr ""
+
+msgctxt "#30403"
+msgid "Size of app.db"
+msgstr ""
+
+msgctxt "#30404"
+msgid "Assigned torrent files"
+msgstr ""
+
+msgctxt "#30405"
+msgid "Search queries"
+msgstr ""
+
+msgctxt "#30406"
+msgid "Remove from history"
+msgstr ""
+
+msgctxt "#30407"
+msgid "Print only Error messages in the Kodi log"
+msgstr ""
+
+msgctxt "#30408"
+msgid "Plugin Connectivity"
+msgstr ""
+
+msgctxt "#30409"
+msgid "Local port"
+msgstr ""
+
+msgctxt "#30410"
+msgid "Remote port"
+msgstr ""
+
+msgctxt "#30411"
+msgid "Remote host"
+msgstr ""
+
+msgctxt "#30412"
+msgid "Do not start binary"
+msgstr ""
+
+msgctxt "#30413"
+msgid "Yes"
+msgstr ""
+
+msgctxt "#30414"
+msgid "No"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Download path (not FAT32)"
+#~ msgstr "Letöltés helye (nem FAT32)"
+
+#~ msgctxt "#30028"
+#~ msgid "Do not ask to keep downloading"
+#~ msgstr "Ne kérdezze a letöltés folytatását"
+
+#~ msgctxt "#30075"
+#~ msgid "Default from libtorrent (acceptable)"
+#~ msgstr "libtorrentből alapértelmezetten (elfogadható)"
+
+#~ msgctxt "#30095"
+#~ msgid "Resume playback from library integration"
+#~ msgstr "Lejátszás folytatása a helyi könyvtárból"

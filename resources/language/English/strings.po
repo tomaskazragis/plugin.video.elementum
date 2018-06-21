@@ -5,17 +5,16 @@
 #
 msgid ""
 msgstr ""
-"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 19:53+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: en\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-
 # Settings
-
 msgctxt "#30000"
 msgid "General"
 msgstr ""
@@ -412,9 +411,7 @@ msgctxt "#30098"
 msgid "Active torrents only"
 msgstr ""
 
-
 # Interface
-
 msgctxt "#30100"
 msgid "Elementum has crashed, restarting..."
 msgstr ""
@@ -531,9 +528,7 @@ msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
 msgstr ""
 
-
 # Elementum daemon
-
 msgctxt "#30200"
 msgid "Cache cleared"
 msgstr ""
@@ -943,14 +938,11 @@ msgid "Move finished downloads to separate folders"
 msgstr ""
 
 msgctxt "#30302"
-msgid "Files will only be moved after seeding is finished (see[CR]"
-"- BitTorrent settings), and will wait if currently playing"
+msgid "Files will only be moved after seeding is finished (see[CR]- BitTorrent settings), and will wait if currently playing"
 msgstr ""
 
 msgctxt "#30303"
-msgid "RAR archive detected. Download will need to be completed before"
-" playback can start and will require around twice the amount of"
-" space, continue?"
+msgid "RAR archive detected. Download will need to be completed before playback can start and will require around twice the amount of space, continue?"
 msgstr ""
 
 msgctxt "#30304"
