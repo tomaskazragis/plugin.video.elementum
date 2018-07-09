@@ -2,6 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.52[/COLOR][/B]
+    - Small bugs fixes.
+    - Search payload changed for general query (needs latest Burst).
+    - Added /debug/all to list debug information without log.
+    - Updated to latest torrent library.
+
 [B][COLOR red]v0.0.51[/COLOR][/B]
     - Hot-fix after v0.0.50 
 
