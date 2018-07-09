@@ -1389,3 +1389,7 @@ msgstr "Да"
 msgctxt "#30414"
 msgid "No"
 msgstr "Нет"
+
+msgctxt "#30415"
+msgid "Next page (%s)"
+msgstr "Следующая страница (%s)"

@@ -1400,3 +1400,7 @@ msgstr ""
 msgctxt "#30414"
 msgid "No"
 msgstr ""
+
+msgctxt "#30415"
+msgid "Next page (%s)"
+msgstr ""
