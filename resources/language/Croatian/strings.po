@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2018-02-13 19:31+0100\n"
+"PO-Revision-Date: 2018-06-23 01:41+0200\n"
 "Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: \n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7.1\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # Settings
@@ -1159,7 +1159,7 @@ msgstr "Zapis promjena"
 
 msgctxt "#30356"
 msgid "Not enough free memory!"
-msgstr "Nema dovoljno slobodne memorije"
+msgstr "Nema dovoljno slobodne memorije!"
 
 msgctxt "#30357"
 msgid "Use Trakt information if available"
@@ -1215,183 +1215,172 @@ msgstr "Onemogući slanje"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Automatski dodijeli mrežnu IP adresu"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Automatski dodjeli mrežne ulaze"
 
 msgctxt "#30372"
 msgid "Force resume playback"
-msgstr ""
+msgstr "Prisili nastavak reprodukcije"
 
 msgctxt "#30373"
 msgid "Languages"
-msgstr ""
+msgstr "Jezici"
 
 msgctxt "#30374"
 msgid "Countries"
-msgstr ""
+msgstr "Zemlje"
 
 msgctxt "#30375"
 msgid "By size"
-msgstr ""
+msgstr "Prema veličini"
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Automatski odaberi veličinu memorije"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
 msgstr ""
+"Veličina se odabire automatski, temeljeno na[CR]fizičkoj veličini memorije"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Dopušteno korištenje memorije"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 5%, Maximum - 10%"
-msgstr ""
+msgstr "Najmanje - 40MB, Zadano - 5%, Najviše - 10%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Najviše"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Zadano"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Najmanje"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
-msgstr ""
+msgstr "Koristi jezik Kodija za pretragu podnaslova"
 
 msgctxt "#30384"
 msgid "Language code for subtitles (example: en, it, es)"
-msgstr ""
+msgstr "Jezični kôd za podnaslove (primjer: bs, hr, sr)"
 
 msgctxt "#30385"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 msgctxt "#30386"
 msgid "Disable background progress dialog on playback"
-msgstr ""
+msgstr "Onemogući pozadinski dijalog napretka pri reprodukciji"
 
 msgctxt "#30387"
 msgid "Caching"
-msgstr ""
+msgstr "Predmemorija"
 
 msgctxt "#30388"
 msgid "Cache selected streams"
-msgstr ""
+msgstr "Stvori predmemoriju odabranih strujanja"
 
 msgctxt "#30389"
 msgid "Cache stream search results"
-msgstr ""
+msgstr "Stvori predmemoriju rezultata pretrage strujanja"
 
 msgctxt "#30390"
 msgid "Cache search results duration, seconds"
-msgstr ""
+msgstr "Stvori predmemoriju trajanja rezultata pretrage strujanja (sekunde)"
 
 msgctxt "#30391"
 msgid "List of public DNS IPs"
-msgstr ""
+msgstr "Popis javnih DNS IP adresa"
 
 msgctxt "#30392"
 msgid "List of Opennic DNS IPs"
-msgstr ""
+msgstr "Popis Opennic DNS IP adresa"
 
 msgctxt "#30393"
 msgid "Status"
-msgstr ""
+msgstr "Stanje"
 
 msgctxt "#30394"
 msgid "Version"
-msgstr ""
+msgstr "Inačica"
 
 msgctxt "#30395"
 msgid "IP address"
-msgstr ""
+msgstr "IP adresa"
 
 msgctxt "#30396"
 msgid "Port"
-msgstr ""
+msgstr "Ulaz"
 
 msgctxt "#30397"
 msgid "Web UI"
-msgstr ""
+msgstr "Web sučelje"
 
 msgctxt "#30398"
 msgid "Debug information"
-msgstr ""
+msgstr "Informacije otklanjanja greške"
 
 msgctxt "#30399"
 msgid "Addresses"
-msgstr ""
+msgstr "Adrese"
 
 msgctxt "#30400"
 msgid "Statistics"
-msgstr ""
+msgstr "Statistika"
 
 msgctxt "#30401"
 msgid "Torrent library status"
-msgstr ""
+msgstr "Stanje biblioteke torrenta"
 
 msgctxt "#30402"
 msgid "Size of cache.db"
-msgstr ""
+msgstr "Veličina cache.db"
 
 msgctxt "#30403"
 msgid "Size of app.db"
-msgstr ""
+msgstr "Veličina app.db"
 
 msgctxt "#30404"
 msgid "Assigned torrent files"
-msgstr ""
+msgstr "Dodijeljene torrent datoteke"
 
 msgctxt "#30405"
 msgid "Search queries"
-msgstr ""
+msgstr "Zahtjevi pretrage"
 
 msgctxt "#30406"
 msgid "Remove from history"
-msgstr ""
+msgstr "Ukloni iz povijesti"
 
 msgctxt "#30407"
 msgid "Print only Error messages in the Kodi log"
-msgstr ""
+msgstr "Ispisuj samo poruke greške u Kodi zapis"
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Povezivanje priključka"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Lokalni ulaz"
 
 msgctxt "#30410"
 msgid "Remote port"
-msgstr ""
+msgstr "Udaljeni ulaz"
 
 msgctxt "#30411"
 msgid "Remote host"
-msgstr ""
-
-msgctxt "#30412"
-msgid "Do not start binary"
-msgstr ""
-
-msgctxt "#30413"
-msgid "Yes"
-msgstr ""
-
-msgctxt "#30414"
-msgid "No"
-msgstr ""
+msgstr "Udaljeno računalo"
 
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"

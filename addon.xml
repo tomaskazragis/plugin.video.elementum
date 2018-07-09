@@ -12,6 +12,7 @@
     <extension point="xbmc.python.module" library="resources/site-packages" />
     <extension point="xbmc.subtitle.module" library="navigation.py" />
     <extension point="xbmc.addon.metadata">
+        <reuselanguageinvoker>true</reuselanguageinvoker>
         <summary lang="en">Elementum: Media streaming</summary>
         <summary lang="hr">Elementum: Medijsko strujanje</summary>
         <description lang="en">Elementum is a torrent finding and streaming engine. It doesn't go on torrent websites for legal reasons. However, it calls specially crafted add-ons (called providers) that are installed separately.[CR]This project is a fork of the well known, but no longer maintained Pulsar/Quasar projects from steeve and scakemyer.</description>
