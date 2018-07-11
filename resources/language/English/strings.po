@@ -1392,3 +1392,7 @@ msgstr ""
 msgctxt "#30415"
 msgid "Next page (%s)"
 msgstr ""
+
+msgctxt "#30416"
+msgid "Percents of playback to mark as watched"
+msgstr ""

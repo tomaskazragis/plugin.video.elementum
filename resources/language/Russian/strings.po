@@ -1393,3 +1393,7 @@ msgstr "Нет"
 msgctxt "#30415"
 msgid "Next page (%s)"
 msgstr "Следующая страница (%s)"
+
+msgctxt "#30416"
+msgid "Percents of playback to mark as watched"
+msgstr "Процент просмотра для отметки просмотренным"

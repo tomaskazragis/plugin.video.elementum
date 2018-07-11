@@ -45,6 +45,7 @@
         <setting id="add_specials" type="bool" label="30055" default="false" />
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
         <setting id="unaired_episodes" type="bool" label="30285" default="false" />
+        <setting id="playback_percent" label="30416" type="slider" option="int" range="1,1,100" default="85" />
     </category>
     <category label="30033">
         <!-- Appearance -->
