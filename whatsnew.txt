@@ -2,6 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.53[/COLOR][/B]
+    - Added configuration for autoloading torrents on startup (only for non-memory storage).
+    - Added configuration for adding and removing movies/shows from Trakt lists when operated in Kodi library.
+    - Fixed missing artwork for Trakt items.
+    - Small bug fixes.
+
 [B][COLOR red]v0.0.52[/COLOR][/B]
     - Small bugs fixes.
     - Search payload changed for general query (needs latest Burst).
