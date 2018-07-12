@@ -1160,7 +1160,7 @@ msgstr "Недостаточно свободной памяти!"
 
 msgctxt "#30357"
 msgid "Use Trakt information in Trakt lists"
-msgstr "Использовать данные Trakt если доступны"
+msgstr "Использовать только Trakt в списках Trakt"
 
 msgctxt "#30358"
 msgid "Trakt update started"
