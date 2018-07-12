@@ -1413,3 +1413,7 @@ msgstr "Удалить из Trakt, когда фильм/сериал удале
 msgctxt "#30420"
 msgid "Remove from ..."
 msgstr "Удалить из ..."
+
+msgctxt "#30421"
+msgid "Load torrents from torrents folder on startup"
+msgstr "Запускать торренты из папки torrents при запуске"
