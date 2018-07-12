@@ -1162,7 +1162,7 @@ msgid "Not enough free memory!"
 msgstr "Nema dovoljno slobodne memorije!"
 
 msgctxt "#30357"
-msgid "Use Trakt information if available"
+msgid "Use Trakt information in Trakt lists"
 msgstr "Koristi Trakt informacije ako su dostupne"
 
 msgctxt "#30358"

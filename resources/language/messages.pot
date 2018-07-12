@@ -1170,7 +1170,7 @@ msgid "Not enough free memory!"
 msgstr ""
 
 msgctxt "#30357"
-msgid "Use Trakt information if available"
+msgid "Use Trakt information in Trakt lists"
 msgstr ""
 
 msgctxt "#30358"
@@ -1407,4 +1407,20 @@ msgstr ""
 
 msgctxt "#30416"
 msgid "Percents of playback to mark as watched"
+msgstr ""
+
+msgctxt "#30417"
+msgid "Add to Trakt, when movie/show is added to Kodi library"
+msgstr ""
+
+msgctxt "#30418"
+msgid "Add to ..."
+msgstr ""
+
+msgctxt "#30419"
+msgid "Remove from Trakt, when movie/show is deleted from Kodi library"
+msgstr ""
+
+msgctxt "#30420"
+msgid "Remove from ..."
 msgstr ""

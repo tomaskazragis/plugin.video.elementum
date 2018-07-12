@@ -1158,7 +1158,7 @@ msgid "Not enough free memory!"
 msgstr "¡No hay suficiente memoria libre!"
 
 msgctxt "#30357"
-msgid "Use Trakt information if available"
+msgid "Use Trakt information in Trakt lists"
 msgstr "Utilizar la información de Trakt si está disponible"
 
 msgctxt "#30358"

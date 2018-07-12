@@ -156,6 +156,10 @@
         <setting id="trakt_sync_userlists" type="bool" label="30365" default="true" />
         <setting id="trakt_sync_watched" type="bool" label="30366" default="true" />
         <setting id="trakt_sync_watchedback" type="bool" label="30367" default="true" />
+        <setting id="trakt_sync_added" type="bool" label="30417" default="true" />
+        <setting id="trakt_sync_added_location" type="enum" label="30418" lvalues="30257|30254" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting id="trakt_sync_removed" type="bool" label="30417" default="true" />
+        <setting id="trakt_sync_removed_location" type="enum" label="30418" lvalues="30257|30254" default="0" subsetting="true" visible="eq(-1,true)" />
       </category>
     <category label="30015">
         <!-- Advanced -->

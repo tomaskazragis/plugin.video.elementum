@@ -1163,7 +1163,7 @@ msgid "Not enough free memory!"
 msgstr "אין מספיק זכרון פנוי!"
 
 msgctxt "#30357"
-msgid "Use Trakt information if available"
+msgid "Use Trakt information in Trakt lists"
 msgstr "יש להשתמש במידע מ־Trakt אם זמין"
 
 msgctxt "#30358"

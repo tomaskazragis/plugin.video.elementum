@@ -1159,7 +1159,7 @@ msgid "Not enough free memory!"
 msgstr "Недостаточно свободной памяти!"
 
 msgctxt "#30357"
-msgid "Use Trakt information if available"
+msgid "Use Trakt information in Trakt lists"
 msgstr "Использовать данные Trakt если доступны"
 
 msgctxt "#30358"
@@ -1184,15 +1184,15 @@ msgstr "Синхронизация"
 
 msgctxt "#30363"
 msgid "Sync items from collections into Kodi library"
-msgstr "Синхронизировать collections из Тракта в библиотеку"
+msgstr "Синхронизировать collections из Trakt в библиотеку"
 
 msgctxt "#30364"
 msgid "Sync items from watchlist into Kodi library"
-msgstr "Синхронизировать watchlist из Тракта в библиотеку"
+msgstr "Синхронизировать watchlist из Trakt в библиотеку"
 
 msgctxt "#30365"
 msgid "Sync items from user lists into Kodi library"
-msgstr "Синхронизировать user lists из Тракта в библиотеку"
+msgstr "Синхронизировать user lists из Trakt в библиотеку"
 
 msgctxt "#30366"
 msgid "Sync watched states from Trakt into Kodi library"
@@ -1200,7 +1200,7 @@ msgstr "Синхронизировать просмотренное в библ�
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
-msgstr "Синхронизировать в Тракт просмотренное из Коди"
+msgstr "Синхронизировать в Trakt просмотренное из Коди"
 
 msgctxt "#30368"
 msgid "Use Public DNS (Google, Quad9, Opennic)"
@@ -1397,3 +1397,19 @@ msgstr "Следующая страница (%s)"
 msgctxt "#30416"
 msgid "Percents of playback to mark as watched"
 msgstr "Процент просмотра для отметки просмотренным"
+
+msgctxt "#30417"
+msgid "Add to Trakt, when movie/show is added to Kodi library"
+msgstr "Добавить в Trakt, когда фильм/сериал добавляется в библиотеку Kodi"
+
+msgctxt "#30418"
+msgid "Add to ..."
+msgstr "Добавить в ..."
+
+msgctxt "#30419"
+msgid "Remove from Trakt, when movie/show is deleted from Kodi library"
+msgstr "Удалить из Trakt, когда фильм/сериал удален из библиотеки Kodi"
+
+msgctxt "#30420"
+msgid "Remove from ..."
+msgstr "Удалить из ..."

@@ -1160,7 +1160,7 @@ msgid "Not enough free memory!"
 msgstr ""
 
 msgctxt "#30357"
-msgid "Use Trakt information if available"
+msgid "Use Trakt information in Trakt lists"
 msgstr ""
 
 msgctxt "#30358"
