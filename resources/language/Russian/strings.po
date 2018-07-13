@@ -1417,3 +1417,11 @@ msgstr "Удалить из ..."
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
 msgstr "Запускать торренты из папки torrents при запуске"
+
+msgctxt "#30422"
+msgid "Popular lists"
+msgstr "Популярные списки"
+
+msgctxt "#30423"
+msgid "Recommendations"
+msgstr "Рекоммендации"

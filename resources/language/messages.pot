@@ -1428,3 +1428,11 @@ msgstr ""
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
 msgstr ""
+
+msgctxt "#30422"
+msgid "Popular lists"
+msgstr ""
+
+msgctxt "#30423"
+msgid "Recommendations"
+msgstr ""
