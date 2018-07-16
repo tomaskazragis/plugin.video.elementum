@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2018-07-09 13:46-0300\n"
+"PO-Revision-Date: 2018-07-13 23:49-0300\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -613,7 +613,7 @@ msgstr "Siguiente página"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Agregar / Eliminar de librería"
+msgstr "Agregar / Quitar de librería"
 
 msgctxt "#30220"
 msgid "Library path not set"
@@ -625,7 +625,7 @@ msgstr "Se agregado correctamente a la librería"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Se ha eliminado de la librería"
+msgstr "Se ha quitado de la librería"
 
 msgctxt "#30223"
 msgid "Files"
@@ -657,7 +657,7 @@ msgstr "Torrents"
 
 msgctxt "#30230"
 msgid "Play / resume torrent"
-msgstr "Reproducir / resumir torrent"
+msgstr "Reproducir / reiniciar torrent"
 
 msgctxt "#30231"
 msgid "Pause torrent"
@@ -749,35 +749,35 @@ msgstr "Añadir a Colección"
 
 msgctxt "#30253"
 msgid "Remove from library"
-msgstr "Eliminar de Colección"
+msgstr "Quitar de Colección"
 
 msgctxt "#30254"
 msgid "My Watchlist"
-msgstr "Mi Watchlist"
+msgstr "Mi Watchlist Trakt"
 
 msgctxt "#30255"
 msgid "Add to watchlist"
-msgstr "Añadir a watchlist"
+msgstr "Añadir a watchlist Trakt"
 
 msgctxt "#30256"
 msgid "Remove from watchlist"
-msgstr "Eliminar de watchlist"
+msgstr "Borrar de watchlist Trakt"
 
 msgctxt "#30257"
 msgid "My Collection"
-msgstr "Mi colección"
+msgstr "Mi collection Trakt"
 
 msgctxt "#30258"
 msgid "Add to collection"
-msgstr "Añadir a colección"
+msgstr "Añadir a collection Trakt"
 
 msgctxt "#30259"
 msgid "Remove from collection"
-msgstr "Eliminar de Colección"
+msgstr "Borrar de collection Trakt"
 
 msgctxt "#30260"
 msgid "A torrent was previously chosen, use it?[CR]%s"
-msgstr "Anteriormente fue seleccionado un torrent ¿Desea usarlo?[CR]%s"
+msgstr "Ya se seleccionó un torrent previamente ¿Desea usarlo?[CR]%s"
 
 msgctxt "#30261"
 msgid "Search history"
@@ -853,7 +853,7 @@ msgstr "Deshabilitar todo"
 
 msgctxt "#30276"
 msgid "Delete torrent and files"
-msgstr "Eliminar los torrents y los archivos"
+msgstr "Borrar los torrents y los archivos"
 
 msgctxt "#30277"
 msgid ""
@@ -868,12 +868,12 @@ msgid ""
 "%s removed from library, do you want to clean it?[CR]You can later use "
 "Kodi's 'Clean library' feature instead."
 msgstr ""
-"%s eliminado de la biblioteca ¿Quiere limpiarla?[CR]Puede utilizar luego "
+"%s removido de la Colección ¿Quiere limpiarla?[CR]Puede utilizar luego "
 "la función 'Limpiar Colección' de Kodi."
 
 msgctxt "#30279"
 msgid "Watchlist added to library"
-msgstr "Lista de control añadida a la librería"
+msgstr "Watchlist añadida a la librería"
 
 msgctxt "#30280"
 msgid "Collection added to library"
@@ -889,22 +889,22 @@ msgstr "No queda nada que eliminar de Elementum"
 
 msgctxt "#30283"
 msgid "Merge to library"
-msgstr "Fusionar a la biblioteca"
+msgstr "Fusionar a la Colección Kodi"
 
 msgctxt "#30284"
 msgid "Show unaired seasons"
-msgstr "Mostrar temporadas inéditas"
+msgstr "Mostrar temporadas no emitidas"
 
 msgctxt "#30285"
 msgid "Show unaired episodes"
-msgstr "Mostrar episodios inéditos"
+msgstr "Mostrar episodios no emitidos"
 
 msgctxt "#30286"
 msgid ""
 "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's "
 "'Update library' feature instead."
 msgstr ""
-"%s fusionados en la biblioteca ¿Quiere volver a escanearla?[CR]Puede "
+"%s fusionados en la Colección ¿Quiere volver a escanearla?[CR]Puede "
 "utilizar luego la función 'Actualizar Colección' de Kodi."
 
 msgctxt "#30287"
@@ -1014,11 +1014,11 @@ msgstr "Mantener"
 
 msgctxt "#30310"
 msgid "Ask to delete"
-msgstr "Preguntar para eliminar"
+msgstr "Preguntar p/borrar"
 
 msgctxt "#30311"
 msgid "Delete"
-msgstr "Eliminar"
+msgstr "Borrar"
 
 msgctxt "#30312"
 msgid "Keep files for not finished video"
@@ -1069,7 +1069,7 @@ msgstr "Usar archivos Fat32"
 
 msgctxt "#30323"
 msgid "New search"
-msgstr "Nueva búsuqeda"
+msgstr "Nueva búsqueda"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
@@ -1258,7 +1258,7 @@ msgstr "Mi progreso"
 
 msgctxt "#30361"
 msgid "My History"
-msgstr "Mi historia"
+msgstr "Mi historial"
 
 msgctxt "#30362"
 msgid "Synchronization"
@@ -1270,11 +1270,11 @@ msgstr "Sincronizar ítems colecciones -> Colección Kodi"
 
 msgctxt "#30364"
 msgid "Sync items from watchlist into Kodi library"
-msgstr "Sincronizar ítems watchlists -> Colección Kodi"
+msgstr "Sincronizar ítems watchlist -> Colección Kodi"
 
 msgctxt "#30365"
 msgid "Sync items from user lists into Kodi library"
-msgstr "Sincronizar ítems listas de usuarios -> Colección Kodi"
+msgstr "Sincronizar ítems listas del usuario -> Colección Kodi"
 
 msgctxt "#30366"
 msgid "Sync watched states from Trakt into Kodi library"
@@ -1394,7 +1394,7 @@ msgstr "Versión"
 
 msgctxt "#30395"
 msgid "IP address"
-msgstr "dirección IP"
+msgstr "Dirección IP"
 
 msgctxt "#30396"
 msgid "Port"
@@ -1438,11 +1438,11 @@ msgstr "Consultas de búsqueda"
 
 msgctxt "#30406"
 msgid "Remove from history"
-msgstr "Eliminar de historia"
+msgstr "Borrar de historial"
 
 msgctxt "#30407"
 msgid "Print only Error messages in the Kodi log"
-msgstr "Guardar sólo mensajes de error en registro de Kodi"
+msgstr "Grabar sólo mensajes de error en registro de Kodi"
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
@@ -1475,6 +1475,30 @@ msgstr "No"
 msgctxt "#30415"
 msgid "Next page (%s)"
 msgstr "Página siguiente (%s)"
+
+msgctxt "#30416"
+msgid "Percents of playback to mark as watched"
+msgstr "% de reproducción para marcar como ya visto"
+
+msgctxt "#30417"
+msgid "Add to Trakt, when movie/show is added to Kodi library"
+msgstr "Agregar a Trakt cuando película/serie se agrega a Colección Kodi"
+
+msgctxt "#30418"
+msgid "Add to ..."
+msgstr "Agregar a ..."
+
+msgctxt "#30419"
+msgid "Remove from Trakt, when movie/show is deleted from Kodi library"
+msgstr "Borrar de Trakt cuando pelicula/serie se borra de Colección Kodi"
+
+msgctxt "#30420"
+msgid "Remove from ..."
+msgstr "Borrar de ..."
+
+msgctxt "#30421"
+msgid "Load torrents from torrents folder on startup"
+msgstr "Cargar torrents de carpeta de torrents en arranque"
 
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
