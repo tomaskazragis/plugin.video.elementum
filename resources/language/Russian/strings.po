@@ -1425,3 +1425,63 @@ msgstr "Популярные списки"
 msgctxt "#30423"
 msgid "Recommendations"
 msgstr "Рекоммендации"
+
+msgctxt "#30424"
+msgid "Progress"
+msgstr "Прогресс"
+
+msgctxt "#30425"
+msgid "Color of an air date"
+msgstr "Цвет даты выхода"
+
+msgctxt "#30426"
+msgid "Color of a show name"
+msgstr "Цвет названия сериала"
+
+msgctxt "#30427"
+msgid "Color of an episode name"
+msgstr "Цвет названия серии"
+
+msgctxt "#30428"
+msgid "Hide unaired episodes"
+msgstr "Скрыть невышедшие эпизоды"
+
+msgctxt "#30429"
+msgid "Sort shows in the list"
+msgstr "Сортировать сериалы в списке"
+
+msgctxt "#30430"
+msgid "By latest watched"
+msgstr "По последнему просмотру"
+
+msgctxt "#30431"
+msgid "By show name"
+msgstr "По названию сериала"
+
+msgctxt "#30432"
+msgid "By air date (newer)"
+msgstr "По дате выхода (новые)"
+
+msgctxt "#30433"
+msgid "By air date (older)"
+msgstr "По дате выхода (старые)"
+
+msgctxt "#30434"
+msgid "Date format"
+msgstr "Формат даты"
+
+msgctxt "#30435"
+msgid "Select userlist"
+msgstr "Выбрать userlist"
+
+msgctxt "#30436"
+msgid "Userlist"
+msgstr "Userlist"
+
+msgctxt "#30437"
+msgid "Selected userlist"
+msgstr "Выбранный userlist"
+
+msgctxt "#30438"
+msgid "Userlists"
+msgstr "Userlists"

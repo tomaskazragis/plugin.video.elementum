@@ -157,10 +157,26 @@
         <setting id="trakt_sync_userlists" type="bool" label="30365" default="true" />
         <setting id="trakt_sync_watched" type="bool" label="30366" default="true" />
         <setting id="trakt_sync_watchedback" type="bool" label="30367" default="true" />
-        <setting id="trakt_sync_added" type="bool" label="30417" default="true" />
-        <setting id="trakt_sync_added_location" type="enum" label="30418" lvalues="30257|30254" default="0" subsetting="true" visible="eq(-1,true)" />
-        <setting id="trakt_sync_removed" type="bool" label="30417" default="true" />
-        <setting id="trakt_sync_removed_location" type="enum" label="30418" lvalues="30257|30254" default="0" subsetting="true" visible="eq(-1,true)" />
+
+        <setting id="trakt_sync_added"              type="bool" label="30417" default="true" />
+        <setting id="trakt_sync_added_location"     type="enum" label="30418" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting                                    type="action" label="30435" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added)" subsetting="true" visible="eq(-1,2)" />
+        <setting id="trakt_sync_added_list_name"    type="text" label="30437"               default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_added_list"         type="number" label="Added userlist ID"   default="" visible="false" />
+        
+        <setting id="trakt_sync_removed"            type="bool" label="30419" default="true" />
+        <setting id="trakt_sync_removed_location"   type="enum" label="30418" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting                                    type="action" label="30435" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed)" subsetting="true" visible="eq(-1,2)" />
+        <setting id="trakt_sync_removed_list_name"  type="text" label="30437"               default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_removed_list"       type="number" label="Removed userlist ID" default="" visible="false" />
+
+        <setting label="30424" type="lsep" />
+        <setting id="trakt_progress_sort" type="enum" label="30429" lvalues="30430|30431|30432|30433" default="0" />
+        <setting id="trakt_progress_unaired" type="bool" label="30428" default="true" />
+        <setting id="trakt_progress_color_date" label="30425" type="text" default="yellow" />
+        <setting id="trakt_progress_color_show" label="30426" type="text" default="none" />
+        <setting id="trakt_progress_color_episode" label="30427" type="text" default="skyblue" />
+        <setting id="trakt_progress_date_format" label="30434" type="text" default="2006-01-02" />
       </category>
     <category label="30015">
         <!-- Advanced -->
