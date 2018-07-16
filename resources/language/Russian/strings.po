@@ -1323,8 +1323,8 @@ msgid "Web UI"
 msgstr "Web UI"
 
 msgctxt "#30398"
-msgid "Debug information"
-msgstr "Debug информация"
+msgid "Debug information (with kodi.log)"
+msgstr "Debug информация (плюс kodi.log)"
 
 msgctxt "#30399"
 msgid "Addresses"
@@ -1485,3 +1485,7 @@ msgstr "Выбранный userlist"
 msgctxt "#30438"
 msgid "Userlists"
 msgstr "Userlists"
+
+msgctxt "#30439"
+msgid "Debug information (without kodi.log)"
+msgstr "Debug информация (без kodi.log)"

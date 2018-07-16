@@ -1322,7 +1322,7 @@ msgid "Web UI"
 msgstr ""
 
 msgctxt "#30398"
-msgid "Debug information"
+msgid "Debug information (with kodi.log)"
 msgstr ""
 
 msgctxt "#30399"
@@ -1483,4 +1483,8 @@ msgstr ""
 
 msgctxt "#30438"
 msgid "Userlists"
+msgstr ""
+
+msgctxt "#30439"
+msgid "Debug information (without kodi.log)"
 msgstr ""

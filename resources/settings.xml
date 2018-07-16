@@ -165,7 +165,7 @@
         <setting id="trakt_sync_added_list"         type="number" label="Added userlist ID"   default="" visible="false" />
         
         <setting id="trakt_sync_removed"            type="bool" label="30419" default="true" />
-        <setting id="trakt_sync_removed_location"   type="enum" label="30418" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting id="trakt_sync_removed_location"   type="enum" label="30420" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
         <setting                                    type="action" label="30435" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed)" subsetting="true" visible="eq(-1,2)" />
         <setting id="trakt_sync_removed_list_name"  type="text" label="30437"               default="" subsetting="true" visible="eq(-2,2)" enable="false" />
         <setting id="trakt_sync_removed_list"       type="number" label="Removed userlist ID" default="" visible="false" />
