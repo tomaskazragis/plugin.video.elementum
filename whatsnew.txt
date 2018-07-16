@@ -2,6 +2,15 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.54[/COLOR][/B]
+    - Remastered Trakt progress page. Should be quicker loading.
+    - Added settings to customize Progress page (colorize, sorting, filtering).
+    - Added setting to allow automatic add/remove to custom Trakt Userlist.
+    - Fixed issue with TMDB lists.
+    - Added Trakt recommendations to Movies/Shows. It shows recommendations for currently logged user.
+    - Added Trakt Top lists. Lot of collections, composed by people.
+    - Small fixes.
+
 [B][COLOR red]v0.0.53[/COLOR][/B]
     - Added configuration for autoloading torrents on startup (only for non-memory storage).
     - Added configuration for adding and removing movies/shows from Trakt lists when operated in Kodi library.
