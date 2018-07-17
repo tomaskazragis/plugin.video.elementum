@@ -176,7 +176,7 @@
         <setting id="trakt_progress_color_date" label="30425" type="text" default="yellow" />
         <setting id="trakt_progress_color_show" label="30426" type="text" default="none" />
         <setting id="trakt_progress_color_episode" label="30427" type="text" default="skyblue" />
-        <setting id="trakt_progress_date_format" label="30434" type="text" default="2006-01-02" />
+        <setting id="trakt_progress_date_format" label="30434" type="text" default="yyyy-mm-dd" />
       </category>
     <category label="30015">
         <!-- Advanced -->
