@@ -2,6 +2,14 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.55[/COLOR][/B]
+    - Fixed bug with showing Trakt authorizarion when accessing Trakt lists.
+    - More changes to My Progress page look.
+    - Big changes to fanart selection for all lists and items.
+    - Added proper Cast to episodes and seasons.
+    - Splitted option to add/remove items to Trakt into movie/show separate settings.
+    - Changed progress date format to be more usual, like yyyy-mm-dd.
+
 [B][COLOR red]v0.0.54[/COLOR][/B]
     - Remastered Trakt progress page. Should be quicker loading.
     - Added settings to customize Progress page (colorize, sorting, filtering).
