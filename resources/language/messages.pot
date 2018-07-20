@@ -1500,3 +1500,31 @@ msgstr ""
 msgctxt "#30439"
 msgid "Debug information (without kodi.log)"
 msgstr ""
+
+msgctxt "#30440"
+msgid "Color of an unaired episode name"
+msgstr ""
+
+msgctxt "#30441"
+msgid "Select userlist for movies"
+msgstr ""
+
+msgctxt "#30442"
+msgid "Userlist for movies"
+msgstr ""
+
+msgctxt "#30443"
+msgid "Selected userlist for movies"
+msgstr ""
+
+msgctxt "#30444"
+msgid "Select userlist for shows"
+msgstr ""
+
+msgctxt "#30445"
+msgid "Userlist for shows"
+msgstr ""
+
+msgctxt "#30446"
+msgid "Selected userlist for shows"
+msgstr ""

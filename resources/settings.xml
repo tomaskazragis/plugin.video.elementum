@@ -158,17 +158,29 @@
         <setting id="trakt_sync_watched" type="bool" label="30366" default="true" />
         <setting id="trakt_sync_watchedback" type="bool" label="30367" default="true" />
 
-        <setting id="trakt_sync_added"              type="bool" label="30417" default="true" />
-        <setting id="trakt_sync_added_location"     type="enum" label="30418" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
-        <setting                                    type="action" label="30435" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added)" subsetting="true" visible="eq(-1,2)" />
-        <setting id="trakt_sync_added_list_name"    type="text" label="30437"               default="" subsetting="true" visible="eq(-2,2)" enable="false" />
-        <setting id="trakt_sync_added_list"         type="number" label="Added userlist ID"   default="" visible="false" />
+        <setting id="trakt_sync_added_movies"              type="bool" label="30447" default="true" />
+        <setting id="trakt_sync_added_movies_location"     type="enum" label="30442" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30441" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added/movies)" subsetting="true" visible="eq(-1,2)" />
+        <setting id="trakt_sync_added_movies_list_name"    type="text" label="30443"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_added_movies_list"         type="number" label="Added userlist ID"   default="" visible="false" />
+
+        <setting id="trakt_sync_added_shows"               type="bool" label="30448" default="true" />
+        <setting id="trakt_sync_added_shows_location"      type="enum" label="30445" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30444" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added/shows)" subsetting="true" visible="eq(-1,2)" />
+        <setting id="trakt_sync_added_shows_list_name"     type="text" label="30446"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_added_shows_list"          type="number" label="Added userlist ID"   default="" visible="false" />
         
-        <setting id="trakt_sync_removed"            type="bool" label="30419" default="true" />
-        <setting id="trakt_sync_removed_location"   type="enum" label="30420" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
-        <setting                                    type="action" label="30435" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed)" subsetting="true" visible="eq(-1,2)" />
-        <setting id="trakt_sync_removed_list_name"  type="text" label="30437"               default="" subsetting="true" visible="eq(-2,2)" enable="false" />
-        <setting id="trakt_sync_removed_list"       type="number" label="Removed userlist ID" default="" visible="false" />
+        <setting id="trakt_sync_removed_movies"            type="bool" label="30449" default="true" />
+        <setting id="trakt_sync_removed_movies_location"   type="enum" label="30442" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30441" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/movies)" subsetting="true" visible="eq(-1,2)" />
+        <setting id="trakt_sync_removed_movies_list_name"  type="text" label="30443"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_removed_movies_list"       type="number" label="Removed userlist ID"   default="" visible="false" />
+
+        <setting id="trakt_sync_removed_shows"             type="bool" label="30450" default="true" />
+        <setting id="trakt_sync_removed_shows_location"    type="enum" label="30445" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30444" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/shows)" subsetting="true" visible="eq(-1,2)" />
+        <setting id="trakt_sync_removed_shows_list_name"   type="text" label="30446"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_removed_shows_list"        type="number" label="Removed userlist ID"   default="" visible="false" />
 
         <setting label="30424" type="lsep" />
         <setting id="trakt_progress_sort" type="enum" label="30429" lvalues="30430|30431|30432|30433" default="0" />
@@ -176,6 +188,7 @@
         <setting id="trakt_progress_color_date" label="30425" type="text" default="yellow" />
         <setting id="trakt_progress_color_show" label="30426" type="text" default="none" />
         <setting id="trakt_progress_color_episode" label="30427" type="text" default="skyblue" />
+        <setting id="trakt_progress_color_unaired" label="30427" type="text" default="deeppink" />
         <setting id="trakt_progress_date_format" label="30434" type="text" default="yyyy-mm-dd" />
       </category>
     <category label="30015">

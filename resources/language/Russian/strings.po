@@ -1489,3 +1489,47 @@ msgstr "Userlists"
 msgctxt "#30439"
 msgid "Debug information (without kodi.log)"
 msgstr "Debug информация (без kodi.log)"
+
+msgctxt "#30440"
+msgid "Color of an unaired episode name"
+msgstr "Цвет названия невышедшей серии"
+
+msgctxt "#30441"
+msgid "Select userlist for movies"
+msgstr "Выбрать userlist для фильмов"
+
+msgctxt "#30442"
+msgid "Userlist for movies"
+msgstr "Userlist для фильмов"
+
+msgctxt "#30443"
+msgid "Selected userlist for movies"
+msgstr "Выбранный userlist для фильмов"
+
+msgctxt "#30444"
+msgid "Select userlist for shows"
+msgstr "Выбрать userlist для сериалов"
+
+msgctxt "#30445"
+msgid "Userlist for shows"
+msgstr "Userlist для сериалов"
+
+msgctxt "#30446"
+msgid "Selected userlist for shows"
+msgstr "Выбранный userlist для сериалов"
+
+msgctxt "#30447"
+msgid "Add to Trakt, when movie is added to Kodi library"
+msgstr "Добавить в Trakt, когда фильм добавляется в библиотеку Kodi"
+
+msgctxt "#30448"
+msgid "Add to Trakt, when show is added to Kodi library"
+msgstr "Добавить в Trakt, когда сериал добавляется в библиотеку Kodi"
+
+msgctxt "#30449"
+msgid "Remove from Trakt, when movie is deleted from Kodi library"
+msgstr "Удалить из Trakt, когда фильм удален из библиотеки Kodi"
+
+msgctxt "#30450"
+msgid "Remove from Trakt, when show is deleted from Kodi library"
+msgstr "Удалить из Trakt, когда сериал удален из библиотеки Kodi"
