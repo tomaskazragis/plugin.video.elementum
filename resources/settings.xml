@@ -117,7 +117,7 @@
         <!-- Custom timeout -->
         <setting label="30016" type="lsep" />
         <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
-        <setting id="custom_provider_timeout" label="30018" type="slider" option="int" range="10,1,40" default="15" visible="eq(-1,true)" />
+        <setting id="custom_provider_timeout" label="30018" type="slider" option="int" range="10,1,60" default="15" visible="eq(-1,true)" />
     </category>
     <!-- Proxy -->
     <category label="30008">
@@ -188,8 +188,15 @@
         <setting id="trakt_progress_color_date" label="30425" type="text" default="yellow" />
         <setting id="trakt_progress_color_show" label="30426" type="text" default="none" />
         <setting id="trakt_progress_color_episode" label="30427" type="text" default="skyblue" />
-        <setting id="trakt_progress_color_unaired" label="30427" type="text" default="deeppink" />
+        <setting id="trakt_progress_color_unaired" label="30440" type="text" default="deeppink" />
         <setting id="trakt_progress_date_format" label="30434" type="text" default="yyyy-mm-dd" />
+
+        <setting label="30290" type="lsep" />
+        <setting id="trakt_calendars_color_date" label="30425" type="text" default="yellow" />
+        <setting id="trakt_calendars_color_show" label="30426" type="text" default="none" />
+        <setting id="trakt_calendars_color_episode" label="30427" type="text" default="skyblue" />
+        <setting id="trakt_calendars_color_unaired" label="30440" type="text" default="deeppink" />
+        <setting id="trakt_calendars_date_format" label="30434" type="text" default="yyyy-mm-dd" />
       </category>
     <category label="30015">
         <!-- Advanced -->
