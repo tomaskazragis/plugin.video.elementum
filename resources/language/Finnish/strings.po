@@ -1517,6 +1517,22 @@ msgctxt "#30446"
 msgid "Selected userlist for shows"
 msgstr ""
 
+msgctxt "#30447"
+msgid "Add to Trakt, when movie is added to Kodi library"
+msgstr ""
+
+msgctxt "#30448"
+msgid "Add to Trakt, when show is added to Kodi library"
+msgstr ""
+
+msgctxt "#30449"
+msgid "Remove from Trakt, when movie is deleted from Kodi library"
+msgstr ""
+
+msgctxt "#30450"
+msgid "Remove from Trakt, when show is deleted from Kodi library"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Latauspolku (ei FAT32)"

@@ -10,15 +10,14 @@ ARCHS = \
 	android_x86 \
 	darwin_x86 \
 	darwin_x64 \
-	ios_arm64 \
-	ios_arm-7 \
 	linux_arm-6 \
 	linux_arm-7 \
 	linux_arm64 \
 	linux_x64 \
 	linux_x86 \
 	windows_x64 \
-	windows_x86
+	windows_x86 \
+	client
 ZIP_SUFFIX = zip
 ZIP_FILE = $(NAME)-$(VERSION).$(ZIP_SUFFIX)
 
