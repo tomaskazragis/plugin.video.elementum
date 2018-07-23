@@ -2,6 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.56[/COLOR][/B]
+    - Added usage of fanart.tv service for setting fanart.
+    - Added reading advancedsettings.xml file to adjust buffer size in Elementum.
+    - Changed Calendars pages.
+    - More changes to progress pages.
+
 [B][COLOR red]v0.0.55[/COLOR][/B]
     - Fixed bug with showing Trakt authorizarion when accessing Trakt lists.
     - More changes to My Progress page look.
