@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2018-07-13 23:49-0300\n"
+"PO-Revision-Date: 2018-07-22 21:11-0300\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -394,11 +394,11 @@ msgstr "Desactivar sonido de notificación"
 
 msgctxt "#30094"
 msgid "Disable background progress dialog"
-msgstr "Desactivar diálogo de progreso en segundo plano"
+msgstr "Desactivar diálogo de avance en segundo plano"
 
 msgctxt "#30095"
 msgid "Sync watched progress with Kodi"
-msgstr "Sincronizar progreso de reproducción con Kodi"
+msgstr "Sincronizar avance de reproducción con Kodi"
 
 msgctxt "#30096"
 msgid "Never"
@@ -1254,7 +1254,7 @@ msgstr "No realizar preguntas antes de reproducción"
 
 msgctxt "#30360"
 msgid "My Progress"
-msgstr "Mi progreso"
+msgstr "Mi avance"
 
 msgctxt "#30361"
 msgid "My History"
@@ -1405,8 +1405,8 @@ msgid "Web UI"
 msgstr "UI web"
 
 msgctxt "#30398"
-msgid "Debug information"
-msgstr "Información de depuración"
+msgid "Debug information (with kodi.log)"
+msgstr "Información de depuración (con kodi.log)"
 
 msgctxt "#30399"
 msgid "Addresses"
@@ -1500,14 +1500,102 @@ msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
 msgstr "Cargar torrents de carpeta de torrents en arranque"
 
-#~ msgctxt "#30001"
-#~ msgid "Download path (not FAT32)"
-#~ msgstr "Ruta para descargar (NO FAT32)"
+msgctxt "#30422"
+msgid "Popular lists"
+msgstr "Listas populares"
 
-#~ msgctxt "#30021"
-#~ msgid "Enable pagination"
-#~ msgstr "Activar paginación"
+msgctxt "#30423"
+msgid "Recommendations"
+msgstr "Recomendaciones"
 
-#~ msgctxt "#30028"
-#~ msgid "Background handling of torrents"
-#~ msgstr "Procesar torrents en segundo plano"
+msgctxt "#30424"
+msgid "Progress"
+msgstr "Avance"
+
+msgctxt "#30425"
+msgid "Color of an air date"
+msgstr "Color de fechas de emisión"
+
+msgctxt "#30426"
+msgid "Color of a show name"
+msgstr "Color de nombres de series"
+
+msgctxt "#30427"
+msgid "Color of an episode name"
+msgstr "Color de nombres de episodios"
+
+msgctxt "#30428"
+msgid "Hide unaired episodes"
+msgstr "Ocultar episodios no emitidos"
+
+msgctxt "#30429"
+msgid "Sort shows in the list"
+msgstr "Ordenar series en la lista"
+
+msgctxt "#30430"
+msgid "By latest watched"
+msgstr "Por última vista"
+
+msgctxt "#30431"
+msgid "By show name"
+msgstr "Por nombre de serie"
+
+msgctxt "#30432"
+msgid "By air date (newer)"
+msgstr "Por fecha de emisión (mas reciente)"
+
+msgctxt "#30433"
+msgid "By air date (older)"
+msgstr "Por fecha de emisión (mas antigua)"
+
+msgctxt "#30434"
+msgid "Date format"
+msgstr "Formato de fecha"
+
+msgctxt "#30435"
+msgid "Select userlist"
+msgstr "Seleccione userlist Trakt"
+
+msgctxt "#30436"
+msgid "Userlist"
+msgstr "Userlist Trakt"
+
+msgctxt "#30437"
+msgid "Selected userlist"
+msgstr "Userlist Trakt seleccionada"
+
+msgctxt "#30438"
+msgid "Userlists"
+msgstr "Userlists Trakt"
+
+msgctxt "#30439"
+msgid "Debug information (without kodi.log)"
+msgstr "Información de depuración (sin kodi.log)"
+
+msgctxt "#30440"
+msgid "Color of an unaired episode name"
+msgstr "Color de nombres de episodios no emitidos"
+
+msgctxt "#30441"
+msgid "Select userlist for movies"
+msgstr "Seleccione userlist Trakt para pelis"
+
+msgctxt "#30442"
+msgid "Userlist for movies"
+msgstr "Userlist para pelis"
+
+msgctxt "#30443"
+msgid "Selected userlist for movies"
+msgstr "Userlist para pelis seleccionada"
+
+msgctxt "#30444"
+msgid "Select userlist for shows"
+msgstr "Seleccione userlist Trakt para series"
+
+msgctxt "#30445"
+msgid "Userlist for shows"
+msgstr "Userlist para series"
+
+msgctxt "#30446"
+msgid "Selected userlist for shows"
+msgstr "Userlist para series seleccionada"
