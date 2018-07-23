@@ -1332,7 +1332,7 @@ msgid "Web UI"
 msgstr ""
 
 msgctxt "#30398"
-msgid "Debug information"
+msgid "Debug information (with kodi.log)"
 msgstr ""
 
 msgctxt "#30399"
@@ -1397,6 +1397,134 @@ msgstr ""
 
 msgctxt "#30414"
 msgid "No"
+msgstr ""
+
+msgctxt "#30415"
+msgid "Next page (%s)"
+msgstr ""
+
+msgctxt "#30416"
+msgid "Percents of playback to mark as watched"
+msgstr ""
+
+msgctxt "#30417"
+msgid "Add to Trakt, when movie/show is added to Kodi library"
+msgstr ""
+
+msgctxt "#30418"
+msgid "Add to ..."
+msgstr ""
+
+msgctxt "#30419"
+msgid "Remove from Trakt, when movie/show is deleted from Kodi library"
+msgstr ""
+
+msgctxt "#30420"
+msgid "Remove from ..."
+msgstr ""
+
+msgctxt "#30421"
+msgid "Load torrents from torrents folder on startup"
+msgstr ""
+
+msgctxt "#30422"
+msgid "Popular lists"
+msgstr ""
+
+msgctxt "#30423"
+msgid "Recommendations"
+msgstr ""
+
+msgctxt "#30424"
+msgid "Progress"
+msgstr ""
+
+msgctxt "#30425"
+msgid "Color of an air date"
+msgstr ""
+
+msgctxt "#30426"
+msgid "Color of a show name"
+msgstr ""
+
+msgctxt "#30427"
+msgid "Color of an episode name"
+msgstr ""
+
+msgctxt "#30428"
+msgid "Hide unaired episodes"
+msgstr ""
+
+msgctxt "#30429"
+msgid "Sort shows in the list"
+msgstr ""
+
+msgctxt "#30430"
+msgid "By latest watched"
+msgstr ""
+
+msgctxt "#30431"
+msgid "By show name"
+msgstr ""
+
+msgctxt "#30432"
+msgid "By air date (newer)"
+msgstr ""
+
+msgctxt "#30433"
+msgid "By air date (older)"
+msgstr ""
+
+msgctxt "#30434"
+msgid "Date format"
+msgstr ""
+
+msgctxt "#30435"
+msgid "Select userlist"
+msgstr ""
+
+msgctxt "#30436"
+msgid "Userlist"
+msgstr ""
+
+msgctxt "#30437"
+msgid "Selected userlist"
+msgstr ""
+
+msgctxt "#30438"
+msgid "Userlists"
+msgstr ""
+
+msgctxt "#30439"
+msgid "Debug information (without kodi.log)"
+msgstr ""
+
+msgctxt "#30440"
+msgid "Color of an unaired episode name"
+msgstr ""
+
+msgctxt "#30441"
+msgid "Select userlist for movies"
+msgstr ""
+
+msgctxt "#30442"
+msgid "Userlist for movies"
+msgstr ""
+
+msgctxt "#30443"
+msgid "Selected userlist for movies"
+msgstr ""
+
+msgctxt "#30444"
+msgid "Select userlist for shows"
+msgstr ""
+
+msgctxt "#30445"
+msgid "Userlist for shows"
+msgstr ""
+
+msgctxt "#30446"
+msgid "Selected userlist for shows"
 msgstr ""
 
 #~ msgctxt "#30001"
