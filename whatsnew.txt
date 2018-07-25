@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.58[/COLOR][/B]
+    - Quick fix release. 
+
 [B][COLOR red]v0.0.57[/COLOR][/B]
     - Changed thumbnails detection for episodes.
     - Changed resolution detection for found streams.
