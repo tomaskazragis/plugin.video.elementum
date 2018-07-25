@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.57[/COLOR][/B]
+    - Changed thumbnails detection for episodes.
+    - Changed resolution detection for found streams.
+    - Fixed repository creation.
+
 [B][COLOR red]v0.0.56[/COLOR][/B]
     - Added usage of fanart.tv service for setting fanart.
     - Added reading advancedsettings.xml file to adjust buffer size in Elementum.
