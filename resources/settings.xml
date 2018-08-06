@@ -20,6 +20,8 @@
 
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting id="library_path" type="folder" label="30026" source="auto" option="writeable" />
+        <setting id="torrents_path" type="folder" label="30451" default="special://temp/elementum_torrents/" source="auto" option="writeable" />
+        <setting type="action" label="30452" action="RunPlugin(plugin://plugin.video.elementum/cmd/reset_path)" />
 
         <!-- Download -->
         <setting label="30325" type="lsep" />

@@ -1533,3 +1533,11 @@ msgstr "Удалить из Trakt, когда фильм удален из би�
 msgctxt "#30450"
 msgid "Remove from Trakt, when show is deleted from Kodi library"
 msgstr "Удалить из Trakt, когда сериал удален из библиотеки Kodi"
+
+msgctxt "#30451"
+msgid "Torrent files path"
+msgstr "Путь к торрент файлам"
+
+msgctxt "#30452"
+msgid "Reset all paths"
+msgstr "Сбросить все пути"

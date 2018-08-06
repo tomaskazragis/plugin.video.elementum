@@ -1544,3 +1544,11 @@ msgstr ""
 msgctxt "#30450"
 msgid "Remove from Trakt, when show is deleted from Kodi library"
 msgstr ""
+
+msgctxt "#30451"
+msgid "Torrent files path"
+msgstr ""
+
+msgctxt "#30452"
+msgid "Reset all paths"
+msgstr ""
