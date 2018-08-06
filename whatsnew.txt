@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.59[/COLOR][/B]
+    - Splitted Download path into Download+Torrents.
+    - Download path now is not needed for memory storage.
+    - Small fixes to fanart detection.
+
 [B][COLOR red]v0.0.58[/COLOR][/B]
     - Quick fix release. 
 
