@@ -1540,3 +1540,24 @@ msgstr ""
 msgctxt "#30452"
 msgid "Reset all paths"
 msgstr ""
+
+msgctxt "#30453"
+msgid "Upload /debug/bundle (with kodi.log) to pastebin"
+msgstr ""
+
+msgctxt "#30454"
+msgid "Paste url:[CR]%s"
+msgstr ""
+
+msgctxt "#30455"
+msgid "Logging"
+msgstr ""
+
+msgctxt "#30456"
+msgid "Upload /debug/all (no kodi.log) to pastebin"
+msgstr ""
+
+msgctxt "#30457"
+msgid "Uploading file to pastebin"
+msgstr ""
+

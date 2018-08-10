@@ -1541,3 +1541,24 @@ msgstr "Путь к торрент файлам"
 msgctxt "#30452"
 msgid "Reset all paths"
 msgstr "Сбросить все пути"
+
+msgctxt "#30453"
+msgid "Upload /debug/bundle (with kodi.log) to pastebin"
+msgstr "Загрузить /debug/bundle (с kodi.log) на pastebin"
+
+msgctxt "#30454"
+msgid "Paste url:[CR]%s"
+msgstr "Ссылка на лог:[CR]%s"
+
+msgctxt "#30455"
+msgid "Logging"
+msgstr "Логирование"
+
+msgctxt "#30456"
+msgid "Upload /debug/all (no kodi.log) to pastebin"
+msgstr "Загрузить /debug/all (без kodi.log) на pastebin"
+
+msgctxt "#30457"
+msgid "Uploading file to pastebin"
+msgstr "Загружаем файл на pastebin"
+
