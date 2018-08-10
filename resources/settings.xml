@@ -102,6 +102,7 @@
         <setting id="resolution_preference_movies" label="30047" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="resolution_preference_shows" label="30048" type="enum" values="1080p / 720p / 480p|720p / 1080p / 480p|720p / 480p / 1080p|480p / 720p / 1080p" />
         <setting id="percentage_additional_seeders" label="30049" type="number" default="25" />
+        
         <!-- Caching -->
         <setting label="30387" type="lsep" />
         <setting id="use_cache_selection" label="30388" type="bool" default="true" />
@@ -116,6 +117,7 @@
         
         <setting id="provider_disable_failing" label="30031" type="bool" default="false" />
         <setting id="provider_allowed_failures" label="30032" type="slider" option="int" range="0,1,10" default="3" />
+        
         <!-- Custom timeout -->
         <setting label="30016" type="lsep" />
         <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
@@ -203,12 +205,17 @@
     <category label="30015">
         <!-- Advanced -->
         <setting label="30019" type="lsep" />
-        <setting id="logger_silent" type="bool" label="30407" default="false" />
         <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.elementum/cmd/clear_cache)" />
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
         <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
         <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
         <setting id="library_auto_scan" type="bool" label="30089" default="true" />
+
+        <!-- Logging -->
+        <setting label="30455" type="lsep" />
+        <setting type="action" label="30453" action="RunPlugin(plugin://plugin.video.elementum/cmd/paste/bundle)" />
+        <setting type="action" label="30456" action="RunPlugin(plugin://plugin.video.elementum/cmd/paste/all)" />
+        <setting id="logger_silent" type="bool" label="30407" default="false" />
 
         <!-- CloudHole -->
         <setting label="CloudHole" type="lsep" />
