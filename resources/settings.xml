@@ -121,7 +121,7 @@
         <!-- Custom timeout -->
         <setting label="30016" type="lsep" />
         <setting id="custom_provider_timeout_enabled" label="30017" type="bool" default="false" />
-        <setting id="custom_provider_timeout" label="30018" type="slider" option="int" range="7,1,180" default="20" visible="eq(-1,true)" />
+        <setting id="custom_provider_timeout" label="30018" type="slider" option="int" range="7,1,180" default="30" visible="eq(-1,true)" />
     </category>
     <!-- Proxy -->
     <category label="30008">
