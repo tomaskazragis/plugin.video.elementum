@@ -25,7 +25,7 @@ msgstr "Ruta para descargas"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Mantener archivos después de detener la reproducción/descarga"
+msgstr "Conservar archivos tras la reproducción/descarga"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
@@ -41,11 +41,11 @@ msgstr "Velocidad máxima de descarga (kB/S)"
 
 msgctxt "#30006"
 msgid "Listen port min"
-msgstr "Puerto a la escucha mínimo"
+msgstr "Mímimo puerto a la escucha"
 
 msgctxt "#30007"
 msgid "Listen port max"
-msgstr "Puerto a la escucha máximo"
+msgstr "Máximo puerto a la escucha"
 
 msgctxt "#30008"
 msgid "Proxy"
@@ -153,19 +153,19 @@ msgstr "Apariencia"
 
 msgctxt "#30034"
 msgid "Default view for Movies"
-msgstr "Vista predeterminada para Películas"
+msgstr "Vista por defecto para Películas"
 
 msgctxt "#30035"
 msgid "Default view for TV Shows"
-msgstr "Vista predeterminada para Series TV"
+msgstr "Vista por defecto para Series TV"
 
 msgctxt "#30036"
 msgid "Default view for Seasons"
-msgstr "Vista predeterminada para Temporadas"
+msgstr "Vista por defecto para Temporadas"
 
 msgctxt "#30037"
 msgid "Default view for Episodes"
-msgstr "Vista predeterminada para Episodios"
+msgstr "Vista por defecto para Episodios"
 
 msgctxt "#30038"
 msgid "Prefer use of original title"
@@ -257,7 +257,7 @@ msgstr "Retardo durante inicio para actualizar biblioteca (segundos)"
 
 msgctxt "#30060"
 msgid "Library update frequency (hours)"
-msgstr "Frecuencia de actualización de la biblioteca (horas)"
+msgstr "Actualización de la biblioteca (horas)"
 
 msgctxt "#30061"
 msgid "Sync frequency of Trakt lists to library (hours)"
@@ -265,7 +265,7 @@ msgstr "Frecuencia de sincronización de Trakt con biblioteca (horas)"
 
 msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
-msgstr "Preguntar para mantener archivo después de reproducir"
+msgstr "Conservar archivos después de reproducir"
 
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
@@ -317,7 +317,7 @@ msgstr "User-agent engañoso (altamente desaconsejable)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr "Predeterminado aconsejable (aceptable)"
+msgstr "Por defecto (aceptable)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -365,11 +365,11 @@ msgstr "Habilitar ajustes para almacenamiento sintonizado"
 
 msgctxt "#30087"
 msgid "Ask to delete the files after streaming"
-msgstr "Preguntar para eliminar archivo después de reproducir"
+msgstr "Eliminar archivos después de reproducir"
 
 msgctxt "#30088"
 msgid "Initial buffering timeout (seconds)"
-msgstr "Timeout para buffering inicial (segundos)"
+msgstr "Timeout buffering inicial (segundos)"
 
 msgctxt "#30089"
 msgid "Automatically re-scan Kodi library after updates"
@@ -494,23 +494,23 @@ msgstr "Por favor apoye el desarrollo de Elementum visitando https://quasar.surg
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
-msgstr "Vista predeterminada para menús en Películas"
+msgstr "Vista por defecto para menús en Películas"
 
 msgctxt "#30143"
 msgid "Default view for menus in TV Shows"
-msgstr "Vista predeterminada para menús en Series TV"
+msgstr "Vista por defecto para menús en Series TV"
 
 msgctxt "#30144"
 msgid "Default view for movie genres"
-msgstr "Vista predeterminada para géneros de películas"
+msgstr "Vista por defecto para géneros de Películas"
 
 msgctxt "#30145"
 msgid "Default view for TV show genres"
-msgstr "Vista predeterminada para géneros de series TV"
+msgstr "Vista por defecto para géneros de Series TV"
 
 msgctxt "#30146"
 msgid "Keep downloading?"
-msgstr "¿Desea continuar la descarga?"
+msgstr "¿Continuo con la descarga del archivo?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
@@ -563,7 +563,7 @@ msgstr "No hay suficiente espacio disponible en la ruta de descarga."
 
 msgctxt "#30208"
 msgid "Elementum daemon has started"
-msgstr "Demonio Elementum iniciado"
+msgstr "Demonio Elementum arrancado"
 
 msgctxt "#30209"
 msgid "Search"
@@ -595,7 +595,7 @@ msgstr "Series de TV"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Añadir Torrent"
+msgstr "Añadir torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
@@ -611,7 +611,7 @@ msgstr "Añadir / Eliminar de biblioteca"
 
 msgctxt "#30220"
 msgid "Library path not set"
-msgstr "Ruta de biblioteca no configurada"
+msgstr "La ruta para la biblioteca no esta configurada"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
@@ -627,7 +627,7 @@ msgstr "Archivos"
 
 msgctxt "#30224"
 msgid "Provider error"
-msgstr "Error proveedores"
+msgstr "Error en proveedores"
 
 msgctxt "#30225"
 msgid "Navigation error"
@@ -679,11 +679,11 @@ msgstr "Lanzadas recientemente"
 
 msgctxt "#30237"
 msgid "Recent Shows"
-msgstr "Series Recientes"
+msgstr "Series recientes"
 
 msgctxt "#30238"
 msgid "Recent Episodes"
-msgstr "Episodios Recientes"
+msgstr "Episodios recientes"
 
 msgctxt "#30239"
 msgid "Providers"
@@ -739,7 +739,7 @@ msgstr "Taquilla"
 
 msgctxt "#30252"
 msgid "Add to library"
-msgstr "Añadir a Biblioteca"
+msgstr "Añadir a biblioteca"
 
 msgctxt "#30253"
 msgid "Remove from library"
@@ -971,7 +971,7 @@ msgstr "Mantener"
 
 msgctxt "#30310"
 msgid "Ask to delete"
-msgstr "Preguntar para eliminar"
+msgstr "Preguntar"
 
 msgctxt "#30311"
 msgid "Delete"
@@ -979,11 +979,11 @@ msgstr "Eliminar"
 
 msgctxt "#30312"
 msgid "Keep files for not finished video"
-msgstr "Mantener archivos de vídeo no completados"
+msgstr "Conservar archivos de vídeo no completados"
 
 msgctxt "#30313"
 msgid "Keep files for watched/downloaded video"
-msgstr "Mantener archivos para videos vistos/descargado"
+msgstr "Conservar archivos de vídeo vistos/descargados"
 
 msgctxt "#30314"
 msgid "Settings were not initialized.[CR]Save addon settings, then restart Kodi."
@@ -991,7 +991,7 @@ msgstr "Los ajustes no se inicializaron.[CR]Guarde la configuración del addon, 
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr "Tipo almacenamiento descargas"
+msgstr "Tipo de almacenamiento para descargas"
 
 msgctxt "#30316"
 msgid "Use files"
@@ -1011,7 +1011,7 @@ msgstr "Continuar"
 
 msgctxt "#30320"
 msgid "Ask to stop"
-msgstr "Preguntar para detener"
+msgstr "Preguntar"
 
 msgctxt "#30321"
 msgid "Stop"
@@ -1031,7 +1031,7 @@ msgstr "Forzar auto-selección del stream desde ajustes"
 
 msgctxt "#30325"
 msgid "Download"
-msgstr "Descargar"
+msgstr "Descargas"
 
 msgctxt "#30326"
 msgid "Kodi library"
@@ -1119,7 +1119,7 @@ msgstr "No se pudo migrar ningún elemento"
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr "No se pudo encontrar binario para la arquitectura '%s'![CR]Intenta desinstalar el addon, volver a descargarlo y reinstalar desde el zip de mayor tamaño."
+msgstr "¡No se pudo encontrar binario para arquitectura '%s'![CR]Trate de desinstalar el addon, volver a descargarlo y reinstalar desde el zip de mayor tamaño."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
@@ -1131,7 +1131,7 @@ msgstr "Utiliza la memoria del dispositivo para descargar partes del torrent.[CR
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr "por lo que puede ser cualquier tipo de almacenamiento 100mb[CR]es suficiente para el almacenamiento en memoria, 200-250mb para dispositivos más grandes."
+msgstr "puede ser cualquier tipo de almacenamiento 100mb[CR]es suficiente para el almacenamiento en memoria, 200-250mb para dispositivos más grandes."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
@@ -1143,7 +1143,7 @@ msgstr "Igual que el almacenamiento de archivos habitual, pero utilizando[CR]la 
 
 msgctxt "#30353"
 msgid "Auto-assign network ports"
-msgstr "Asignación automática de puertos de red"
+msgstr "Asignar automáticamente puertos de red"
 
 msgctxt "#30354"
 msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
@@ -1171,11 +1171,11 @@ msgstr "No realizar preguntas antes de la reproducción"
 
 msgctxt "#30360"
 msgid "My Progress"
-msgstr "Mis Progresos"
+msgstr "Mis progresos"
 
 msgctxt "#30361"
 msgid "My History"
-msgstr "Mi Historial"
+msgstr "Mi historial"
 
 msgctxt "#30362"
 msgid "Synchronization"
@@ -1183,19 +1183,19 @@ msgstr "Sincronización"
 
 msgctxt "#30363"
 msgid "Sync items from collections into Kodi library"
-msgstr "Sincronizar elementos de colecciones con biblioteca Kodi"
+msgstr "Sincronizar colecciones con biblioteca Kodi"
 
 msgctxt "#30364"
 msgid "Sync items from watchlist into Kodi library"
-msgstr "Sincronizar elementos en listas de seguimiento con biblioteca Kodi"
+msgstr "Sincronizar listas de seguimiento con biblioteca Kodi"
 
 msgctxt "#30365"
 msgid "Sync items from user lists into Kodi library"
-msgstr "Sincronizar elementos en listas de usuario con biblioteca Kodi"
+msgstr "Sincronizar listas de usuario con biblioteca Kodi"
 
 msgctxt "#30366"
 msgid "Sync watched states from Trakt into Kodi library"
-msgstr "Sincronizar vistos de Trakt con biblioteca Kodi"
+msgstr "Sincronizar vistos con biblioteca Kodi"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
@@ -1215,11 +1215,11 @@ msgstr "Asignar automáticamente dirección IP "
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr "Asignar automáticamente puerto de red "
+msgstr "Asignar automáticamente puertos de red "
 
 msgctxt "#30372"
 msgid "Force resume playback"
-msgstr "Forzar resumen en la reproducción"
+msgstr "Forzar resumen de la reproducción"
 
 msgctxt "#30373"
 msgid "Languages"
@@ -1295,11 +1295,11 @@ msgstr "Tiempo para mantener búsquedas en caché (segundos)"
 
 msgctxt "#30391"
 msgid "List of public DNS IPs"
-msgstr "Lista IPs DNS público"
+msgstr "Lista IP DNS público"
 
 msgctxt "#30392"
 msgid "List of Opennic DNS IPs"
-msgstr "Lista IPs DNS Opennic"
+msgstr "Lista IP DNS Opennic"
 
 msgctxt "#30393"
 msgid "Status"
@@ -1395,7 +1395,7 @@ msgstr "Próxima página (%s)"
 
 msgctxt "#30416"
 msgid "Percents of playback to mark as watched"
-msgstr "Porcentaje de reproducción para considerar como visto"
+msgstr "Porcentaje de reproducción para marcar como visto"
 
 msgctxt "#30417"
 msgid "Add to Trakt, when movie/show is added to Kodi library"
@@ -1532,6 +1532,14 @@ msgstr "Eliminar de Trakt, cuando la película es borrada de la biblioteca Kodi"
 msgctxt "#30450"
 msgid "Remove from Trakt, when show is deleted from Kodi library"
 msgstr "Eliminar de Trakt, cuando la serie es borrada de la biblioteca Kodi"
+
+msgctxt "#30451"
+msgid "Torrent files path"
+msgstr "Ruta para archivos torrent"
+
+msgctxt "#30452"
+msgid "Reset all paths"
+msgstr "Restablecer todas las rutas"
 
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
