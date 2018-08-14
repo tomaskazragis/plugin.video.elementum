@@ -1621,3 +1621,11 @@ msgstr "Вы уверены что хотите сделать это?"
 msgctxt "#30472"
 msgid "Database cleared"
 msgstr "База данных очищена"
+
+msgctxt "#30473"
+msgid "Select network interface"
+msgstr "Выбрать сетевой интерфейс"
+
+msgctxt "#30474"
+msgid "Network interfaces"
+msgstr "Сетевые интерфейсы"

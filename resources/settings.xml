@@ -87,6 +87,7 @@
         <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" default="0" />
         <setting id="listen_autodetect_ip" label="30370" type="bool" default="true" />
         <setting id="listen_interfaces" label="30090" type="text" default="" visible="eq(-1,false)" />
+        <setting type="action" label="30473" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_network_interface)" subsetting="true" visible="eq(-2,false)" />
         <setting id="listen_autodetect_port" label="30371" type="bool" default="true" />
         <setting id="listen_port_min" label="30006" type="number" default="6881" visible="eq(-1,false)" />
         <setting id="listen_port_max" label="30007" type="number" default="6891" visible="eq(-2,false)" />

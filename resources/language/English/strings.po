@@ -1620,3 +1620,11 @@ msgstr ""
 msgctxt "#30472"
 msgid "Database cleared"
 msgstr ""
+
+msgctxt "#30473"
+msgid "Select network interface"
+msgstr ""
+
+msgctxt "#30474"
+msgid "Network interfaces"
+msgstr ""
