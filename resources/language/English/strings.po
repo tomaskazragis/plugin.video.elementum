@@ -1561,3 +1561,62 @@ msgctxt "#30457"
 msgid "Uploading file to pastebin"
 msgstr ""
 
+msgctxt "#30458"
+msgid "Deleted movies"
+msgstr ""
+
+msgctxt "#30459"
+msgid "Deleted shows"
+msgstr ""
+
+msgctxt "#30460"
+msgid "Database"
+msgstr ""
+
+msgctxt "#30461"
+msgid "Show information"
+msgstr ""
+
+msgctxt "#30462"
+msgid "Clear deleted movies"
+msgstr ""
+
+msgctxt "#30463"
+msgid "Clear deleted shows"
+msgstr ""
+
+msgctxt "#30464"
+msgid "Clear torrents history"
+msgstr ""
+
+msgctxt "#30465"
+msgid "Clear search history"
+msgstr ""
+
+msgctxt "#30466"
+msgid "Clear the database"
+msgstr ""
+
+msgctxt "#30467"
+msgid "Cache"
+msgstr ""
+
+msgctxt "#30468"
+msgid "Clear TMDB cache"
+msgstr ""
+
+msgctxt "#30469"
+msgid "Clear Trakt cache"
+msgstr ""
+
+msgctxt "#30470"
+msgid "Clear the cache"
+msgstr ""
+
+msgctxt "#30471"
+msgid "Are you sure you want to do it?"
+msgstr ""
+
+msgctxt "#30472"
+msgid "Database cleared"
+msgstr ""

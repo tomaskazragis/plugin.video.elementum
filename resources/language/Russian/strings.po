@@ -1562,3 +1562,62 @@ msgctxt "#30457"
 msgid "Uploading file to pastebin"
 msgstr "Загружаем файл на pastebin"
 
+msgctxt "#30458"
+msgid "Deleted movies"
+msgstr "Удаленные фильмы"
+
+msgctxt "#30459"
+msgid "Deleted shows"
+msgstr "Удаленные сериалы"
+
+msgctxt "#30460"
+msgid "Database"
+msgstr "База данных"
+
+msgctxt "#30461"
+msgid "Show information"
+msgstr "Показать информацию"
+
+msgctxt "#30462"
+msgid "Clear deleted movies"
+msgstr "Очистить удаленные фильмы"
+
+msgctxt "#30463"
+msgid "Clear deleted shows"
+msgstr "Очистить удаленные сериалы"
+
+msgctxt "#30464"
+msgid "Clear torrents history"
+msgstr "Очистить историю торрентов"
+
+msgctxt "#30465"
+msgid "Clear search history"
+msgstr "Очистить историю поиска"
+
+msgctxt "#30466"
+msgid "Clear the database"
+msgstr "Очистить базу данных"
+
+msgctxt "#30467"
+msgid "Cache"
+msgstr "Кеширование"
+
+msgctxt "#30468"
+msgid "Clear TMDB cache"
+msgstr "Очистить кеш TMDB"
+
+msgctxt "#30469"
+msgid "Clear Trakt cache"
+msgstr "Очистить кеш Trakt"
+
+msgctxt "#30470"
+msgid "Clear the cache"
+msgstr "Очистить кеш"
+
+msgctxt "#30471"
+msgid "Are you sure you want to do it?"
+msgstr "Вы уверены что хотите сделать это?"
+
+msgctxt "#30472"
+msgid "Database cleared"
+msgstr "База данных очищена"

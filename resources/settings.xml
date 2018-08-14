@@ -205,11 +205,25 @@
     <category label="30015">
         <!-- Advanced -->
         <setting label="30019" type="lsep" />
-        <setting type="action" label="30020" action="RunPlugin(plugin://plugin.video.elementum/cmd/clear_cache)" />
         <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
         <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
         <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
         <setting id="library_auto_scan" type="bool" label="30089" default="true" />
+
+        <!-- Database -->
+        <setting label="30460" type="lsep" />
+        <setting type="action" label="30461" action="RunPlugin(plugin://plugin.video.elementum/status)" />
+        <setting type="action" label="30462" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_movies)" />
+        <setting type="action" label="30463" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_shows)" />
+        <setting type="action" label="30464" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_torrent_history)" />
+        <setting type="action" label="30465" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_search_history)" />
+        <setting type="action" label="30466" action="RunPlugin(plugin://plugin.video.elementum/cmd/database/clear_database)" />
+
+        <!-- Cache -->
+        <setting label="30467" type="lsep" />
+        <setting type="action" label="30468" action="RunPlugin(plugin://plugin.video.elementum/cmd/cache/clear_tmdb)" />
+        <setting type="action" label="30469" action="RunPlugin(plugin://plugin.video.elementum/cmd/cache/clear_trakt)" />
+        <setting type="action" label="30470" action="RunPlugin(plugin://plugin.video.elementum/cmd/cache/clear_cache)" />
 
         <!-- Logging -->
         <setting label="30455" type="lsep" />
