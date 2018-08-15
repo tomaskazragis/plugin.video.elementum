@@ -1645,3 +1645,7 @@ msgstr "Язык оригинала"
 msgctxt "#30478"
 msgid "Searching"
 msgstr "Поиск"
+
+msgctxt "#30479"
+msgid "Automatically run Kodi library update after add/delete"
+msgstr "Автоматически запускать сканирование Kodi после добавления/удаления"

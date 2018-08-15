@@ -47,6 +47,7 @@
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
         <setting id="unaired_episodes" type="bool" label="30285" default="false" />
         <setting id="playback_percent" label="30416" type="slider" option="int" range="1,1,100" default="85" />
+        <setting id="auto_library_update" label="30479" type="bool" default="true" />
         <setting id="strm_language" label="30475" type="text" default="Original" />
             <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_strm_language)" subsetting="true" />
 
