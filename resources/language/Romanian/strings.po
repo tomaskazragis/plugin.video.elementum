@@ -1633,6 +1633,26 @@ msgctxt "#30474"
 msgid "Network interfaces"
 msgstr ""
 
+msgctxt "#30475"
+msgid "Strm files language"
+msgstr ""
+
+msgctxt "#30476"
+msgid "Select language"
+msgstr ""
+
+msgctxt "#30477"
+msgid "Original"
+msgstr ""
+
+msgctxt "#30478"
+msgid "Searching"
+msgstr ""
+
+msgctxt "#30479"
+msgid "Automatically run Kodi library update after add/delete"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Calea pentru descărcare (nu FAT32)"
