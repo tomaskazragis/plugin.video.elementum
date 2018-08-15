@@ -2,6 +2,19 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.61[/COLOR][/B]
+    - Increased default providers timeout.
+    - Added options to cleanup database and cache.
+    - Added selection of bittorrent network interface.
+    - Added selection of language for strm files (original names by default).
+    - Added option to automatically (silently) run library update on item add/remote.
+    - Added option to automatically submit logs to pastebin services (Additional -> Logging).
+    - Removed seasonXepisode from episode name for Kodi Player.
+    - Added fallback requests for empty Genres (some langages miss namings).
+    - Torrent files from multiple trackers now include all of them.
+    - More relevant names saved for Torrents (not the one included in torrent file, but the one we get from providers).
+    - Added NFO files generation for Movies/Shows to explicitly save IDs for Elementum/TMDB/TVDB/IMDB.
+
 [B][COLOR red]v0.0.60[/COLOR][/B]
     - Added proper gzip handling in torrent resolve.
     - Added proxy setter to default HTTP client.
