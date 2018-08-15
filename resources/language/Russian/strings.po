@@ -1629,3 +1629,15 @@ msgstr "Выбрать сетевой интерфейс"
 msgctxt "#30474"
 msgid "Network interfaces"
 msgstr "Сетевые интерфейсы"
+
+msgctxt "#30475"
+msgid "Strm files language"
+msgstr "Язык файлов strm"
+
+msgctxt "#30476"
+msgid "Select language"
+msgstr "Выбрать язык"
+
+msgctxt "#30477"
+msgid "Original"
+msgstr "Язык оригинала"

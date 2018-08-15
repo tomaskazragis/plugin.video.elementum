@@ -1640,3 +1640,15 @@ msgstr ""
 msgctxt "#30474"
 msgid "Network interfaces"
 msgstr ""
+
+msgctxt "#30475"
+msgid "Strm files language"
+msgstr ""
+
+msgctxt "#30476"
+msgid "Select language"
+msgstr ""
+
+msgctxt "#30477"
+msgid "Original"
+msgstr ""
