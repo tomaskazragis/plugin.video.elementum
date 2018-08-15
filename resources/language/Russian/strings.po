@@ -1641,3 +1641,7 @@ msgstr "Выбрать язык"
 msgctxt "#30477"
 msgid "Original"
 msgstr "Язык оригинала"
+
+msgctxt "#30478"
+msgid "Searching"
+msgstr "Поиск"

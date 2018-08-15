@@ -36,24 +36,31 @@
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="force_link_type" type="bool" label="30324" default="false" />
         <setting id="smart_episode_match" type="bool" label="30333" default="true" />
-
-        <!-- Library -->
-        <setting label="30326" type="lsep" />
+    </category>
+    <category label="30326">
+        <!-- General -->
+        <setting label="30000" type="lsep" />
         <setting id="play_resume" label="30372" type="bool" default="true" />
-        <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,30" default="9" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
           <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" visible="eq(-1,true)" />
-        <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="add_specials" type="bool" label="30055" default="false" />
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
         <setting id="unaired_episodes" type="bool" label="30285" default="false" />
         <setting id="playback_percent" label="30416" type="slider" option="int" range="1,1,100" default="85" />
         <setting id="strm_language" label="30475" type="text" default="Original" />
             <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_strm_language)" subsetting="true" />
+
+        <!-- Searching -->
+        <setting label="30019" type="lsep" />
+        <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
+        <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
+        <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
+        <setting id="library_auto_scan" type="bool" label="30089" default="true" />
     </category>
     <category label="30033">
         <!-- Appearance -->
         <setting label="30033" type="lsep" />
+        <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,30" default="9" />
         <setting id="default_fanart" label="30092" type="bool" default="true" />
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="disable_bg_progress" label="30094" type="bool" default="false" />
@@ -98,6 +105,10 @@
         <setting id="spoof_user_agent" label="30074" type="enum" lvalues="30065|30075|30076|30077|30078|30079|30080|30081|30082|30083|30084|30085" />
     </category>
     <category label="30239">
+        <!-- Searching -->
+        <setting label="30478" type="lsep" />
+        <setting id="use_original_title" type="bool" label="30038" default="false" />
+
         <!-- Sorting -->
         <setting label="30041" type="lsep" />
         <setting id="sorting_mode_movies" label="30042" type="enum" lvalues="30044|30045|30046|30375" default="2" />
@@ -206,13 +217,6 @@
         <setting id="trakt_calendars_date_format" label="30434" type="text" default="yyyy-mm-dd" />
       </category>
     <category label="30015">
-        <!-- Advanced -->
-        <setting label="30019" type="lsep" />
-        <setting type="action" label="30054" action="RunPlugin(plugin://plugin.video.elementum/library/update)" />
-        <setting id="library_update_delay" label="30059" type="slider" option="int" range="10,10,900" default="300" />
-        <setting id="library_update_frequency" label="30060" type="slider" option="int" range="0,1,24" default="6" />
-        <setting id="library_auto_scan" type="bool" label="30089" default="true" />
-
         <!-- Database -->
         <setting label="30460" type="lsep" />
         <setting type="action" label="30461" action="RunPlugin(plugin://plugin.video.elementum/status)" />
