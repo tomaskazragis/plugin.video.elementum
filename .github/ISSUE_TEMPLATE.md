@@ -44,4 +44,4 @@
 * Operating System and version:
 <!--- eg. Android 4/5/6, Windows 7/8/10, macOS 10.11, Ubuntu 16.10, etc. -->
 * Link to Kodi debug log:
-<!--- See http://kodi.wiki/view/Log_file/Easy or paste to http://paste.ubuntu.com directly -->
+<!--- See http://elementum.surge.sh/contribute/log/ -->
