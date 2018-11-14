@@ -2,6 +2,14 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.62[/COLOR][/B]
+    - Updated compiler version. 
+    - Updated torrent library to fix big ammount of connections and low speeds caused by it.
+    - Fixed Trakt sync of shows' watched status.
+    - Trakt watched state now saves real watched date.
+    - Added setting to change auto-library-update behavior (yes/ask/no).
+    - Small fixes for Kodi 18 compatibility.
+
 [B][COLOR red]v0.0.61[/COLOR][/B]
     - Increased default providers timeout.
     - Added options to cleanup database and cache.
