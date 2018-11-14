@@ -1649,3 +1649,15 @@ msgstr "Поиск"
 msgctxt "#30479"
 msgid "Automatically run Kodi library update after add/delete"
 msgstr "Автоматически запускать сканирование Kodi после добавления/удаления"
+
+msgctxt "#30480"
+msgid "Run Kodi library update after add/delete"
+msgstr "Запускать обновление Kodi после добавления/удаления"
+
+msgctxt "#30481"
+msgid "Automatically"
+msgstr "Автоматически"
+
+msgctxt "#30482"
+msgid "Ask"
+msgstr "Спросить"

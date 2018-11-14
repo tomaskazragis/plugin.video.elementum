@@ -4,13 +4,13 @@
         <!-- Storage -->
         <setting label="30327" type="lsep" />
         <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317|30322|30331" default="1" />
-          <setting id="auto_memory_size" label="30376" type="bool" default="true" subsetting="true" visible="eq(-1,1)" />
+          <setting id="auto_memory_size" label="30376" type="bool" default="true" visible="eq(-1,1)" />
           <setting type="text" label="30377" enable="false" visible="eq(-2,1)" />
 
-          <setting id="auto_memory_size_strategy" type="enum" label="30378" lvalues="30380|30381|30382" subsetting="true" default="1" enable="eq(-2,true)" visible="eq(-3,1)" />
+          <setting id="auto_memory_size_strategy" type="enum" label="30378" lvalues="30380|30381|30382" default="1" enable="eq(-2,true)" visible="eq(-3,1)" />
           <setting type="text" label="30379" enable="false" visible="eq(-4,1)" />
 
-          <setting id="memory_size" label="30318" type="number" default="100" subsetting="true" enable="eq(-4,false)" visible="eq(-5,1)" />
+          <setting id="memory_size" label="30318" type="number" default="100" enable="eq(-4,false)" visible="eq(-5,1)" />
 
           <setting type="text" label="30348" enable="false" visible="eq(-6,0)" />
           <setting type="text" label="30349" enable="false" visible="eq(-7,1)" />
@@ -47,7 +47,7 @@
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
         <setting id="unaired_episodes" type="bool" label="30285" default="false" />
         <setting id="playback_percent" label="30416" type="slider" option="int" range="1,1,100" default="85" />
-        <setting id="auto_library_update" label="30479" type="bool" default="true" />
+        <setting id="library_update" type="enum" label="30480" lvalues="30481|30482|30414" default="0" />
         <setting id="strm_language" label="30475" type="text" default="Original" />
             <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_strm_language)" subsetting="true" />
 
@@ -178,27 +178,27 @@
         <setting id="trakt_sync_watchedback" type="bool" label="30367" default="true" />
 
         <setting id="trakt_sync_added_movies"              type="bool" label="30447" default="true" />
-        <setting id="trakt_sync_added_movies_location"     type="enum" label="30442" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
-        <setting                                           type="action" label="30441" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added/movies)" subsetting="true" visible="eq(-1,2)" />
-        <setting id="trakt_sync_added_movies_list_name"    type="text" label="30443"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_added_movies_location"     type="enum" label="30442" lvalues="30257|30254|30436" default="0" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30441" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added/movies)" visible="eq(-1,2)" />
+        <setting id="trakt_sync_added_movies_list_name"    type="text" label="30443"                 default="" visible="eq(-2,2)" enable="false" />
         <setting id="trakt_sync_added_movies_list"         type="number" label="Added userlist ID"   default="" visible="false" />
 
         <setting id="trakt_sync_added_shows"               type="bool" label="30448" default="true" />
-        <setting id="trakt_sync_added_shows_location"      type="enum" label="30445" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
-        <setting                                           type="action" label="30444" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added/shows)" subsetting="true" visible="eq(-1,2)" />
-        <setting id="trakt_sync_added_shows_list_name"     type="text" label="30446"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_added_shows_location"      type="enum" label="30445" lvalues="30257|30254|30436" default="0" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30444" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/added/shows)" visible="eq(-1,2)" />
+        <setting id="trakt_sync_added_shows_list_name"     type="text" label="30446"                 default="" visible="eq(-2,2)" enable="false" />
         <setting id="trakt_sync_added_shows_list"          type="number" label="Added userlist ID"   default="" visible="false" />
         
         <setting id="trakt_sync_removed_movies"            type="bool" label="30449" default="true" />
-        <setting id="trakt_sync_removed_movies_location"   type="enum" label="30442" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
-        <setting                                           type="action" label="30441" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/movies)" subsetting="true" visible="eq(-1,2)" />
-        <setting id="trakt_sync_removed_movies_list_name"  type="text" label="30443"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_removed_movies_location"   type="enum" label="30442" lvalues="30257|30254|30436" default="0" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30441" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/movies)" visible="eq(-1,2)" />
+        <setting id="trakt_sync_removed_movies_list_name"  type="text" label="30443"                 default="" visible="eq(-2,2)" enable="false" />
         <setting id="trakt_sync_removed_movies_list"       type="number" label="Removed userlist ID"   default="" visible="false" />
 
         <setting id="trakt_sync_removed_shows"             type="bool" label="30450" default="true" />
-        <setting id="trakt_sync_removed_shows_location"    type="enum" label="30445" lvalues="30257|30254|30436" default="0" subsetting="true" visible="eq(-1,true)" />
-        <setting                                           type="action" label="30444" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/shows)" subsetting="true" visible="eq(-1,2)" />
-        <setting id="trakt_sync_removed_shows_list_name"   type="text" label="30446"                 default="" subsetting="true" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_removed_shows_location"    type="enum" label="30445" lvalues="30257|30254|30436" default="0" visible="eq(-1,true)" />
+        <setting                                           type="action" label="30444" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/shows)" visible="eq(-1,2)" />
+        <setting id="trakt_sync_removed_shows_list_name"   type="text" label="30446"                 default="" visible="eq(-2,2)" enable="false" />
         <setting id="trakt_sync_removed_shows_list"        type="number" label="Removed userlist ID"   default="" visible="false" />
 
         <setting label="30424" type="lsep" />
@@ -255,10 +255,5 @@
         <setting id="local_port" label="30409" type="number" default="65221" />
         <setting id="remote_host" label="30411" type="text" default="127.0.0.1" />
         <setting id="remote_port" label="30410" type="number" default="65220" />
-    </category>
-    <category label="30334">
-        <!-- Quasar -->
-        <setting label="30335" type="lsep" />
-        <setting type="action" label="30336" action="RunPlugin(plugin://plugin.video.elementum/migrate/quasar)" />
     </category>
 </settings>
