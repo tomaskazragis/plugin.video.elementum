@@ -1649,3 +1649,15 @@ msgstr ""
 msgctxt "#30479"
 msgid "Automatically run Kodi library update after add/delete"
 msgstr ""
+
+msgctxt "#30480"
+msgid "Run Kodi library update after add/delete"
+msgstr ""
+
+msgctxt "#30481"
+msgid "Automatically"
+msgstr ""
+
+msgctxt "#30482"
+msgid "Ask"
+msgstr ""
