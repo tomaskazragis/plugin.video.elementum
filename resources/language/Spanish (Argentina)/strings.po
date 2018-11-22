@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2018-08-12 13:20-0300\n"
+"PO-Revision-Date: 2018-11-18 18:02-0300\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -181,7 +181,7 @@ msgstr "API key"
 
 msgctxt "#30041"
 msgid "Stream sorting"
-msgstr "Ordernamiento de stream"
+msgstr "Ordenamiento de stream"
 
 msgctxt "#30042"
 msgid "Sorting mode for Movies"
@@ -466,7 +466,7 @@ msgstr "No se pudo desactivar proveedor"
 
 msgctxt "#30113"
 msgid "Download path not set, check your settings"
-msgstr "Ruta de descargar no establecida, verfique ajustes"
+msgstr "Ruta de descargas no establecida, verfique ajustes"
 
 msgctxt "#30114"
 msgid "TheTVDB"
@@ -616,7 +616,7 @@ msgstr "No se ha configurado la ruta de la Colección"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Se agregado correctamente a la librería"
+msgstr "Se agregó correctamente a la librería"
 
 msgctxt "#30222"
 msgid "Item removed from library"
@@ -668,11 +668,11 @@ msgstr "Pausar sesión"
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "Resumir sesión"
+msgstr "Reiniciar sesión"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Resumir torrent"
+msgstr "Reiniciar torrent"
 
 msgctxt "#30236"
 msgid "Recently Released"
@@ -812,7 +812,7 @@ msgstr "¿Borrar los archivos descargados?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"
-msgstr "Coincidencia encontrada en sus torrents activos, ¿Lo reproducimos?"
+msgstr "Coincidencia encontrada en sus torrents activos ¿Reproducir?"
 
 msgctxt "#30271"
 msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
@@ -820,7 +820,7 @@ msgstr "Ahora hay un multiproveedor oficial de Elementum llamado [COLOR FFFF6B00
 
 msgctxt "#30272"
 msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr "La instalación ha sido un éxito, disfrute de Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
+msgstr "La instalación exitosa, disfrute de Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
 
 msgctxt "#30273"
 msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
@@ -960,7 +960,7 @@ msgstr "Error esperando el comando 'unrar'."
 
 msgctxt "#30307"
 msgid "Error reading from destination folder"
-msgstr "Error de lectura de la carpeta de destino"
+msgstr "Error de lectura de carpeta de destino"
 
 msgctxt "#30308"
 msgid "Move completed"
@@ -1004,7 +1004,7 @@ msgstr "Usar memoria"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr "Tamaño de memoria a utilizar para cada torrent (Mb)"
+msgstr "Tamaño de memoria a utilizar p/cada torrent (Mb)"
 
 msgctxt "#30319"
 msgid "Continue"
@@ -1012,7 +1012,7 @@ msgstr "Continuar"
 
 msgctxt "#30320"
 msgid "Ask to stop"
-msgstr "Preguntar para parar"
+msgstr "Preguntar si parar"
 
 msgctxt "#30321"
 msgid "Stop"
@@ -1084,7 +1084,7 @@ msgstr "Esta operación cambiará los archivos strm y limpiará la librería de 
 
 msgctxt "#30338"
 msgid "Looking for Quasar database"
-msgstr "Buscando la base de datos de Quasar"
+msgstr "Buscando base de datos de Quasar"
 
 msgctxt "#30339"
 msgid "Searching strm files"
@@ -1092,11 +1092,11 @@ msgstr "Buscando archivos strm"
 
 msgctxt "#30340"
 msgid "Performing strm migration"
-msgstr "Realizando la migración strm"
+msgstr "Realizando migración strm"
 
 msgctxt "#30341"
 msgid "Performing database migration"
-msgstr "Realizando la migración de la base de datos"
+msgstr "Realizando migración de la base de datos"
 
 msgctxt "#30342"
 msgid "Cannot find Quasar userdata directory"
@@ -1148,7 +1148,7 @@ msgstr "Asignación automática de puertos de red"
 
 msgctxt "#30354"
 msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
-msgstr "No se pudo iniciar el cliente Torrent. ¡Por favor reporte esto a Github con el archivo de registro de Kodi!"
+msgstr "No se pudo iniciar cliente Torrent. ¡Por favor reporte esto a Github con el archivo de registro de Kodi!"
 
 msgctxt "#30355"
 msgid "Changelog"
@@ -1160,7 +1160,7 @@ msgstr "¡No hay suficiente memoria libre!"
 
 msgctxt "#30357"
 msgid "Use Trakt information in Trakt lists"
-msgstr "Utilizar la información de Trakt si está disponible"
+msgstr "Utilizar información de Trakt si está disponible"
 
 msgctxt "#30358"
 msgid "Trakt update started"
@@ -1276,7 +1276,7 @@ msgstr "HTTPS"
 
 msgctxt "#30386"
 msgid "Disable background progress dialog on playback"
-msgstr "Desactivar diálogo de avance en segundo plano al reproducir"
+msgstr "Desactivar diálogo avance en segundo plano al reproducir"
 
 msgctxt "#30387"
 msgid "Caching"
@@ -1544,120 +1544,120 @@ msgstr "Restablecer todas las rutas"
 
 msgctxt "#30453"
 msgid "Upload /debug/bundle (with kodi.log) to pastebin"
-msgstr ""
+msgstr "Subir /debug/bundle (con kodi.log) a pastebin"
 
 msgctxt "#30454"
 msgid "Paste url:[CR]%s"
-msgstr ""
+msgstr "URL paste:[CR]%s"
 
 msgctxt "#30455"
 msgid "Logging"
-msgstr ""
+msgstr "Registro"
 
 msgctxt "#30456"
 msgid "Upload /debug/all (no kodi.log) to pastebin"
-msgstr ""
+msgstr "Subir /debug/all (no kodi.log) a pastebin"
 
 msgctxt "#30457"
 msgid "Uploading file to pastebin"
-msgstr ""
+msgstr "Subiendo archivo a pastebin"
 
 msgctxt "#30458"
 msgid "Deleted movies"
-msgstr ""
+msgstr "Pelis borradas"
 
 msgctxt "#30459"
 msgid "Deleted shows"
-msgstr ""
+msgstr "Series borradas"
 
 msgctxt "#30460"
 msgid "Database"
-msgstr ""
+msgstr "Base de datos"
 
 msgctxt "#30461"
 msgid "Show information"
-msgstr ""
+msgstr "Mostrar info"
 
 msgctxt "#30462"
 msgid "Clear deleted movies"
-msgstr ""
+msgstr "Limpiar pelis borradas"
 
 msgctxt "#30463"
 msgid "Clear deleted shows"
-msgstr ""
+msgstr "Limpiar series borradas"
 
 msgctxt "#30464"
 msgid "Clear torrents history"
-msgstr ""
+msgstr "Limpiar historial de torrents"
 
 msgctxt "#30465"
 msgid "Clear search history"
-msgstr ""
+msgstr "Limpiar historial de búsqueda"
 
 msgctxt "#30466"
 msgid "Clear the database"
-msgstr ""
+msgstr "Limpiar base de datos"
 
 msgctxt "#30467"
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgctxt "#30468"
 msgid "Clear TMDB cache"
-msgstr ""
+msgstr "Limpiar cache TMDB"
 
 msgctxt "#30469"
 msgid "Clear Trakt cache"
-msgstr ""
+msgstr "Limpiar cache Trakt"
 
 msgctxt "#30470"
 msgid "Clear the cache"
-msgstr ""
+msgstr "Limpiar cache"
 
 msgctxt "#30471"
 msgid "Are you sure you want to do it?"
-msgstr ""
+msgstr "¿Está seguro?"
 
 msgctxt "#30472"
 msgid "Database cleared"
-msgstr ""
+msgstr "Base de datos limpiada"
 
 msgctxt "#30473"
 msgid "Select network interface"
-msgstr ""
+msgstr "Seleccione interface de red"
 
 msgctxt "#30474"
 msgid "Network interfaces"
-msgstr ""
+msgstr "Interfaces de red"
 
 msgctxt "#30475"
 msgid "Strm files language"
-msgstr ""
+msgstr "Idioma archivos strm"
 
 msgctxt "#30476"
 msgid "Select language"
-msgstr ""
+msgstr "Seleccionar idioma"
 
 msgctxt "#30477"
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 msgctxt "#30478"
 msgid "Searching"
-msgstr ""
+msgstr "Buscando"
 
 msgctxt "#30479"
 msgid "Automatically run Kodi library update after add/delete"
-msgstr ""
+msgstr "Actualizar automáticamente Colección Kodi luego de agregar/quitar"
 
 msgctxt "#30480"
 msgid "Run Kodi library update after add/delete"
-msgstr ""
+msgstr "Actualizar Colección Kodi luego de agregar/quitar"
 
 msgctxt "#30481"
 msgid "Automatically"
-msgstr ""
+msgstr "Automáticamente"
 
 msgctxt "#30482"
 msgid "Ask"
-msgstr ""
+msgstr "Preguntar"
