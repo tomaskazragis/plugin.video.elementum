@@ -1661,3 +1661,11 @@ msgstr "Automáticamente"
 msgctxt "#30482"
 msgid "Ask"
 msgstr "Preguntar"
+
+msgctxt "#30483"
+msgid "Create NFO files for Movie scrapers"
+msgstr ""
+
+msgctxt "#30484"
+msgid "Create NFO files for TV Show scrapers"
+msgstr ""
