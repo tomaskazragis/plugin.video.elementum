@@ -50,6 +50,8 @@
         <setting id="library_update" type="enum" label="30480" lvalues="30481|30482|30414" default="0" />
         <setting id="strm_language" label="30475" type="text" default="Original" />
             <setting type="action" label="30476" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_strm_language)" subsetting="true" />
+        <setting id="library_nfo_movies" type="bool" label="30483" default="true" />
+        <setting id="library_nfo_shows" type="bool" label="30484" default="true" />
 
         <!-- Searching -->
         <setting label="30019" type="lsep" />
