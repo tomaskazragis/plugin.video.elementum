@@ -2,6 +2,15 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.63[/COLOR][/B]
+    - Update torrent library version.
+    - Added auto-select for BluRay menu files.
+    - Added search capability for context plugin requests (search any content).
+    - Added mandatory check to find specified network interface.
+    - Optimizations to lower memory usage.
+    - Added settings to disable NFO files for Movies/Shows (should fix TVDB scraper issue).
+    - Another fix for starting playback from Search menu.
+
 [B][COLOR red]v0.0.62[/COLOR][/B]
     - Updated compiler version. 
     - Updated torrent library to fix big ammount of connections and low speeds caused by it.
