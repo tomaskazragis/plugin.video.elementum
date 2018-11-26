@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.64[/COLOR][/B]
+    - Another attempt to fix search pages on Kodi 18. 
+    - Changed TVDB url to allow proper parsing with latest TVDB scraper. 
+
 [B][COLOR red]v0.0.63[/COLOR][/B]
     - Update torrent library version.
     - Added auto-select for BluRay menu files.
