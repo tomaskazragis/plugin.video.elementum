@@ -1674,6 +1674,14 @@ msgctxt "#30484"
 msgid "Create NFO files for TV Show scrapers"
 msgstr ""
 
+msgctxt "#30485"
+msgid "Concurrent connections limit"
+msgstr ""
+
+msgctxt "#30486"
+msgid "Automatic concurrent connections limit"
+msgstr ""
+
 #~ msgctxt "#30028"
 #~ msgid "Do not ask to keep downloading"
 #~ msgstr "לא לשאול האם להמשיך להוריד"

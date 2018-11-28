@@ -1669,3 +1669,11 @@ msgstr "Создавать NFO файлы для скраппера фильмо
 msgctxt "#30484"
 msgid "Create NFO files for TV Show scrapers"
 msgstr "Создавать NFO файлы для скраппера сериалов"
+
+msgctxt "#30485"
+msgid "Concurrent connections limit"
+msgstr "Лимит одновременных подключений"
+
+msgctxt "#30486"
+msgid "Automatic concurrent connections limit"
+msgstr "Автоматический лимит одновременных подключений"
