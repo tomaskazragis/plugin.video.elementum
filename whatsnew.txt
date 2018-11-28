@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.65[/COLOR][/B]
+    - Added Concurrent connections settings.
+    - Changes in torrent library.
+
 [B][COLOR red]v0.0.64[/COLOR][/B]
     - Another attempt to fix search pages on Kodi 18. 
     - Changed TVDB url to allow proper parsing with latest TVDB scraper. 
