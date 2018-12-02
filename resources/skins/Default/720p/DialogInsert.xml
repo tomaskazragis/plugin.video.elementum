@@ -23,8 +23,8 @@
 				<texturenofocus colordiffuse="EEFFFFFF">Button/close.png</texturenofocus>
 				<onup>32508</onup>
 				<ondown>32501</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="radiobutton" id="32501">
 				<!-- Radio Button URL -->
@@ -45,8 +45,8 @@
 				<aligny>center</aligny>
 				<onup>32500</onup>
 				<ondown>32502</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="radiobutton" id="32502">
 				<!-- Radio Button file path -->
@@ -67,8 +67,8 @@
 				<aligny>center</aligny>
 				<onup>32501</onup>
 				<ondown>32508</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="button" id="32508">
 				<!-- OK button -->
@@ -89,8 +89,8 @@
 				<aligny>center</aligny>
 				<onup>32502</onup>
 				<ondown>32500</ondown>
-				<onleft condition="SubString(Control.GetLabel(32501),*)">32505</onleft>
-				<onleft condition="SubString(Control.GetLabel(32502),*)">32507</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32501),*)">32505</onleft>
+				<onleft condition="String.Contains(Control.GetLabel(32502),*)">32507</onleft>
 			</control>
 			<control type="label" id="32503">
 				<!-- Window title -->
