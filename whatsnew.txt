@@ -2,6 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.66[/COLOR][/B]
+    - One more fix for navigating in the searches. 
+    - Subtitles now use original titles for searching.
+    - Fixed adding torrents window for Kodi 18.
+    - Fix to library updater, that was wrongly assigning watched state, due to Kodi IDs reuse.
+
 [B][COLOR red]v0.0.65[/COLOR][/B]
     - Added Concurrent connections settings.
     - Changes in torrent library.
