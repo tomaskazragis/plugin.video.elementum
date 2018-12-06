@@ -1677,3 +1677,11 @@ msgstr "Лимит одновременных подключений"
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
 msgstr "Автоматический лимит одновременных подключений"
+
+msgctxt "#30487"
+msgid "Enable built-in HTTP proxy"
+msgstr "Включить встроенный HTTP прокси"
+
+msgctxt "#30488"
+msgid "Internal Proxy Port"
+msgstr "Порт встроенного прокси"
