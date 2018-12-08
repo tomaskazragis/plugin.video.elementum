@@ -1696,3 +1696,7 @@ msgstr ""
 msgctxt "#30488"
 msgid "Internal Proxy Port"
 msgstr ""
+
+msgctxt "#30489"
+msgid "Log Internal proxy requests"
+msgstr ""

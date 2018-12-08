@@ -1678,6 +1678,18 @@ msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
 msgstr ""
 
+msgctxt "#30487"
+msgid "Enable built-in HTTP proxy"
+msgstr ""
+
+msgctxt "#30488"
+msgid "Internal Proxy Port"
+msgstr ""
+
+msgctxt "#30489"
+msgid "Log Internal proxy requests"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Download cesta (nie FAT32)"

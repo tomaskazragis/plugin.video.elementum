@@ -1682,6 +1682,18 @@ msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
 msgstr ""
 
+msgctxt "#30487"
+msgid "Enable built-in HTTP proxy"
+msgstr ""
+
+msgctxt "#30488"
+msgid "Internal Proxy Port"
+msgstr ""
+
+msgctxt "#30489"
+msgid "Log Internal proxy requests"
+msgstr ""
+
 #~ msgctxt "#30028"
 #~ msgid "Do not ask to keep downloading"
 #~ msgstr "לא לשאול האם להמשיך להוריד"
