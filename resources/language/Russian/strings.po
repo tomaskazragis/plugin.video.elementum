@@ -1689,3 +1689,7 @@ msgstr "Порт встроенного прокси"
 msgctxt "#30489"
 msgid "Log Internal proxy requests"
 msgstr "Логировать запросы встроенного прокси"
+
+msgctxt "#30490"
+msgid "Internal HTTP proxy"
+msgstr "Встроенный HTTP прокси"

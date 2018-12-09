@@ -1700,3 +1700,7 @@ msgstr ""
 msgctxt "#30489"
 msgid "Log Internal proxy requests"
 msgstr ""
+
+msgctxt "#30490"
+msgid "Internal HTTP proxy"
+msgstr ""
