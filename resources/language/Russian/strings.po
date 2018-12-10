@@ -1693,3 +1693,19 @@ msgstr "Логировать запросы встроенного прокси"
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
 msgstr "Встроенный HTTP прокси"
+
+msgctxt "#30491"
+msgid "Use Fanart.tv for posters/images"
+msgstr "Использовать fanart.tv для постеров/изображений"
+
+msgctxt "#30492"
+msgid "Use Proxy for downloading torrent files"
+msgstr "Использовать прокси для скачивания торрент файлов"
+
+msgctxt "#30493"
+msgid "Use Proxy for trackers"
+msgstr "Использовать прокси для трекеров"
+
+msgctxt "#30494"
+msgid "Use Proxy for torrent downloading"
+msgstr "Использовать прокси для скачивания торрента"
