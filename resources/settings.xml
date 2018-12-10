@@ -130,11 +130,7 @@
         <setting id="cache_search_duration" label="30390" type="number" default="180" visible="eq(-1,true)" />
 
         <!-- Providers -->
-        <setting label="30239" type="lsep" />
-        <setting id="use_public_dns" label="30368" type="bool" default="false" />
-        <setting id="public_dns_list" label="30391" type="text" default="8.8.8.8, 8.8.4.4, 9.9.9.9" visible="eq(-1,true)" />
-        <setting id="opennic_dns_list" label="30392" type="text" default="193.183.98.66, 172.104.136.243, 89.18.27.167" visible="eq(-2,true)" />
-        
+        <setting label="30239" type="lsep" />        
         <setting id="provider_disable_failing" label="30031" type="bool" default="false" />
         <setting id="provider_allowed_failures" label="30032" type="slider" option="int" range="0,1,10" default="3" />
         
