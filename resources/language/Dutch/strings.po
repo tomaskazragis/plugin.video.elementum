@@ -1690,6 +1690,26 @@ msgctxt "#30489"
 msgid "Log Internal proxy requests"
 msgstr ""
 
+msgctxt "#30490"
+msgid "Internal HTTP proxy"
+msgstr ""
+
+msgctxt "#30491"
+msgid "Use Fanart.tv for posters/images"
+msgstr ""
+
+msgctxt "#30492"
+msgid "Use Proxy for downloading torrent files"
+msgstr ""
+
+msgctxt "#30493"
+msgid "Use Proxy for trackers"
+msgstr ""
+
+msgctxt "#30494"
+msgid "Use Proxy for torrent downloading"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Download pad (Geen FAT32)"
