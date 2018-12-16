@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.67[/COLOR][/B]
+    - Added built-in HTTP Proxy for usage by searchers (like Burst). It include CloudFlare bypass and DNS over TLS usage.
+    - Added functionality for unwatching items in Kodi library, after it was unwatched in Trakt.
+
 [B][COLOR red]v0.0.66[/COLOR][/B]
     - One more fix for navigating in the searches. 
     - Subtitles now use original titles for searching.
