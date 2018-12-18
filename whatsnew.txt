@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.68[/COLOR][/B]
+    - Fixed internal proxy hang on arm devices.
+    - Added option to disable internal DNS (disable for Tor usage, for example).
+    - Fixed player start from search.
+
 [B][COLOR red]v0.0.67[/COLOR][/B]
     - Added built-in HTTP Proxy for usage by searchers (like Burst). It include CloudFlare bypass and DNS over TLS usage.
     - Added functionality for unwatching items in Kodi library, after it was unwatched in Trakt.
