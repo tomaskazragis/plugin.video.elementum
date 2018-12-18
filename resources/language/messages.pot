@@ -1720,3 +1720,11 @@ msgstr ""
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
 msgstr ""
+
+msgctxt "#30495"
+msgid "Use internal DNS resolver"
+msgstr ""
+
+msgctxt "#30496"
+msgid "Turn off if you use Tor addresses, or you want to pass resolve to local network settings"
+msgstr ""

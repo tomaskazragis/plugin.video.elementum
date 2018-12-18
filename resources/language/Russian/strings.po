@@ -1709,3 +1709,11 @@ msgstr "Использовать прокси для трекеров"
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
 msgstr "Использовать прокси для скачивания торрента"
+
+msgctxt "#30495"
+msgid "Use internal DNS resolver"
+msgstr "Использовать встроенный DNS клиент"
+
+msgctxt "#30496"
+msgid "Turn off if you use Tor addresses, or you want to pass resolve to local network settings"
+msgstr "Отключите если используете адреса Tor, или хотите оставить DNS настройки сети"
