@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.70[/COLOR][/B]
+    - Fixed error while browsing trakt movies.
+    - New approach to readahead settings.
+    - Added Opennic failback.
+
 [B][COLOR red]v0.0.69[/COLOR][/B]
     - Increased memory usage ratio.
     - Fixed small problems.
