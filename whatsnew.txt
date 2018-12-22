@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.69[/COLOR][/B]
+    - Increased memory usage ratio.
+    - Fixed small problems.
+    - Added option to skip 'resume' if was chosed so in Kodi (no forced resume video).
+
 [B][COLOR red]v0.0.68[/COLOR][/B]
     - Fixed internal proxy hang on arm devices.
     - Added option to disable internal DNS (disable for Tor usage, for example).
