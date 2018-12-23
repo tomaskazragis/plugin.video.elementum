@@ -1247,8 +1247,8 @@ msgid "Allow memory usage"
 msgstr "Режим использования памяти"
 
 msgctxt "#30379"
-msgid "Minimum - 40MB, Default - 5%, Maximum - 10%"
-msgstr "Минимальный - 40MB, По-умолчанию - 5%, Максимальный - 10%"
+msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
+msgstr "Минимальный - 40MB, По-умолчанию - 8%, Максимальный - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
