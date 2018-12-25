@@ -1716,3 +1716,7 @@ msgstr ""
 msgctxt "#30496"
 msgid "Turn off if you use Tor addresses, or you want to pass resolve to local network settings"
 msgstr ""
+
+msgctxt "#30497"
+msgid "Use antizapret proxy if possible"
+msgstr ""

@@ -149,6 +149,8 @@
         <setting id="internal_proxy_enabled" label="30487" type="bool" default="true" />
         <setting id="internal_proxy_logging" label="30489" type="bool" default="false" />
 
+        <setting id="antizapret_enabled" label="30497" type="bool" default="false" />
+
         <setting label="30008" type="lsep" />
         <setting id="proxy_enabled" label="30010" type="bool" default="false" />
           <setting id="proxy_type" label="30067" type="enum" default="1" subsetting="true" lvalues="30068|30069|30071|30385" visible="eq(-1,true)" />
