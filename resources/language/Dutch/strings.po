@@ -1718,6 +1718,10 @@ msgctxt "#30496"
 msgid "Turn off if you use Tor addresses, or you want to pass resolve to local network settings"
 msgstr ""
 
+msgctxt "#30497"
+msgid "Use antizapret proxy if possible"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Download pad (Geen FAT32)"
