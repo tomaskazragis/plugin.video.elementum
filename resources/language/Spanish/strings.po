@@ -129,7 +129,7 @@ msgstr "Límite de conexiones"
 
 msgctxt "#30028"
 msgid "Download after play was stopped"
-msgstr "Descargar después de detener la reproducción"
+msgstr "Continuar descarga tras detener reproducción"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
@@ -261,7 +261,7 @@ msgstr "Actualización de la biblioteca (horas)"
 
 msgctxt "#30061"
 msgid "Sync frequency of Trakt lists to library (hours)"
-msgstr "Frecuencia de sincronización de Trakt con biblioteca (horas)"
+msgstr "Sincronización de Trakt con biblioteca (horas)"
 
 msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
@@ -514,7 +514,7 @@ msgstr "¿Continuo con la descarga del archivo?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
-msgstr "La caché esta aún horneándose, dale un minuto o dos..."
+msgstr "La caché está aun horneándose, dale un minuto o dos..."
 
 msgctxt "#30148"
 msgid "Caches warmed up"
@@ -526,7 +526,7 @@ msgstr "Usuario para Trakt no definido, compruebe su configuración"
 
 msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
-msgstr "No hay una conexión JSON-RPC disponible para Kodi.[CR]Habilite ambas opciones de Control de aplicaciones en Ajustes de Servicio / Control y reinicie Kodi."
+msgstr "No hay conexión JSON-RPC disponible para Kodi.[CR]Habilite opciones en Control de aplicación en Ajustes > Ajustes de servicio > Control y reinicie Kodi."
 
 # Elementum daemon
 msgctxt "#30200"
@@ -1095,19 +1095,19 @@ msgstr "Realizando migración de archivos strm"
 
 msgctxt "#30341"
 msgid "Performing database migration"
-msgstr "Realizando migración de la base de datos"
+msgstr "Realizando migración de base de datos"
 
 msgctxt "#30342"
 msgid "Cannot find Quasar userdata directory"
-msgstr "No se puedo encontrar el directorio de datos de usuario Quasar"
+msgstr "No se pudo encontrar el directorio de datos de usuario Quasar"
 
 msgctxt "#30343"
 msgid "Cannot find Quasar settings.xml path"
-msgstr "No se puedo encontrar la ruta del settings.xml Quasar"
+msgstr "No se pudo encontrar la ruta del settings.xml Quasar"
 
 msgctxt "#30344"
 msgid "Cannot find Quasar library path"
-msgstr "No se puedo encontrar la ruta de la biblioteca Quasar"
+msgstr "No se pudo encontrar la ruta de la biblioteca Quasar"
 
 msgctxt "#30345"
 msgid "Successfully migrated items: %s"
@@ -1119,19 +1119,19 @@ msgstr "No se pudo migrar ningún elemento"
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr "¡No se pudo encontrar binario para arquitectura '%s'![CR]Trate de desinstalar el addon, volver a descargarlo y reinstalar desde el zip de mayor tamaño."
+msgstr "¡No se pudo encontrar binario para la arquitectura '%s'![CR]Trate de desinstalar el addon, volver a descargarlo y reinstalar desde el zip de mayor tamaño."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr "Crea los archivos habituales en el sistema de archivos y escribe en ellos.[CR]¡Necesita disponible en disco el tamaño completo del archivo seleccionado!"
+msgstr "Crea los archivos habituales en el sistema de archivos y escribe en ellos.[CR]¡Necesita tener disponible en disco el tamaño del archivo completo!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr "Utiliza la memoria del dispositivo para descargar partes del torrent.[CR]El disco se utiliza soló para descargar y guardar el archivo .torrent,"
+msgstr "Usa la memoria del dispositivo para descargar partes del torrent.[CR]El almacenamiento en disco es solo utilizado para descargar y guardar el archivo .torrent,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr "puede ser cualquier tipo de almacenamiento 100mb[CR]es suficiente para el almacenamiento en memoria, 200-250mb para dispositivos más grandes."
+msgstr "puede ser cualquier tipo de almacenamiento.[CR]Para dispositivos de 1gb 100mb son suficientes para el almacenamiento en memoria, para dispositivos más grandes 200-250mb."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
@@ -1323,7 +1323,7 @@ msgstr "Interfaz Web"
 
 msgctxt "#30398"
 msgid "Debug information (with kodi.log)"
-msgstr "Información de depuración (con kodi.log)"
+msgstr "Info de depuración (con kodi.log)"
 
 msgctxt "#30399"
 msgid "Addresses"
@@ -1487,7 +1487,7 @@ msgstr "Listas de usuario"
 
 msgctxt "#30439"
 msgid "Debug information (without kodi.log)"
-msgstr "Información de depuración (sin kodi.log)"
+msgstr "Info de depuración (sin kodi.log)"
 
 msgctxt "#30440"
 msgid "Color of an unaired episode name"
@@ -1651,63 +1651,63 @@ msgstr "Actualizar automáticamente biblioteca Kodi después de agregar/eliminar
 
 msgctxt "#30480"
 msgid "Run Kodi library update after add/delete"
-msgstr ""
+msgstr "Actualizar biblioteca Kodi después de agregar/eliminar"
 
 msgctxt "#30481"
 msgid "Automatically"
-msgstr ""
+msgstr "Automáticamente"
 
 msgctxt "#30482"
 msgid "Ask"
-msgstr ""
+msgstr "Preguntar"
 
 msgctxt "#30483"
 msgid "Create NFO files for Movie scrapers"
-msgstr ""
+msgstr "Crear archivos NFO para scrapers de Películas"
 
 msgctxt "#30484"
 msgid "Create NFO files for TV Show scrapers"
-msgstr ""
+msgstr "Crear archivo NFO para scrapers de Series TV"
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Límite de conexiones"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Limitar automáticamente número de conexiones"
 
 msgctxt "#30487"
 msgid "Enable built-in HTTP proxy"
-msgstr ""
+msgstr "Habilitar Proxy HTTP"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
-msgstr ""
+msgstr "Puerto interno proxy"
 
 msgctxt "#30489"
 msgid "Log Internal proxy requests"
-msgstr ""
+msgstr "Registrar solicitudes Proxy"
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Proxy HTTP"
 
 msgctxt "#30491"
 msgid "Use Fanart.tv for posters/images"
-msgstr ""
+msgstr "Usar Fanart.tv para posters/imágenes"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading torrent files"
-msgstr ""
+msgstr "Usar Proxy para descargar archivos torrent"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Usar Proxy para trackers"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Usar Proxy para la descarga torrent"
 
 msgctxt "#30495"
 msgid "Use internal DNS resolver"
