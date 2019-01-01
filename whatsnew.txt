@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.0.71[/COLOR][/B]
+    - New memory storage implemented.
+    - Added save ability for magnets.
+    - Added Antizapret usage.
+
 [B][COLOR red]v0.0.70[/COLOR][/B]
     - Fixed error while browsing trakt movies.
     - New approach to readahead settings.
