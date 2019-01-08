@@ -1721,3 +1721,7 @@ msgstr "Отключите если используете адреса Tor, и�
 msgctxt "#30497"
 msgid "Use antizapret proxy if possible"
 msgstr "Использовать прокси antizapret"
+
+msgctxt "#30498"
+msgid "Reset this path to '/'"
+msgstr "Сбросить этот путь на '/'"

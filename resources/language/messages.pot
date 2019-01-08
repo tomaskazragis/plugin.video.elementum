@@ -1732,3 +1732,7 @@ msgstr ""
 msgctxt "#30497"
 msgid "Use antizapret proxy if possible"
 msgstr ""
+
+msgctxt "#30498"
+msgid "Reset this path to '/'"
+msgstr ""
