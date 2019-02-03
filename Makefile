@@ -8,10 +8,11 @@ ARCHS = \
 	android_arm \
 	android_arm64 \
 	android_x86 \
+	android_x64 \
 	darwin_x86 \
 	darwin_x64 \
-	linux_arm-6 \
-	linux_arm-7 \
+	linux_armv6 \
+	linux_armv7 \
 	linux_arm64 \
 	linux_x64 \
 	linux_x86 \

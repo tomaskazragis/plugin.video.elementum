@@ -13,7 +13,7 @@ Supported platforms
 -------------------
 - Windows 32/64 bits
 - Linux 32/64 bits (starting Ubuntu 15.04)
-- Linux ARM (armv6, armv7, armv8)
+- Linux ARM (armv6, armv7, armv8/arm64)
 - OS X 32/64 bits
 - Android ARM (4.4.x, and later), x86, x64, ARM, ARM64
 
@@ -36,8 +36,9 @@ The entire build process of Elementum is automated using Travis CI, and that's a
 good thing because it's quite a complicated one with many dependencies and
 repositories. Here's the stack from top to bottom:
 
-- [elementum](https://github.com/elgatito/elementum) - The Elementum daemon itself, built on top of the cross-compiler
-- [xgo](https://github.com/karalabe/xgo) - Docker images and utility to cross-compile Elementum binary for different platforms
+- [elementum](https://github.com/elgatito/elementum) - The Elementum daemon itself, built on top of the cross-compiled libtorrent-go
+- [libtorrent-go](https://github.com/ElementumOrg/libtorrent-go) - The libtorrent library with Go bindings, built using cross-compiler
+- [cross-compiler](https://github.com/ElementumOrg/cross-compiler) - Builds the base images to, you guessed it, cross-compile Elementum
 
 #### Build status of each project
 | elementum daemon |
@@ -64,7 +65,7 @@ And so, when you decide you want to watch a media (i.e. given an TMDB ID), here'
 
 All of this is done in less than 10s depending on your platform and timeout settings. Elementum is around 95% Go, and thus, it's *fast*. Very fast, actually.
 
-The BitTorrent streaming engine is very resilient (or at least it's designed to be). It's built on top of [anacrolix/torrent](https://github.com/anacrolix/torrent) package.
+The BitTorrent streaming engine is very resilient (or at least it's designed to be). It's built on top of [libtorrent](https://github.com/arvidn/libtorrent) package.
 
 
 Providers

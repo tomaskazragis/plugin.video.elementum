@@ -3,7 +3,7 @@
     <category label="30000">
         <!-- Storage -->
         <setting label="30327" type="lsep" />
-        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317|30322|30331" default="1" />
+        <setting id="download_storage" type="enum" label="30315" lvalues="30316|30317" default="1" />
           <setting id="auto_memory_size" label="30376" type="bool" default="true" visible="eq(-1,1)" />
           <setting type="text" label="30377" enable="false" visible="eq(-2,1)" />
 
@@ -92,13 +92,13 @@
         <setting id="autoload_torrents" type="bool" label="30421" default="true" />
         <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
         <setting id="connections_limit" label="30027" type="number" default="" />
-        
+
         <setting id="conntracker_limit_auto" label="30486" type="bool" default="true" />
         <setting id="conntracker_limit" label="30485" type="number" default="" enable="eq(-1,false)" />
-        <!-- <setting id="session_save" label="30029" type="slider" option="int" range="5,5,60" default="15" />
-        <setting id="share_ratio_limit" label="30051" type="number" default="25" />
-        <setting id="seed_time_ratio_limit" label="30052" type="number" default="200" /> -->
         <setting id="disable_upload" label="30369" type="bool" default="false" />
+        <setting id="session_save" label="30029" type="slider" option="int" range="5,5,60" default="15" />
+        <setting id="share_ratio_limit" label="30051" type="number" default="25" />
+        <setting id="seed_time_ratio_limit" label="30052" type="number" default="200" />
         <setting id="seed_time_limit" label="30053" type="number" default="2" />
         <setting id="disable_dht" label="30050" type="bool" default="false" />
         <setting id="disable_tcp" label="30328" type="bool" default="false" />
@@ -107,12 +107,13 @@
         <setting id="encryption_policy" label="30064" type="enum" lvalues="30010|30065|30066" default="0" />
         <setting id="listen_autodetect_ip" label="30370" type="bool" default="true" />
         <setting id="listen_interfaces" label="30090" type="text" default="" visible="eq(-1,false)" />
-        <setting type="action" label="30473" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_network_interface)" subsetting="true" visible="eq(-2,false)" />
+        <setting type="action" label="30473" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_interface/listen)" subsetting="true" visible="eq(-2,false)" />
+        <setting id="outgoing_interfaces" label="30091" type="text" default="" subsetting="true" visible="eq(-3,false)" />
+        <setting type="action" label="30473" action="RunPlugin(plugin://plugin.video.elementum/cmd/select_interface/outgoing)" subsetting="true" visible="eq(-4,false)" />
         <setting id="listen_autodetect_port" label="30371" type="bool" default="true" />
-        <setting id="listen_port_min" label="30006" type="number" default="6881" visible="eq(-1,false)" />
-        <setting id="listen_port_max" label="30007" type="number" default="6891" visible="eq(-2,false)" />
-        <!-- <setting id="outgoing_interfaces" label="30091" type="text" default="" /> -->
-        <!-- <setting id="tuned_storage" label="30086" type="bool" default="false" /> -->
+        <setting id="listen_port_min" label="30006" type="number" default="6891" visible="eq(-1,false)" />
+        <setting id="listen_port_max" label="30007" type="number" default="6899" visible="eq(-2,false)" />
+        <setting id="tuned_storage" label="30086" type="bool" default="false" />
         <setting id="spoof_user_agent" label="30074" type="enum" lvalues="30065|30075|30076|30077|30078|30079|30080|30081|30082|30083|30084|30085" />
     </category>
     <category label="30239">
