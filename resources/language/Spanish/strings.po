@@ -1711,15 +1711,15 @@ msgstr "Usar Proxy para la descarga torrent"
 
 msgctxt "#30495"
 msgid "Use internal DNS resolver"
-msgstr ""
+msgstr "Usar resolución DNS interna"
 
 msgctxt "#30496"
 msgid "Turn off if you use Tor addresses, or you want to pass resolve to local network settings"
-msgstr ""
+msgstr "Desactivar si usa direcciones Tor, o si quiere pasar la resolución a la configuración de red local"
 
 msgctxt "#30497"
 msgid "Use antizapret proxy if possible"
-msgstr ""
+msgstr "Usar si es posible proxy antizapret"
 
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
