@@ -1672,11 +1672,11 @@ msgstr "Создавать NFO файлы для скраппера сериал
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr "Лимит одновременных подключений"
+msgstr "Лимит подключений в секунду"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr "Автоматический лимит одновременных подключений"
+msgstr "Автоматический лимит подключений в секунду"
 
 msgctxt "#30487"
 msgid "Enable built-in HTTP proxy"
