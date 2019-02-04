@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.1.2[/COLOR][/B]
+    - More fixes in migration task!
+
 [B][COLOR red]v0.1.1[/COLOR][/B]
     - Testing migration to libtorrent as a torrent library!
     - If you want to use stable version - revert to 0.0.* version by updating from repository!
