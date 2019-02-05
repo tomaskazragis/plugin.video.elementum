@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.1.4[/COLOR][/B]
+    - Fixes for piece selection.
+
 [B][COLOR red]v0.1.3[/COLOR][/B]
     - Fixed magnet processing.
 
