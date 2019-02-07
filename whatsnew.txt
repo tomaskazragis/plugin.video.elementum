@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.1.6[/COLOR][/B]
+    - More fixes to piece selection.
+
 [B][COLOR red]v0.1.5[/COLOR][/B]
     - More fixes to piece selection.
     - Default connections per torrent is 200.
