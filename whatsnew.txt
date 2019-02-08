@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.1.7[/COLOR][/B]
+    - More fixes to piece selection.
+    - New linux-armv6/armv7/arm64, android arm/arm64 images for compilation.
+
 [B][COLOR red]v0.1.6[/COLOR][/B]
     - More fixes to piece selection.
 
