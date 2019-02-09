@@ -1725,3 +1725,11 @@ msgstr "Использовать прокси antizapret"
 msgctxt "#30498"
 msgid "Reset this path to '/'"
 msgstr "Сбросить этот путь на '/'"
+
+msgctxt "#30499"
+msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
+msgstr "Автоматически увеличивать размер памяти[CR]для тяжелых торрентов, если возможно"
+
+msgctxt "#30500"
+msgid "Automatically adjust buffer size[CR]for heavy torrents"
+msgstr "Автоматически увеличивать размер буффера[CR]для тяжелых торрентов"

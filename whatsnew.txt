@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]v0.1.8[/COLOR][/B]
+    - Added option to auto-adjust buffer size to have at least 10 pieces before starting playback.
+
 [B][COLOR red]v0.1.7[/COLOR][/B]
     - More fixes to piece selection.
     - New linux-armv6/armv7/arm64, android arm/arm64 images for compilation.

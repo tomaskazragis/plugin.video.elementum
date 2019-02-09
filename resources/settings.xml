@@ -11,12 +11,13 @@
           <setting type="text" label="30379" enable="false" visible="eq(-4,1)" />
 
           <setting id="memory_size" label="30318" type="number" default="100" enable="eq(-4,false)" visible="eq(-5,1)" />
+          <setting id="auto_adjust_memory_size" label="30499" type="bool" default="true" visible="eq(-6,1)" />
 
-          <setting type="text" label="30348" enable="false" visible="eq(-6,0)" />
-          <setting type="text" label="30349" enable="false" visible="eq(-7,1)" />
-          <setting type="text" label="30350" enable="false" visible="eq(-8,1)" />
-          <setting type="text" label="30351" enable="false" visible="eq(-9,2)" />
-          <setting type="text" label="30352" enable="false" visible="eq(-10,3)" />
+          <setting type="text" label="30348" enable="false" visible="eq(-7,0)" />
+          <setting type="text" label="30349" enable="false" visible="eq(-8,1)" />
+          <setting type="text" label="30350" enable="false" visible="eq(-9,1)" />
+          <setting type="text" label="30351" enable="false" visible="eq(-10,2)" />
+          <setting type="text" label="30352" enable="false" visible="eq(-11,3)" />
 
         <setting id="download_path" type="folder" label="30001" source="auto" option="writeable" />
         <setting type="action" label="30498" action="RunPlugin(plugin://plugin.video.elementum/cmd/reset_path/download)" />
@@ -86,6 +87,7 @@
         <!-- BitTorrent -->
         <setting label="BitTorrent" type="lsep" />
         <setting id="buffer_size" label="30003" type="number" default="20" />
+        <setting id="auto_adjust_buffer_size" label="30500" type="bool" default="true" />
         <setting id="buffer_timeout" label="30088" type="slider" option="int" range="60,15,900" default="300" />
         <setting id="max_upload_rate" label="30004" type="number" default="" />
         <setting id="max_download_rate" label="30005" type="number" default="" />
