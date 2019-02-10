@@ -1732,3 +1732,7 @@ msgstr ""
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
 msgstr ""
+
+msgctxt "#30501"
+msgid "Filter files with size less than, MB"
+msgstr ""
