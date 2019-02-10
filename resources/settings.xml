@@ -88,7 +88,7 @@
         <setting label="BitTorrent" type="lsep" />
         <setting id="buffer_size" label="30003" type="number" default="20" />
         <setting id="auto_adjust_buffer_size" label="30500" type="bool" default="true" />
-        <setting id="buffer_timeout" label="30088" type="slider" option="int" range="60,15,900" default="300" />
+        <setting id="buffer_timeout" label="30088" type="slider" option="int" range="10,5,600" default="60" />
         <setting id="max_upload_rate" label="30004" type="number" default="" />
         <setting id="max_download_rate" label="30005" type="number" default="" />
         <setting id="autoload_torrents" type="bool" label="30421" default="true" />
