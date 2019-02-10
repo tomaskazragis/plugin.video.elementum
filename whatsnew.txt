@@ -2,33 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
-[B][COLOR red]v0.1.8[/COLOR][/B]
-    - Added option to auto-adjust buffer size to have at least 10 pieces before starting playback.
-
-[B][COLOR red]v0.1.7[/COLOR][/B]
-    - More fixes to piece selection.
-    - New linux-armv6/armv7/arm64, android arm/arm64 images for compilation.
-
-[B][COLOR red]v0.1.6[/COLOR][/B]
-    - More fixes to piece selection.
-
-[B][COLOR red]v0.1.5[/COLOR][/B]
-    - More fixes to piece selection.
-    - Default connections per torrent is 200.
-
-[B][COLOR red]v0.1.4[/COLOR][/B]
-    - Fixes for piece selection.
-
-[B][COLOR red]v0.1.3[/COLOR][/B]
-    - Fixed magnet processing.
-
-[B][COLOR red]v0.1.2[/COLOR][/B]
-    - More fixes in migration task!
-
-[B][COLOR red]v0.1.1[/COLOR][/B]
+[B][COLOR red]v0.1.1-0.1.9[/COLOR][/B]
     - Testing migration to libtorrent as a torrent library!
     - If you want to use stable version - revert to 0.0.* version by updating from repository!
     - Please report any found problems on github or gitter chat.
+    - Added option to auto-adjust buffer size to have at least 10 pieces before starting playback.
 
 [B][COLOR red]v0.0.71[/COLOR][/B]
     - New memory storage implemented.
