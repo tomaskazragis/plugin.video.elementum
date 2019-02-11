@@ -2,11 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
-[B][COLOR red]v0.1.1-0.1.10[/COLOR][/B]
+[B][COLOR red]v0.1.1-0.1.11[/COLOR][/B]
     - Testing migration to libtorrent as a torrent library!
     - If you want to use stable version - revert to 0.0.* version by updating from repository!
     - Please report any found problems on github or gitter chat.
     - Added option to auto-adjust buffer size to have at least 10 pieces before starting playback.
+    - Added option to skip auto-adjust buffer according to Kodi's advancedsettings.xml
 
 [B][COLOR red]v0.0.71[/COLOR][/B]
     - New memory storage implemented.
