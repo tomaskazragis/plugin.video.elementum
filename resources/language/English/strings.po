@@ -1736,3 +1736,7 @@ msgstr ""
 msgctxt "#30501"
 msgid "Filter files with size less than, MB"
 msgstr ""
+
+msgctxt "#30502"
+msgid "Adjust buffer according to Kodi advancedsettings, if set"
+msgstr ""
