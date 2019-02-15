@@ -1752,3 +1752,15 @@ msgstr ""
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
 msgstr ""
+
+msgctxt "#30503"
+msgid "Use libtorrent.config to override torrent engine settings"
+msgstr ""
+
+msgctxt "#30504"
+msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgstr ""
+
+msgctxt "#30505"
+msgid "Add episode number to the title"
+msgstr ""

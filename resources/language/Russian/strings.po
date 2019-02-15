@@ -1741,3 +1741,15 @@ msgstr "Фильтровать файлы размером меньше, МБ"
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
 msgstr "Увеличить буффер в соответствии с advancedsettings Kodi, если есть"
+
+msgctxt "#30503"
+msgid "Use libtorrent.config to override torrent engine settings"
+msgstr "Использовать libtorrent.config для настроек torrent качалки"
+
+msgctxt "#30504"
+msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
+msgstr "Находится в файле USERDATA/plugin.video.elementum/libtorrent.config[CR]Применяются автоматически. Информация - https://libtorrent.org"
+
+msgctxt "#30505"
+msgid "Add episode number to the title"
+msgstr "Добавлять номер эпизода в название"

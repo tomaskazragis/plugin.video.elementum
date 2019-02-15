@@ -75,6 +75,7 @@
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="disable_bg_progress" label="30094" type="bool" default="false" />
         <setting id="disable_bg_progress_playback" label="30386" type="bool" default="true" />
+        <setting id="add_episode_numbers" label="30505" type="bool" default="false" />
         <setting id="viewmode_movies" label="30034" type="number" default="" />
         <setting id="viewmode_tvshows" label="30035" type="number" default="" />
         <setting id="viewmode_seasons" label="30036" type="number" default="" />
@@ -119,6 +120,8 @@
         <setting id="listen_port_max" label="30007" type="number" default="6899" visible="eq(-2,false)" />
         <setting id="tuned_storage" label="30086" type="bool" default="false" />
         <setting id="spoof_user_agent" label="30074" type="enum" lvalues="30065|30075|30076|30077|30078|30079|30080|30081|30082|30083|30084|30085" />
+        <setting id="use_libtorrent_config" label="30503" type="bool" default="true" />
+        <setting type="text" label="30504" enable="false" />
     </category>
     <category label="30239">
         <!-- Searching -->
