@@ -656,7 +656,7 @@ msgstr "Проиграть / возобновить торрент"
 
 msgctxt "#30231"
 msgid "Pause torrent"
-msgstr "Приостановить торрент"
+msgstr "Приостановить скачивание"
 
 msgctxt "#30232"
 msgid "Delete torrent"
@@ -664,15 +664,15 @@ msgstr "Удалить торрент"
 
 msgctxt "#30233"
 msgid "Pause session"
-msgstr "Приостановить загрузку"
+msgstr "Приостановить сессию"
 
 msgctxt "#30234"
 msgid "Resume session"
-msgstr "Возобновить загрузку"
+msgstr "Возобновить сессию"
 
 msgctxt "#30235"
 msgid "Resume torrent"
-msgstr "Возобновить проигрывание"
+msgstr "Возобновить скачивание"
 
 msgctxt "#30236"
 msgid "Recently Released"
