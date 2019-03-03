@@ -361,7 +361,7 @@ msgstr "Vuze 5.7.3.0"
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
-msgstr "Habilitar ajustes para almacenamiento sintonizado"
+msgstr "Habilitar ajustes para almacenamiento optimizado"
 
 msgctxt "#30087"
 msgid "Ask to delete the files after streaming"
@@ -1723,35 +1723,35 @@ msgstr "Usar si es posible proxy antizapret"
 
 msgctxt "#30498"
 msgid "Reset this path to '/'"
-msgstr ""
+msgstr "Restablecer esta ruta a '/'"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Ajustar automáticamente tamaño de memoria[CR] para torrents pesados, si es posible"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Ajustar automáticamente tamaño de buffer[CR] para torrents pesados"
 
 msgctxt "#30501"
 msgid "Filter files with size less than, MB"
-msgstr ""
+msgstr "Filtrar archivos con un tamaño inferior a, MB"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Ajustar buffer según advancedsettings de Kodi, si está ajustado"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "Usar libtorrent.config para anular la configuración del motor torrent"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "Localizado en USERDATA/plugin.video.elementum/libtorrent.config[CR]la configuración se aplica automáticamente. Visite https://libtorrent.org para obtener información."
 
 msgctxt "#30505"
 msgid "Add episode number to the title"
-msgstr ""
+msgstr "Añadir número de episodio a título"
 
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
