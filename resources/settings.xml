@@ -71,7 +71,7 @@
         <setting label="30033" type="lsep" />
         <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,30" default="9" />
         <setting id="default_fanart" label="30092" type="bool" default="true" />
-        <setting id="use_fanart_tv" label="30491" type="bool" default="true" />
+        <setting id="use_fanart_tv" label="30491" type="bool" default="false" />
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="disable_bg_progress" label="30094" type="bool" default="false" />
         <setting id="disable_bg_progress_playback" label="30386" type="bool" default="true" />
