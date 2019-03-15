@@ -1753,3 +1753,39 @@ msgstr "Находится в файле USERDATA/plugin.video.elementum/libtorr
 msgctxt "#30505"
 msgid "Add episode number to the title"
 msgstr "Добавлять номер эпизода в название"
+
+msgctxt "#30506"
+msgid "Enable libtorrent logging"
+msgstr "Включить логи libtorrent"
+
+msgctxt "#30507"
+msgid "Magnet trackers"
+msgstr "Magnet трекеры"
+
+msgctxt "#30508"
+msgid "Leave as is"
+msgstr "Оставить как есть"
+
+msgctxt "#30509"
+msgid "Remove all"
+msgstr "Удалить все"
+
+msgctxt "#30510"
+msgid "Add retrackers"
+msgstr "Добавить ретрекеры"
+
+msgctxt "#30511"
+msgid "Libtorrent settings profile"
+msgstr "Профиль настроек Libtorrent"
+
+msgctxt "#30512"
+msgid "Default"
+msgstr "По-умолчанию"
+
+msgctxt "#30513"
+msgid "Minimal memory"
+msgstr "Минимум памяти"
+
+msgctxt "#30514"
+msgid "High speed"
+msgstr "Высокая скорость"

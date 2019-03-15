@@ -1764,3 +1764,39 @@ msgstr ""
 msgctxt "#30505"
 msgid "Add episode number to the title"
 msgstr ""
+
+msgctxt "#30506"
+msgid "Enable libtorrent logging"
+msgstr ""
+
+msgctxt "#30507"
+msgid "Magnet trackers"
+msgstr ""
+
+msgctxt "#30508"
+msgid "Leave as is"
+msgstr ""
+
+msgctxt "#30509"
+msgid "Remove all"
+msgstr ""
+
+msgctxt "#30510"
+msgid "Add retrackers"
+msgstr ""
+
+msgctxt "#30511"
+msgid "Libtorrent settings profile"
+msgstr ""
+
+msgctxt "#30512"
+msgid "Default"
+msgstr ""
+
+msgctxt "#30513"
+msgid "Minimal memory"
+msgstr ""
+
+msgctxt "#30514"
+msgid "High speed"
+msgstr ""
