@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.22[/COLOR][/B]
+    - Small changes to pieces priorities settings.
+    - Fixes for resume playback management.
+
 [B][COLOR red]0.1.21[/COLOR][/B]
     - Reorganized libtorrent settings.
     - Added libtorrent profile settings.
