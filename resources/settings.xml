@@ -95,6 +95,7 @@
         <setting id="max_upload_rate" label="30004" type="number" default="" />
         <setting id="max_download_rate" label="30005" type="number" default="" />
         <setting id="autoload_torrents" type="bool" label="30421" default="true" />
+        <setting id="autoload_torrents_paused" type="bool" label="30515" default="true" />
         <setting id="limit_after_buffering" label="30025" type="bool" default="false" />
         <setting id="connections_limit" label="30027" type="number" default="" />
 

@@ -1789,3 +1789,7 @@ msgstr "Минимум памяти"
 msgctxt "#30514"
 msgid "High speed"
 msgstr "Высокая скорость"
+
+msgctxt "#30515"
+msgid "Load torrents from torrents folder paused"
+msgstr "Добавлять торренты из папки torrents остановленными"

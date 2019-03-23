@@ -1788,3 +1788,7 @@ msgstr ""
 msgctxt "#30514"
 msgid "High speed"
 msgstr ""
+
+msgctxt "#30515"
+msgid "Load torrents from torrents folder paused"
+msgstr ""
