@@ -143,7 +143,7 @@
         <!-- Caching -->
         <setting label="30387" type="lsep" />
         <setting id="use_cache_selection" label="30388" type="bool" default="true" />
-        <setting id="use_cache_search" label="30389" type="bool" default="true" />
+        <setting id="use_cache_search" label="30389" type="bool" default="false" />
         <setting id="cache_search_duration" label="30390" type="number" default="180" visible="eq(-1,true)" />
 
         <!-- Providers -->
