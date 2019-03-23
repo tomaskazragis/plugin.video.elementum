@@ -1793,3 +1793,7 @@ msgstr "Высокая скорость"
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
 msgstr "Добавлять торренты из папки torrents остановленными"
+
+msgctxt "#30516"
+msgid "... resume N seconds earlier"
+msgstr "... продолжить на N секунд раньше"

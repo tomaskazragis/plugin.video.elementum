@@ -1804,3 +1804,7 @@ msgstr ""
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
 msgstr ""
+
+msgctxt "#30516"
+msgid "... resume N seconds earlier"
+msgstr ""

@@ -47,6 +47,7 @@
         <!-- General -->
         <setting label="30000" type="lsep" />
         <setting id="play_resume" label="30372" type="bool" default="true" />
+        <setting id="play_resume_back" label="30516" type="slider" option="int" range="0,1,120" default="0" />
         <setting id="add_specials" type="bool" label="30055" default="false" />
         <setting id="unaired_seasons" type="bool" label="30284" default="false" />
         <setting id="unaired_episodes" type="bool" label="30285" default="false" />
