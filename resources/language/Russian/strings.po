@@ -1797,3 +1797,7 @@ msgstr "Добавлять торренты из папки torrents остан�
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
 msgstr "... продолжить на N секунд раньше"
+
+msgctxt "#30517"
+msgid "In Kodi library"
+msgstr "В библиотеке Kodi"
