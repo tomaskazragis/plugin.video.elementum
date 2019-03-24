@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.23[/COLOR][/B]
+    - Added "In Kodi library" sections, that show movies/shows added by Elementum in Kodi library.
+    - Added option to resume playback N seconds earlier.
+    - Added option to resume torrents with Paused/Resumed state.
+
 [B][COLOR red]0.1.22[/COLOR][/B]
     - Small changes to pieces priorities settings.
     - Fixes for resume playback management.
