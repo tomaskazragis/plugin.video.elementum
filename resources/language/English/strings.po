@@ -1800,3 +1800,7 @@ msgstr ""
 msgctxt "#30517"
 msgid "In Kodi library"
 msgstr ""
+
+msgctxt "#30518"
+msgid "Use libtorrent deadlines"
+msgstr ""

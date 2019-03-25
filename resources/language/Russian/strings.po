@@ -1801,3 +1801,7 @@ msgstr "... продолжить на N секунд раньше"
 msgctxt "#30517"
 msgid "In Kodi library"
 msgstr "В библиотеке Kodi"
+
+msgctxt "#30518"
+msgid "Use libtorrent deadlines"
+msgstr "Использоваться deadlines в libtorrent"

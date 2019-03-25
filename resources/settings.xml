@@ -127,6 +127,7 @@
         <setting id="magnet_trackers" label="30507" type="enum" lvalues="30508|30509|30510" default="0" />
         <setting id="use_libtorrent_logging" label="30506" type="bool" default="false" />
         <setting id="libtorrent_profile" label="30511" type="enum" lvalues="30512|30513|30514" default="0" />
+        <setting id="use_libtorrent_deadlines" label="30518" type="bool" default="false" />
     </category>
     <category label="30239">
         <!-- Searching -->
