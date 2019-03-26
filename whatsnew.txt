@@ -2,6 +2,14 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.24[/COLOR][/B]
+    - Added "Liked" Trakt lists to "My Collections".
+    - Added context menu to Trakt lists, that allow adding them to main menu (Movies/Shows).
+    - Any list can be added to main lists. Context menu on them - to remove from main menu.
+    - More changes to libtorrent settings.
+    - Fixed many memory leaks.
+    - Added options 
+
 [B][COLOR red]0.1.23[/COLOR][/B]
     - Added "In Kodi library" sections, that show movies/shows added by Elementum in Kodi library.
     - Added option to resume playback N seconds earlier.
