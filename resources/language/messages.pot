@@ -1816,3 +1816,15 @@ msgstr ""
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
 msgstr ""
+
+msgctxt "#30519"
+msgid "Use libtorrent pause/resume trick for added torrents"
+msgstr ""
+
+msgctxt "#30520"
+msgid "Add item to start menu"
+msgstr ""
+
+msgctxt "#30521"
+msgid "Delete item from start menu"
+msgstr ""

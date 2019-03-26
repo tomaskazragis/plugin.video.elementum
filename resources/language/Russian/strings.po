@@ -1805,3 +1805,15 @@ msgstr "В библиотеке Kodi"
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
 msgstr "Использоваться deadlines в libtorrent"
+
+msgctxt "#30519"
+msgid "Use libtorrent pause/resume trick for added torrents"
+msgstr "Использовать трюк с pause/resume в libtorrent[CR]для новых торрентов"
+
+msgctxt "#30520"
+msgid "Add item to start menu"
+msgstr "Добавить в стартовое меню"
+
+msgctxt "#30521"
+msgid "Delete item from start menu"
+msgstr "Удалить из стартового меню"
