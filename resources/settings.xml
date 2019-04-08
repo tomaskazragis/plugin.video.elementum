@@ -41,7 +41,10 @@
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="force_link_type" type="bool" label="30324" default="false" />
         <setting id="smart_episode_match" type="bool" label="30333" default="true" />
-        <setting id="min_candidate_size" label="30501" type="slider" option="int" range="0,10,1000" default="100" />
+        
+        <setting label="30522" type="lsep" />
+        <setting id="min_candidate_size" label="30523" type="slider" option="int" range="0,10,1000" default="100" />
+        <setting id="min_candidate_show_size" label="30524" type="slider" option="int" range="0,1,1000" default="4" />
     </category>
     <category label="30326">
         <!-- General -->
@@ -90,7 +93,7 @@
         <!-- BitTorrent -->
         <setting label="BitTorrent" type="lsep" />
         <setting id="buffer_size" label="30003" type="number" default="20" />
-        <setting id="auto_adjust_buffer_size" label="30500" type="bool" default="true" />
+        <!-- <setting id="auto_adjust_buffer_size" label="30500" type="bool" default="true" /> -->
         <setting id="auto_kodi_buffer_size" label="30502" type="bool" default="true" />
         <setting id="buffer_timeout" label="30088" type="slider" option="int" range="10,5,600" default="60" />
         <setting id="max_upload_rate" label="30004" type="number" default="" />
@@ -127,7 +130,7 @@
         <setting id="magnet_trackers" label="30507" type="enum" lvalues="30508|30509|30510" default="0" />
         <setting id="use_libtorrent_logging" label="30506" type="bool" default="false" />
         <setting id="libtorrent_profile" label="30511" type="enum" lvalues="30512|30513|30514" default="0" />
-        <setting id="use_libtorrent_deadlines" label="30518" type="bool" default="false" />
+        <setting id="use_libtorrent_deadline" label="30518" type="bool" default="true" />
         <setting id="use_libtorrent_pauseresume" label="30519" type="bool" default="false" />
     </category>
     <category label="30239">

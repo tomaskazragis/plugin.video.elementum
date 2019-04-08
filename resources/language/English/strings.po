@@ -1816,3 +1816,15 @@ msgstr ""
 msgctxt "#30521"
 msgid "Delete item from start menu"
 msgstr ""
+
+msgctxt "#30522"
+msgid "Minimum file size"
+msgstr ""
+
+msgctxt "#30523"
+msgid "Minimum file size for Movies, MB"
+msgstr ""
+
+msgctxt "#30524"
+msgid "Minimum file size for Shows, per minute, MB"
+msgstr ""

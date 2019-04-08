@@ -1817,3 +1817,15 @@ msgstr "Добавить в стартовое меню"
 msgctxt "#30521"
 msgid "Delete item from start menu"
 msgstr "Удалить из стартового меню"
+
+msgctxt "#30522"
+msgid "Minimum file size"
+msgstr "Минимальный размер файла"
+
+msgctxt "#30523"
+msgid "Minimum file size for Movies, MB"
+msgstr "Минимальный размер Фильма, МБ"
+
+msgctxt "#30524"
+msgid "Minimum file size for Shows, per minute, MB"
+msgstr "Минимальный размер Сериала, за минуту, МБ"
