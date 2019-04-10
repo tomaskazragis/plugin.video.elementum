@@ -1840,3 +1840,7 @@ msgstr ""
 msgctxt "#30524"
 msgid "Minimum file size for Shows, per minute, MB"
 msgstr ""
+
+msgctxt "#30525"
+msgid "Automatically start downloading next episode"
+msgstr ""

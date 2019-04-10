@@ -1829,3 +1829,7 @@ msgstr "Минимальный размер Фильма, МБ"
 msgctxt "#30524"
 msgid "Minimum file size for Shows, per minute, MB"
 msgstr "Минимальный размер Сериала, за минуту, МБ"
+
+msgctxt "#30525"
+msgid "Automatically start downloading next episode"
+msgstr "Автоматически начинать загрузку следующей серии"
