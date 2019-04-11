@@ -138,6 +138,7 @@
         <!-- Searching -->
         <setting label="30478" type="lsep" />
         <setting id="use_original_title" type="bool" label="30038" default="false" />
+        <setting id="use_anime_en_title" type="bool" label="30526" default="true" />
 
         <!-- Sorting -->
         <setting label="30041" type="lsep" />

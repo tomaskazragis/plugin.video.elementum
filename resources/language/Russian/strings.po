@@ -1833,3 +1833,7 @@ msgstr "Минимальный размер Сериала, за минуту, �
 msgctxt "#30525"
 msgid "Automatically start downloading next episode"
 msgstr "Автоматически начинать загрузку следующей серии"
+
+msgctxt "#30526"
+msgid "Use english title as 'original' for Anime search"
+msgstr "Использовать английское название как 'original' для поиска Аниме"
