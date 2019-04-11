@@ -496,8 +496,8 @@ msgid "Scraping trackers..."
 msgstr "Recherche sur les “trackers” …"
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
-msgstr "Aidez le développement de Elementum en visitant https://quasar.surge.sh/donate"
+msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate"
+msgstr "Aidez le développement de Elementum en visitant[CR]https://elementum.surge.sh/donate"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"

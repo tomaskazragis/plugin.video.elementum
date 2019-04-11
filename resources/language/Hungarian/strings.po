@@ -491,8 +491,8 @@ msgid "Scraping trackers..."
 msgstr "Trackerek scrappelése..."
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
-msgstr "Kérjük támogassa a Elementum fejlesztését a https://quasar.surge.sh/donate oldal meglátogatásával"
+msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate"
+msgstr "Kérjük támogassa a Elementum fejlesztését a https://elementum.surge.sh/donate oldal meglátogatásával"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"

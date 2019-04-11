@@ -496,7 +496,7 @@ msgid "Scraping trackers..."
 msgstr ""
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
+msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate"
 msgstr ""
 
 msgctxt "#30142"
@@ -1847,4 +1847,8 @@ msgstr ""
 
 msgctxt "#30526"
 msgid "Use english title as 'original' for Anime search"
+msgstr ""
+
+msgctxt "#30527"
+msgid "Donate"
 msgstr ""

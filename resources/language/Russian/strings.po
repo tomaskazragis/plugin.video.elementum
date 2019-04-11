@@ -490,8 +490,8 @@ msgid "Scraping trackers..."
 msgstr "Запрашиваем трекеры..."
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
-msgstr "Пожалуйста, поддержите разработку Elementum посещением https://quasar.surge.sh/donate"
+msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate"
+msgstr "Пожалуйста, поддержите разработку Elementum посещением[CR]https://elementum.surge.sh/donate"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
@@ -1837,3 +1837,7 @@ msgstr "Автоматически начинать загрузку следу�
 msgctxt "#30526"
 msgid "Use english title as 'original' for Anime search"
 msgstr "Использовать английское название как 'original' для поиска Аниме"
+
+msgctxt "#30527"
+msgid "Donate"
+msgstr "Пожертвования"

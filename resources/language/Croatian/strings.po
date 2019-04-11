@@ -493,8 +493,8 @@ msgid "Scraping trackers..."
 msgstr "Sakupljanje pratitelja..."
 
 msgctxt "#30141"
-msgid "Please support Elementum development by visiting https://quasar.surge.sh/donate"
-msgstr "Podržite razvoj Elementuma posjetom https://quasar.surge.sh/donate"
+msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate"
+msgstr "Podržite razvoj Elementuma posjetom https://elementum.surge.sh/donate"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
