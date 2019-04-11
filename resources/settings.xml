@@ -176,7 +176,7 @@
 
         <setting label="30008" type="lsep" />
         <setting id="proxy_enabled" label="30010" type="bool" default="false" />
-          <setting id="proxy_type" label="30067" type="enum" default="1" subsetting="true" lvalues="30068|30069|30071|30385" visible="eq(-1,true)" />
+          <setting id="proxy_type" label="30067" type="enum" default="1" subsetting="true" lvalues="30068|30069|30071|30073" visible="eq(-1,true)" />
           <setting id="proxy_host" label="30011" type="text" default="" subsetting="true" visible="eq(-2,true)" />
           <setting id="proxy_port" label="30012" type="number" default="1080" subsetting="true" visible="eq(-3,true)" />
           <setting id="proxy_login" label="30013" type="text" default="" subsetting="true" visible="eq(-4,true)" />
