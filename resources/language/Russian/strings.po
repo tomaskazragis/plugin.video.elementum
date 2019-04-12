@@ -1699,8 +1699,8 @@ msgid "Use Fanart.tv for posters/images"
 msgstr "Использовать fanart.tv для постеров/изображений"
 
 msgctxt "#30492"
-msgid "Use Proxy for downloading torrent files"
-msgstr "Использовать прокси для скачивания торрент файлов"
+msgid "Use Proxy for downloading .torrent files"
+msgstr "Использовать прокси для скачивания .torrent файлов"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
@@ -1708,7 +1708,7 @@ msgstr "Использовать прокси для трекеров"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr "Использовать прокси для скачивания торрента"
+msgstr "Использовать прокси для скачивания торрентов"
 
 msgctxt "#30495"
 msgid "Use internal DNS resolver"
@@ -1841,3 +1841,15 @@ msgstr "Использовать английское название как 'o
 msgctxt "#30527"
 msgid "Donate"
 msgstr "Пожертвования"
+
+msgctxt "#30528"
+msgid "Automatically load first found subtitles"
+msgstr "Автоматически загружать найденные субтитры"
+
+msgctxt "#30529"
+msgid "Number of subtitles to load automatically"
+msgstr "Количество субтитров для загрузки автоматически"
+
+msgctxt "#30530"
+msgid "Delete autoloaded subtitles on player stop"
+msgstr "Удалять автоматически загруженные субтитры"
