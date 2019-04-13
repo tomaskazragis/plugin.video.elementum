@@ -2,6 +2,21 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.25[/COLOR][/B]
+    - Added separate option for defining minimum file size for episodes (to cover small episodes).
+    - More changes to deadlines management. Deadlines are not enabled by default.
+    - Buffer window now not shown if buffer is not needed.
+    - Fixed OSDB usage without login/password (anonymous mode now working).
+    - Modified OSDB to properly search episodes.
+    - Added option for auto-downloading subtitles from OSDB on playback start.
+    - Fixed internal proxy failure on configuration changes.
+    - Added Auto-buffering for next episode in playlist (Start playback from list of episodes by "Play from here ...").
+    - Modified all plugin links to have movie/episode titles in the link.
+    - Fixed proxy settings in libtorrent.
+    - Added Transaltions to search objects, that go to search plugins.
+    - Added Donate link to main menu.
+    - Added deadline reset for hailed-hash pieces.
+
 [B][COLOR red]0.1.24[/COLOR][/B]
     - Added "Liked" Trakt lists to "My Collections".
     - Added context menu to Trakt lists, that allow adding them to main menu (Movies/Shows).
