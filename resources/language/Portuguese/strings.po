@@ -1853,6 +1853,26 @@ msgctxt "#30530"
 msgid "Delete autoloaded subtitles on player stop"
 msgstr ""
 
+msgctxt "#30531"
+msgid "Download all files from torrent"
+msgstr ""
+
+msgctxt "#30532"
+msgid "Stop Downloading all files"
+msgstr ""
+
+msgctxt "#30533"
+msgid "Store Resume position for downloaded files"
+msgstr ""
+
+msgctxt "#30534"
+msgid "Ask to use stored Resume position"
+msgstr ""
+
+msgctxt "#30535"
+msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Pasta de transferências (não FAT32)"

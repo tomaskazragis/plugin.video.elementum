@@ -1882,5 +1882,5 @@ msgid "Ask to use stored Resume position"
 msgstr ""
 
 msgctxt "#30535"
-msgid "Continue playback from [COLOR FFFF6B00]%s[/COLOR]?"
+msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
 msgstr ""
