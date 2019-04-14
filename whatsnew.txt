@@ -2,6 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.26[/COLOR][/B]
+    - Added storing resume progress for downloaded files.
+    - Added "Download all" option to context menu in torrents list.
+    - Make "Yes" as predefined in confirm dialogs.
+    - Trying to treat piece priorities in a new way.
+
 [B][COLOR red]0.1.25[/COLOR][/B]
     - Added separate option for defining minimum file size for episodes (to cover small episodes).
     - More changes to deadlines management. Deadlines are not enabled by default.
