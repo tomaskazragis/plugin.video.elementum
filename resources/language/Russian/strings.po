@@ -1853,3 +1853,11 @@ msgstr "Количество субтитров для загрузки авто
 msgctxt "#30530"
 msgid "Delete autoloaded subtitles on player stop"
 msgstr "Удалять автоматически загруженные субтитры"
+
+msgctxt "#30531"
+msgid "Download all files from torrent"
+msgstr "Скачать все файлы торрента"
+
+msgctxt "#30532"
+msgid "Stop Downloading all files"
+msgstr "Остановить загрузку всех файлов"

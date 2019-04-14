@@ -1852,3 +1852,11 @@ msgstr ""
 msgctxt "#30530"
 msgid "Delete autoloaded subtitles on player stop"
 msgstr ""
+
+msgctxt "#30531"
+msgid "Download all files from torrent"
+msgstr ""
+
+msgctxt "#30532"
+msgid "Stop Downloading all files"
+msgstr ""
