@@ -1861,3 +1861,15 @@ msgstr "Скачать все файлы торрента"
 msgctxt "#30532"
 msgid "Stop Downloading all files"
 msgstr "Остановить загрузку всех файлов"
+
+msgctxt "#30533"
+msgid "Store Resume position for downloaded files"
+msgstr "Хранить позицию воспроизведения для скачиваевых файлов"
+
+msgctxt "#30534"
+msgid "Ask to use stored Resume position"
+msgstr "Спрашивать использовать сохраненную позицию"
+
+msgctxt "#30535"
+msgid "Continue playback from [COLOR FFFF6B00]%s[/COLOR]?"
+msgstr "Продолжить воспроизведение от [COLOR FFFF6B00]%s[/COLOR]?"
