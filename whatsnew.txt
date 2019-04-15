@@ -2,6 +2,9 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.27[/COLOR][/B]
+    - More changes to piece pick strategy. Removed deadlines functionality.
+
 [B][COLOR red]0.1.26[/COLOR][/B]
     - Added storing resume progress for downloaded files.
     - Added "Download all" option to context menu in torrents list.
