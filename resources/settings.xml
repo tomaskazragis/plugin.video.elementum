@@ -171,6 +171,7 @@
     <setting label="30490" type="lsep" />
         <setting id="internal_dns_enabled" label="30495" type="bool" default="true" />
         <setting id="internal_dns_help" label="30496" type="text" enable="false" />
+        <setting id="internal_dns_skip_ipv6" label="30536" type="bool" default="true" />
 
         <setting id="internal_proxy_enabled" label="30487" type="bool" default="true" />
         <setting id="internal_proxy_logging" label="30489" type="bool" default="false" />

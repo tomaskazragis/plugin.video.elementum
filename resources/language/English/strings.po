@@ -1872,3 +1872,7 @@ msgstr ""
 msgctxt "#30535"
 msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
 msgstr ""
+
+msgctxt "#30536"
+msgid "Skip IPv6 addresses resolving"
+msgstr ""
