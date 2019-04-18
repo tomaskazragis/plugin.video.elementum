@@ -30,6 +30,8 @@
 
         <!-- Download -->
         <setting label="30325" type="lsep" />
+        <setting id="use_torrent_history" type="bool" label="30538" default="true" />
+        <setting id="torrent_history_size" label="30539" type="slider" option="int" range="0,1,200" default="50" />
         <setting id="keep_downloading" type="enum" label="30028" lvalues="30319|30320|30321" default="1" />
         <setting id="keep_files_playing" type="enum" label="30312" lvalues="30309|30310|30311" default="1" />
         <setting id="keep_files_finished" type="enum" label="30313" lvalues="30309|30310|30311" default="1" />
