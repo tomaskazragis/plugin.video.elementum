@@ -2,6 +2,13 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.28[/COLOR][/B]
+    - Added option to skip IPv6 addresses with built-in DNS resolver.
+    - Small fixes for subtitles selector in existing torrents.
+    - Fixed payload for opensubtitles.
+    - Added Torrents history section. 
+    - Refactored resume playback.
+
 [B][COLOR red]0.1.27[/COLOR][/B]
     - More changes to piece pick strategy. Removed deadlines functionality.
 
