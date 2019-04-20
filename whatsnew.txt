@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.29[/COLOR][/B]
+    - Fixed issue with priorities setter for file storage.
+    - More subtitles reorganizations.
+
 [B][COLOR red]0.1.28[/COLOR][/B]
     - Added option to skip IPv6 addresses with built-in DNS resolver.
     - Small fixes for subtitles selector in existing torrents.
