@@ -1395,7 +1395,7 @@ msgstr "Ne"
 
 msgctxt "#30415"
 msgid "Next page (%s)"
-msgstr "Sljedeća stranica"
+msgstr "Sljedeća stranica (%s)"
 
 msgctxt "#30416"
 msgid "Percents of playback to mark as watched"
