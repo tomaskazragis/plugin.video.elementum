@@ -2,6 +2,15 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.30[/COLOR][/B]
+    - Fixed issue with file not fully downloaded (using file storage).
+    - Added movie/show title to /play links.
+    - Fixed removal of files, upon torrent deletion in torrents list' context menu.
+    - Fixed re-modification of torrent files upon torrent metadata received.
+    - Added feature to read added file, if it has magnet link inside.
+    - Fixed Croatian translation. Many thanks to @adiadi2.
+    - Another approach to make platform detection safer on closed platforms.
+
 [B][COLOR red]0.1.29[/COLOR][/B]
     - Fixed issue with priorities setter for file storage.
     - More subtitles reorganizations.
