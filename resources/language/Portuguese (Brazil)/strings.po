@@ -1873,6 +1873,22 @@ msgctxt "#30535"
 msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
 msgstr ""
 
+msgctxt "#30536"
+msgid "Skip IPv6 addresses resolving"
+msgstr ""
+
+msgctxt "#30537"
+msgid "Torrents history"
+msgstr ""
+
+msgctxt "#30538"
+msgid "Use torrents history?"
+msgstr ""
+
+msgctxt "#30539"
+msgid "Store N torrents in history"
+msgstr ""
+
 #~ msgctxt "#30001"
 #~ msgid "Download path (not FAT32)"
 #~ msgstr "Local de download (menos FAT32)"
