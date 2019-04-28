@@ -2,6 +2,10 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.31[/COLOR][/B]
+    - Fixed File storage pieces management.
+    - Fixed Antizapret proxy.
+
 [B][COLOR red]0.1.30[/COLOR][/B]
     - Fixed issue with file not fully downloaded (using file storage).
     - Added movie/show title to /play links.
