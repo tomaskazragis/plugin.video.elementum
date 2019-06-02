@@ -2,6 +2,21 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.32[/COLOR][/B]
+    - Updated libtorrent-go docker images to use Musl+GCC9 for Linux images. Should run on any Linux OS now.
+    - Modified automatic next episode starter, to avoid re-writing current episode.
+    - Fixed issue with internal DNS client and failed requests because of v6 IPs.
+    - Small changes to prioritization function to avoid useless calls to libtorrent.
+    - Changed default MaxConnections for libtorrent, from 200 to 80 for multicore devices, 50 to 40 for singlecore devices.
+    - Added handling of multiple BluRay directories in the torrent.
+    - Made search queries to become on top when selected from history list. 
+    - Added selection of files, when added from web. 
+    - Added button to web, to add torrent with downloading all files.
+    - Modified season/episode titles, used for subtitles searchers.
+    - Fixed issue when buffer dialog shows 0% progress.
+    - Added option to avoid adding subtitles files when video has included subtitles. Same option for automatic subtitles download.
+    - Added support for adding not only .srt subtitles. Full list: https://aboutdevice.com/kodi-load-external-subtitle-file/    
+
 [B][COLOR red]0.1.31[/COLOR][/B]
     - Fixed File storage pieces management.
     - Fixed Antizapret proxy.
