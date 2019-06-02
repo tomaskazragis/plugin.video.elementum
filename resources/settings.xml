@@ -191,15 +191,20 @@
           <setting id="use_proxy_tracker" label="30493" type="bool" default="true" subsetting="true" visible="eq(-7,true)" />
           <setting id="use_proxy_download" label="30494" type="bool" default="true" subsetting="true" visible="eq(-8,true)" />
     </category>
-    <category label="OpenSubtitles">
+    <category label="30540">
         <setting label="OpenSubtitles" type="lsep" />
         <setting id="osdb_user" label="30057" type="text" default="" />
         <setting id="osdb_pass" label="30014" type="text" option="hidden" default="" />
         <setting id="osdb_auto_language" label="30383" type="bool" default="true" />
         <setting id="osdb_language" label="30384" type="text" default="" enable="eq(-1,false)" />
+        <setting label="30541" type="lsep" />
         <setting id="osdb_auto_load" label="30528" type="bool" default="false" />
         <setting id="osdb_auto_load_count" label="30529" type="slider" option="int" range="1,1,20" default="1" />
         <setting id="osdb_auto_load_delete" label="30530" type="bool" default="true" />
+        <setting id="osdb_auto_load_skipexists" label="30542" type="bool" default="true" />
+        <setting label="30543" type="lsep" />
+        <setting id="osdb_included_enabled" label="30010" type="bool" default="true" />
+        <setting id="osdb_included_skipexists" label="30542" type="bool" default="true" />
     </category>
     <category label="30056">
         <!-- Trakt -->

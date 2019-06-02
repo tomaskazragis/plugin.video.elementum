@@ -1889,3 +1889,19 @@ msgstr "Использовать историю торрентов?"
 msgctxt "#30539"
 msgid "Store N torrents in history"
 msgstr "Хранить N торрентов в истории"
+
+msgctxt "#30540"
+msgid "Subtitles"
+msgstr "Субтитры"
+
+msgctxt "#30541"
+msgid "Automatic Subtitles Search"
+msgstr "Автоматический поиск субтитров"
+
+msgctxt "#30542"
+msgid "Disabled if subtitles available in player"
+msgstr "Отключить если субтитры доступны в плеере"
+
+msgctxt "#30543"
+msgid "Subtitles included in torrent"
+msgstr "Субтитры в торрент файле"

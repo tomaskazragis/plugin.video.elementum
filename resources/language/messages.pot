@@ -1900,3 +1900,19 @@ msgstr ""
 msgctxt "#30539"
 msgid "Store N torrents in history"
 msgstr ""
+
+msgctxt "#30540"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "#30541"
+msgid "Automatic Subtitles Search"
+msgstr ""
+
+msgctxt "#30542"
+msgid "Disabled if subtitles available in player"
+msgstr ""
+
+msgctxt "#30543"
+msgid "Subtitles included in torrent"
+msgstr ""
