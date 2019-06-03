@@ -44,10 +44,6 @@
         <setting id="force_link_type" type="bool" label="30324" default="false" />
         <setting id="smart_episode_match" type="bool" label="30333" default="true" />
         <setting id="smart_episode_start" type="bool" label="30525" default="true" />
-        
-        <setting label="30522" type="lsep" />
-        <setting id="min_candidate_size" label="30523" type="slider" option="int" range="0,10,1000" default="100" />
-        <setting id="min_candidate_show_size" label="30524" type="slider" option="int" range="0,1,1000" default="4" />
     </category>
     <category label="30326">
         <!-- General -->
@@ -143,6 +139,10 @@
         <setting label="30478" type="lsep" />
         <setting id="use_original_title" type="bool" label="30038" default="false" />
         <setting id="use_anime_en_title" type="bool" label="30526" default="true" />
+
+        <setting label="30522" type="lsep" />
+        <setting id="min_candidate_size" label="30523" type="slider" option="int" range="0,10,1000" default="100" />
+        <setting id="min_candidate_show_size" label="30524" type="slider" option="int" range="0,1,1000" default="4" />
 
         <!-- Sorting -->
         <setting label="30041" type="lsep" />

@@ -2,7 +2,12 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.33[/COLOR][/B]
+    - Fixed Linux ARM platforms.
+    - Removed usage of Kodi 'resume playback' parameter as it is often wrong.
+
 [B][COLOR red]0.1.32[/COLOR][/B]
+    - [B][COLOR red]This release is removed due to broken work on Linux ARM platforms![/COLOR][/B]
     - Updated libtorrent-go docker images to use Musl+GCC9 for Linux images. Should run on any Linux OS now.
     - Modified automatic next episode starter, to avoid re-writing current episode.
     - Fixed issue with internal DNS client and failed requests because of v6 IPs.
