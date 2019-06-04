@@ -2,7 +2,7 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
-[B][COLOR red]0.1.33[/COLOR][/B]
+[B][COLOR red]0.1.33-34[/COLOR][/B]
     - Fixed Linux ARM platforms.
     - Removed usage of Kodi 'resume playback' parameter as it is often wrong.
 
