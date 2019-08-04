@@ -1969,3 +1969,7 @@ msgstr "Последние доступные фильмы"
 msgctxt "#30559"
 msgid "Skip searching for installed providers"
 msgstr "Не спрашивать установку поисковых провайдеров"
+
+msgctxt "#30560"
+msgid "Files: %s"
+msgstr "Файлы: %s"

@@ -1968,3 +1968,7 @@ msgstr ""
 msgctxt "#30559"
 msgid "Skip searching for installed providers"
 msgstr ""
+
+msgctxt "#30560"
+msgid "Files: %s"
+msgstr ""
