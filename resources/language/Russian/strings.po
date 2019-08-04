@@ -1965,3 +1965,7 @@ msgstr "Количество популярных фильмов"
 msgctxt "#30558"
 msgid "Latest available movies"
 msgstr "Последние доступные фильмы"
+
+msgctxt "#30559"
+msgid "Skip searching for installed providers"
+msgstr "Не спрашивать установку поисковых провайдеров"

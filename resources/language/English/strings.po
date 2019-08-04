@@ -1964,3 +1964,7 @@ msgstr ""
 msgctxt "#30558"
 msgid "Latest available movies"
 msgstr ""
+
+msgctxt "#30559"
+msgid "Skip searching for installed providers"
+msgstr ""

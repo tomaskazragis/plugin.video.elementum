@@ -176,6 +176,7 @@
 
         <!-- Providers -->
         <setting label="30239" type="lsep" />        
+        <setting id="skip_burst_search" label="30559" type="bool" default="false" />
         <setting id="provider_disable_failing" label="30031" type="bool" default="false" />
         <setting id="provider_allowed_failures" label="30032" type="slider" option="int" range="0,1,10" default="3" />
         
