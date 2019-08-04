@@ -1904,3 +1904,63 @@ msgstr ""
 msgctxt "#30543"
 msgid "Subtitles included in torrent"
 msgstr ""
+
+msgctxt "#30544"
+msgid "Automatic Scrape"
+msgstr ""
+
+msgctxt "#30545"
+msgid "Automatic scraping allows to scrape connected providers[CR]to find new movies, if there are results,"
+msgstr ""
+
+msgctxt "#30546"
+msgid "Strategy"
+msgstr ""
+
+msgctxt "#30547"
+msgid "Find in each provider"
+msgstr ""
+
+msgctxt "#30548"
+msgid "Find in overall"
+msgstr ""
+
+msgctxt "#30549"
+msgid "Number of results to find"
+msgstr ""
+
+msgctxt "#30550"
+msgid "What to search"
+msgstr ""
+
+msgctxt "#30551"
+msgid "How to search"
+msgstr ""
+
+msgctxt "#30552"
+msgid "Search each N hours"
+msgstr ""
+
+msgctxt "#30553"
+msgid "Find 4K resolution"
+msgstr ""
+
+msgctxt "#30554"
+msgid "Find 1080p resolution"
+msgstr ""
+
+msgctxt "#30555"
+msgid "and movie passes checks for number of results[CR]movie can be added to the library."
+msgstr ""
+
+msgctxt "#30556"
+msgid "Add to the library"
+msgstr ""
+
+msgctxt "#30557"
+msgid "Number of popular movies to search"
+msgstr ""
+
+msgctxt "#30558"
+msgid "Latest available movies"
+msgstr ""

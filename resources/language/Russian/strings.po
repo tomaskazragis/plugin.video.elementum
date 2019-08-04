@@ -1905,3 +1905,63 @@ msgstr "Отключить если субтитры доступны в пле�
 msgctxt "#30543"
 msgid "Subtitles included in torrent"
 msgstr "Субтитры в торрент файле"
+
+msgctxt "#30544"
+msgid "Automatic Scrape"
+msgstr "Автоматический поиск"
+
+msgctxt "#30545"
+msgid "Automatic scraping allows to scrape connected providers[CR]to find new movies, if there are results,"
+msgstr "Автоматический поиск позволяет искать среди подключенных[CR]провайдеров, для поиска новых фильмов,"
+
+msgctxt "#30546"
+msgid "Strategy"
+msgstr "Стратегия поиска"
+
+msgctxt "#30547"
+msgid "Find in each provider"
+msgstr "Поиск в каждом провайдере"
+
+msgctxt "#30548"
+msgid "Find in overall"
+msgstr "Поиск среди всех"
+
+msgctxt "#30549"
+msgid "Number of results to find"
+msgstr "Искать N результатов"
+
+msgctxt "#30550"
+msgid "What to search"
+msgstr "Что искать"
+
+msgctxt "#30551"
+msgid "How to search"
+msgstr "Как искать"
+
+msgctxt "#30552"
+msgid "Search each N hours"
+msgstr "Искать каждые N часов"
+
+msgctxt "#30553"
+msgid "Find 4K resolution"
+msgstr "Искать разрешение 4K"
+
+msgctxt "#30554"
+msgid "Find 1080p resolution"
+msgstr "Искать разрешение 1080p"
+
+msgctxt "#30555"
+msgid "and movie passes checks for number of results[CR]movie can be added to the library."
+msgstr "если есть результаты и проходит проверка[CR]фильм можно добавить в библиотеку."
+
+msgctxt "#30556"
+msgid "Add to the library"
+msgstr "Добавить в библиотеку"
+
+msgctxt "#30557"
+msgid "Number of popular movies to search"
+msgstr "Количество популярных фильмов"
+
+msgctxt "#30558"
+msgid "Latest available movies"
+msgstr "Последние доступные фильмы"
