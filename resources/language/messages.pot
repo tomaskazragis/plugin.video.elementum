@@ -1984,3 +1984,7 @@ msgstr ""
 msgctxt "#30560"
 msgid "Files: %s"
 msgstr ""
+
+msgctxt "#30561"
+msgid "Interval between requests, seconds"
+msgstr ""

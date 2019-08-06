@@ -1973,3 +1973,7 @@ msgstr "Не спрашивать установку поисковых пров
 msgctxt "#30560"
 msgid "Files: %s"
 msgstr "Файлы: %s"
+
+msgctxt "#30561"
+msgid "Interval between requests, seconds"
+msgstr "Интервал между запросами, секунд"
