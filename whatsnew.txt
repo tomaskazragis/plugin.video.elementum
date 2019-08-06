@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.37[/COLOR][/B]
+    - Disabed by default 'Auto-Scrape', so that people won't be banned because of massive requests.
+    - Added 'interval' setting for Auto-Scrape.
+    - Fixed matching episodes in Anime torrents.
+
 [B][COLOR red]0.1.36[/COLOR][/B]
     - Added Auto-Scrape functionality. It allows to search popular movies in the background and see which one is found on selected trackers. You can choose how to detect movie is available (for example expert to find at least 2 4K torrents, or find at least 3 torrents on each provider). Also possible to add it to the library automatically, and additional "Latest available movies" directory in Movies.
     - Added back auto-cache cleanup periodically.
