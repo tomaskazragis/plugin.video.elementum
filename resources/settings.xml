@@ -25,6 +25,7 @@
         <setting type="action" label="30498" action="RunPlugin(plugin://plugin.video.elementum/cmd/reset_path/library)" />
         <setting id="torrents_path" type="folder" label="30451" default="special://temp/elementum_torrents/" source="auto" option="writeable" />
         <setting type="action" label="30498" action="RunPlugin(plugin://plugin.video.elementum/cmd/reset_path/torrents)" />
+        <setting type="action" label="30562" option="close" action="RunPlugin(plugin://plugin.video.elementum/cmd/open_path/library)" />
 
         <setting type="action" label="30452" action="RunPlugin(plugin://plugin.video.elementum/cmd/reset_path)" />
 

@@ -1976,3 +1976,7 @@ msgstr ""
 msgctxt "#30561"
 msgid "Interval between requests, seconds"
 msgstr ""
+
+msgctxt "#30562"
+msgid "Open directory with Kodi file browser"
+msgstr ""
