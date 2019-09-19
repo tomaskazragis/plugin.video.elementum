@@ -233,7 +233,7 @@
         <setting label="30000" type="lsep" />
         <setting type="action" label="30058" action="RunPlugin(plugin://plugin.video.elementum/trakt/authorize)" />
         <setting id="trakt_scrobble" type="bool" label="Scrobble" default="false" />
-        <setting id="trakt_sync" label="30061" type="slider" option="int" range="0,1,24" default="2" />
+        <setting id="trakt_sync_frequency_min" label="30563" type="slider" option="int" range="0,1,300" default="5" />
         <setting id="trakt_token" type="text" label="Trakt token" default="" visible="false" />
         <setting id="trakt_username" type="text" label="30057" default="" enable="false" visible="!eq(-1,'')" />
         <setting type="action" label="30330" action="RunPlugin(plugin://plugin.video.elementum/trakt/update)" />
@@ -246,6 +246,8 @@
         <setting id="trakt_sync_userlists" type="bool" label="30365" default="true" />
         <setting id="trakt_sync_watched" type="bool" label="30366" default="true" />
         <setting id="trakt_sync_watchedback" type="bool" label="30367" default="true" />
+        <setting id="trakt_sync_playback_progress" type="bool" label="30565" default="true" />
+        <setting id="trakt_sync_hidden" type="bool" label="30564" default="true" />
 
         <setting id="trakt_sync_added_movies"              type="bool" label="30447" default="true" />
         <setting id="trakt_sync_added_movies_location"     type="enum" label="30442" lvalues="30257|30254|30436" default="0" visible="eq(-1,true)" />

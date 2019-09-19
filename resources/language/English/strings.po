@@ -1980,3 +1980,15 @@ msgstr ""
 msgctxt "#30562"
 msgid "Open directory with Kodi file browser"
 msgstr ""
+
+msgctxt "#30563"
+msgid "Synchronize frequency of Trakt (minutes)"
+msgstr ""
+
+msgctxt "#30564"
+msgid "Sync hidden items"
+msgstr ""
+
+msgctxt "#30565"
+msgid "Sync playback progress into Kodi library"
+msgstr ""
