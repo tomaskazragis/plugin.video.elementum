@@ -2,6 +2,15 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.38[/COLOR][/B]
+    - Totally rewritten Trakt syncronization. 
+    - Removed usage of SQLite database. All torrent links and some data will be deleted. You can rollback to version 0.1.37 and earlier, database is not deleted physically.
+    - Added "Open directory" option to settings, to open Library directory in Kodi (and add directory as Movie/Show source).
+    - Modifed Resume playback.
+    - Modified built-in DNS client, to work faster.
+    - Fixed caching to properly invalidate expired items.
+    - Added "All seasons" setting and seasons ordering settings (ascending/descending).
+
 [B][COLOR red]0.1.37[/COLOR][/B]
     - Disabed by default 'Auto-Scrape', so that people won't be banned because of massive requests.
     - Added 'interval' setting for Auto-Scrape.
