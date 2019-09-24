@@ -90,15 +90,20 @@
     <category label="30033">
         <!-- Appearance -->
         <setting label="30033" type="lsep" />
-        <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,50" default="9" />
-        <setting id="default_fanart" label="30092" type="bool" default="true" />
-        <setting id="use_fanart_tv" label="30491" type="bool" default="false" />
         <setting id="do_not_disturb" label="30093" type="bool" default="false" />
         <setting id="enable_overlay_status" type="bool" label="30022" default="true" />
           <setting id="overlay_status_offset" type="number" label="30030" default="150" subsetting="true" visible="eq(-1,true)" />
         <setting id="disable_bg_progress" label="30094" type="bool" default="false" />
         <setting id="disable_bg_progress_playback" label="30386" type="bool" default="true" />
         <setting id="add_episode_numbers" label="30505" type="bool" default="false" />
+
+        <setting label="30566" type="lsep" />
+        <setting id="results_per_page" label="30021" type="slider" option="int" range="3,1,50" default="9" />
+        <setting id="default_fanart" label="30092" type="bool" default="true" />
+        <setting id="use_fanart_tv" label="30491" type="bool" default="false" />
+        <setting id="seasons_all" label="30567" type="bool" default="true" />
+        <setting id="seasons_order" label="30568" type="enum" lvalues="30569|30570" default="0" />
+
         <setting id="viewmode_movies" label="30034" type="number" default="" />
         <setting id="viewmode_tvshows" label="30035" type="number" default="" />
         <setting id="viewmode_seasons" label="30036" type="number" default="" />
@@ -159,7 +164,7 @@
         <setting id="use_anime_en_title" type="bool" label="30526" default="true" />
 
         <setting label="30522" type="lsep" />
-        <setting id="min_candidate_size" label="30523" type="slider" option="int" range="0,10,1000" default="100" />
+        <setting id="min_candidate_size" label="30523" type="slider" option="int" range="0,1,1000" default="100" />
         <setting id="min_candidate_show_size" label="30524" type="slider" option="int" range="0,1,1000" default="4" />
 
         <!-- Sorting -->
@@ -264,13 +269,13 @@
         <setting id="trakt_sync_removed_movies"            type="bool" label="30449" default="true" />
         <setting id="trakt_sync_removed_movies_location"   type="enum" label="30442" lvalues="30257|30254|30436" default="0" visible="eq(-1,true)" />
         <setting                                           type="action" label="30441" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/movies)" visible="eq(-1,2)" />
-        <setting id="trakt_sync_removed_movies_list_name"  type="text" label="30443"                 default="" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_removed_movies_list_name"  type="text" label="30443"                   default="" visible="eq(-2,2)" enable="false" />
         <setting id="trakt_sync_removed_movies_list"       type="number" label="Removed userlist ID"   default="" visible="false" />
 
         <setting id="trakt_sync_removed_shows"             type="bool" label="30450" default="true" />
         <setting id="trakt_sync_removed_shows_location"    type="enum" label="30445" lvalues="30257|30254|30436" default="0" visible="eq(-1,true)" />
         <setting                                           type="action" label="30444" action="RunPlugin(plugin://plugin.video.elementum/trakt/select_list/removed/shows)" visible="eq(-1,2)" />
-        <setting id="trakt_sync_removed_shows_list_name"   type="text" label="30446"                 default="" visible="eq(-2,2)" enable="false" />
+        <setting id="trakt_sync_removed_shows_list_name"   type="text" label="30446"                   default="" visible="eq(-2,2)" enable="false" />
         <setting id="trakt_sync_removed_shows_list"        type="number" label="Removed userlist ID"   default="" visible="false" />
 
         <setting label="30424" type="lsep" />

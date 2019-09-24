@@ -1993,3 +1993,27 @@ msgstr "Синхронизировать скрытые фильмы/сериа�
 msgctxt "#30565"
 msgid "Sync playback progress into Kodi library"
 msgstr "Синхронизировать прогресс просмотра из Trakt в библиотеку"
+
+msgctxt "#30566"
+msgid "Lists"
+msgstr "Списки"
+
+msgctxt "#30567"
+msgid "Show \"All seasons\" in shows"
+msgstr "Показывать \"Все сезоны\" в сериалах"
+
+msgctxt "#30568"
+msgid "Seasons order"
+msgstr "Порядок сезонов"
+
+msgctxt "#30569"
+msgid "Ascending"
+msgstr "По возрастанию"
+
+msgctxt "#30570"
+msgid "Descending"
+msgstr "По убыванию"
+
+msgctxt "#30571"
+msgid "* All seasons"
+msgstr "* Все сезоны"

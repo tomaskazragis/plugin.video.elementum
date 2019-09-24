@@ -2004,3 +2004,27 @@ msgstr ""
 msgctxt "#30565"
 msgid "Sync playback progress into Kodi library"
 msgstr ""
+
+msgctxt "#30566"
+msgid "Lists"
+msgstr ""
+
+msgctxt "#30567"
+msgid "Show \"All seasons\" in shows"
+msgstr ""
+
+msgctxt "#30568"
+msgid "Seasons order"
+msgstr ""
+
+msgctxt "#30569"
+msgid "Ascending"
+msgstr ""
+
+msgctxt "#30570"
+msgid "Descending"
+msgstr ""
+
+msgctxt "#30571"
+msgid "* All seasons"
+msgstr ""
