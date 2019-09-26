@@ -2,6 +2,13 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.39[/COLOR][/B]
+    - Fixed CloudFlare bypass functionality.
+    - Fixed issue with not working continue playback.
+    - Fixed double addition to Trakt history.
+    - Fixed wrong dates for watched items on Trakt.
+    - Enabled caching for built-in DNS client.
+
 [B][COLOR red]0.1.38[/COLOR][/B]
     - Totally rewritten Trakt syncronization. 
     - Removed usage of SQLite database. All torrent links and some data will be deleted. You can rollback to version 0.1.37 and earlier, database is not deleted physically.
