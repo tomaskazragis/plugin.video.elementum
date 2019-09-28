@@ -2016,3 +2016,7 @@ msgstr ""
 msgctxt "#30571"
 msgid "* All seasons"
 msgstr ""
+
+msgctxt "#30572"
+msgid "Log response body"
+msgstr ""

@@ -2017,3 +2017,7 @@ msgstr "По убыванию"
 msgctxt "#30571"
 msgid "* All seasons"
 msgstr "* Все сезоны"
+
+msgctxt "#30572"
+msgid "Log response body"
+msgstr "Логировать body ответа сервера"
