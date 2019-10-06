@@ -2021,3 +2021,7 @@ msgstr "* Все сезоны"
 msgctxt "#30572"
 msgid "Log response body"
 msgstr "Логировать body ответа сервера"
+
+msgctxt "#30573"
+msgid "Select file to play"
+msgstr "Выбрать файл для проигрывания"

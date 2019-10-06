@@ -2020,3 +2020,7 @@ msgstr ""
 msgctxt "#30572"
 msgid "Log response body"
 msgstr ""
+
+msgctxt "#30573"
+msgid "Select file to play"
+msgstr ""
