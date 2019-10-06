@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-01-27 19:53+0200\n"
-"PO-Revision-Date: 2019-04-21 16:45-0300\n"
+"PO-Revision-Date: 2019-09-28 16:04-0300\n"
 "Language: es_AR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1889,3 +1889,135 @@ msgstr "Usar historial de torrents"
 msgctxt "#30539"
 msgid "Store N torrents in history"
 msgstr "Guardar N torrents en historial"
+
+msgctxt "#30540"
+msgid "Subtitles"
+msgstr "Subtítulos"
+
+msgctxt "#30541"
+msgid "Automatic Subtitles Search"
+msgstr "Búsqueda automática de subs"
+
+msgctxt "#30542"
+msgid "Disabled if subtitles available in player"
+msgstr "Inactiva si subs disponibles en reproductor"
+
+msgctxt "#30543"
+msgid "Subtitles included in torrent"
+msgstr "Subs incluídos en torrent"
+
+msgctxt "#30544"
+msgid "Automatic Scrape"
+msgstr "Scrape automático"
+
+msgctxt "#30545"
+msgid "Automatic scraping allows to scrape connected providers[CR]to find new movies, if there are results,"
+msgstr "Scrape automático permite scrapear proveedores[CR]para buscar nuevas pelis, si hay resultados,"
+
+msgctxt "#30546"
+msgid "Strategy"
+msgstr "Estrategia"
+
+msgctxt "#30547"
+msgid "Find in each provider"
+msgstr "Buscar en cada proveedor"
+
+msgctxt "#30548"
+msgid "Find in overall"
+msgstr "Buscar en general"
+
+msgctxt "#30549"
+msgid "Number of results to find"
+msgstr "Nro. de resultados a buscar"
+
+msgctxt "#30550"
+msgid "What to search"
+msgstr "Qué buscar"
+
+msgctxt "#30551"
+msgid "How to search"
+msgstr "Cómo buscar"
+
+msgctxt "#30552"
+msgid "Search each N hours"
+msgstr "Buscar cada N hs."
+
+msgctxt "#30553"
+msgid "Find 4K resolution"
+msgstr "Buscar en resol. 4K"
+
+msgctxt "#30554"
+msgid "Find 1080p resolution"
+msgstr "Buscar en resol. 1080p"
+
+msgctxt "#30555"
+msgid "and movie passes checks for number of results[CR]movie can be added to the library."
+msgstr ""
+
+msgctxt "#30556"
+msgid "Add to the library"
+msgstr ""
+
+msgctxt "#30557"
+msgid "Number of popular movies to search"
+msgstr "Cant. pelis populares en búsqueda"
+
+msgctxt "#30558"
+msgid "Latest available movies"
+msgstr "Pelis disponibles mas recientes"
+
+msgctxt "#30559"
+msgid "Skip searching for installed providers"
+msgstr "Saltear búsqueda en proveedores instalados"
+
+msgctxt "#30560"
+msgid "Files: %s"
+msgstr "Archivos: %s"
+
+msgctxt "#30561"
+msgid "Interval between requests, seconds"
+msgstr "Tiempo entre requerimientos, segs."
+
+msgctxt "#30562"
+msgid "Open directory with Kodi file browser"
+msgstr "Abrir directorio con explorador archivos Kodi"
+
+msgctxt "#30563"
+msgid "Synchronize frequency of Trakt (minutes)"
+msgstr "Sincronizar frecuencia de Trakt (mins.)"
+
+msgctxt "#30564"
+msgid "Sync hidden items"
+msgstr "Sincronizar items ocultos"
+
+msgctxt "#30565"
+msgid "Sync playback progress into Kodi library"
+msgstr "Sincroniza avance reproducción en Colección Kodi"
+
+msgctxt "#30566"
+msgid "Lists"
+msgstr "Listas"
+
+msgctxt "#30567"
+msgid "Show \"All seasons\" in shows"
+msgstr "Mostrar \"Todas las temporadas\" en series"
+
+msgctxt "#30568"
+msgid "Seasons order"
+msgstr "Orden temporadas"
+
+msgctxt "#30569"
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgctxt "#30570"
+msgid "Descending"
+msgstr "Descendente"
+
+msgctxt "#30571"
+msgid "* All seasons"
+msgstr "* Todas las temporadas"
+
+msgctxt "#30572"
+msgid "Log response body"
+msgstr "Registrar cuerpo rta."
