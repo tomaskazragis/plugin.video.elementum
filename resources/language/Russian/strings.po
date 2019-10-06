@@ -2025,3 +2025,11 @@ msgstr "Логировать body ответа сервера"
 msgctxt "#30573"
 msgid "Select file to play"
 msgstr "Выбрать файл для проигрывания"
+
+msgctxt "#30574"
+msgid "Automatically answer Yes after timeout"
+msgstr "Автоматически отвечать Да после таймаута"
+
+msgctxt "#30575"
+msgid "Timeout, seconds"
+msgstr "Таймаут, секунд"

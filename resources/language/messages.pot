@@ -2036,3 +2036,11 @@ msgstr ""
 msgctxt "#30573"
 msgid "Select file to play"
 msgstr ""
+
+msgctxt "#30574"
+msgid "Automatically answer Yes after timeout"
+msgstr ""
+
+msgctxt "#30575"
+msgid "Timeout, seconds"
+msgstr ""

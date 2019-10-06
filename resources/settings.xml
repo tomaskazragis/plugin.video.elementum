@@ -49,6 +49,10 @@
           <setting id="completed_shows_path" type="folder" label="30215" source="auto" option="writeable" subsetting="true" visible="eq(-2,true)" />
           <setting id="completed_help" label="30302" type="text" enable="false" subsetting="true" visible="eq(-3,true)" />
         <setting id="silent_stream_start" type="bool" label="30359" default="false" />
+        
+        <setting id="autoyes_enabled" label="30574" type="bool" default="true" visible="eq(-1,false)" />
+        <setting id="autoyes_timeout" label="30575" type="slider" option="int" range="1,1,120" default="5" visible="eq(-2,false)" />
+
         <setting id="choose_stream_auto" type="bool" label="30023" default="false" />
         <setting id="force_link_type" type="bool" label="30324" default="false" />
         <setting id="smart_episode_match" type="bool" label="30333" default="true" />
