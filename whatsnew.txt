@@ -2,6 +2,14 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.41[/COLOR][/B]
+    - Added Autoclose settings for closing Confirm Dialogs with timeout.
+    - Added functionality to select which file to play, in list of active torrents.
+    - Added more Open in Kodi to Elementum settings, for different directories.
+    - Fixed issue with not refreshing MyProgress when something changes on Trakt side.
+    - Fixed issue with not settings episodes as Watched in Kodi library.
+    - Changed Torrents list to reverse order.
+
 [B][COLOR red]0.1.40[/COLOR][/B]
     - Fixed double watched items in Trakt.
     - Added setting to log proxy response body.
