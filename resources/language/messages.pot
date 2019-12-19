@@ -2044,3 +2044,15 @@ msgstr ""
 msgctxt "#30575"
 msgid "Timeout, seconds"
 msgstr ""
+
+msgctxt "#30576"
+msgid "Trakt authentication needs to be updated!"
+msgstr ""
+
+msgctxt "#30577"
+msgid "End of file Buffer size (MB)"
+msgstr ""
+
+msgctxt "#30578"
+msgid "Beginning of file Buffer size (MB)"
+msgstr ""

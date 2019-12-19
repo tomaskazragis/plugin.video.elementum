@@ -2033,3 +2033,15 @@ msgstr "Автоматически отвечать Да после таймау
 msgctxt "#30575"
 msgid "Timeout, seconds"
 msgstr "Таймаут, секунд"
+
+msgctxt "#30576"
+msgid "Trakt authentication needs to be updated!"
+msgstr "Авторизация Trakt нужно обновить!"
+
+msgctxt "#30577"
+msgid "End of file Buffer size (MB)"
+msgstr "Размер буфера перед просмотром, конец файла (МБ)"
+
+msgctxt "#30578"
+msgid "Beginning of file Buffer size (MB)"
+msgstr "Размер буфера перед просмотром, начало файла (МБ)"

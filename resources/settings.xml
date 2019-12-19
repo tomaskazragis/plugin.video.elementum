@@ -128,7 +128,8 @@
     <category label="BitTorrent">
         <!-- BitTorrent -->
         <setting label="BitTorrent" type="lsep" />
-        <setting id="buffer_size" label="30003" type="number" default="20" />
+        <setting id="buffer_size" label="30578" type="number" default="20" />
+        <setting id="end_buffer_size" label="30577" type="number" default="4" />
         <!-- <setting id="auto_adjust_buffer_size" label="30500" type="bool" default="true" /> -->
         <setting id="auto_kodi_buffer_size" label="30502" type="bool" default="true" />
         <setting id="buffer_timeout" label="30088" type="slider" option="int" range="10,5,600" default="60" />
