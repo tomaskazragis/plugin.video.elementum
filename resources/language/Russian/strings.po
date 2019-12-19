@@ -2045,3 +2045,7 @@ msgstr "Размер буфера перед просмотром, конец ф
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
 msgstr "Размер буфера перед просмотром, начало файла (МБ)"
+
+msgctxt "#30579"
+msgid "Settings"
+msgstr "Настройки"

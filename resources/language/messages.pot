@@ -2056,3 +2056,7 @@ msgstr ""
 msgctxt "#30578"
 msgid "Beginning of file Buffer size (MB)"
 msgstr ""
+
+msgctxt "#30579"
+msgid "Settings"
+msgstr ""
