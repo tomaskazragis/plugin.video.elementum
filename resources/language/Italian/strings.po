@@ -22,11 +22,11 @@ msgstr "Generale"
 
 msgctxt "#30001"
 msgid "Download path"
-msgstr ""
+msgstr "Percorso di Download"
 
 msgctxt "#30002"
 msgid "Keep files after playback/download stops"
-msgstr "Archivia i file dopo la riproduzione / download"
+msgstr "Archivia i file dopo la riproduzione/download"
 
 msgctxt "#30003"
 msgid "Buffer size (MB)"
@@ -34,7 +34,7 @@ msgstr "Dimensione buffer (MB)"
 
 msgctxt "#30004"
 msgid "Max upload rate (kB/s)"
-msgstr "Velocità massima di upload (kbB/s)"
+msgstr "Velocità massima di upload (kB/s)"
 
 msgctxt "#30005"
 msgid "Max download rate (kB/s)"
@@ -90,7 +90,7 @@ msgstr "Abilita (a tuo rischio)"
 
 msgctxt "#30018"
 msgid "Timeout in seconds"
-msgstr "Tempo limite in secondi"
+msgstr "Timeout in secondi"
 
 msgctxt "#30019"
 msgid "Maintenance"
@@ -102,7 +102,7 @@ msgstr "Svuota cache"
 
 msgctxt "#30021"
 msgid "Results per page"
-msgstr ""
+msgstr "Risultati per pagina"
 
 msgctxt "#30022"
 msgid "Enable overlay status"
@@ -110,7 +110,7 @@ msgstr "Abilita modalità sovraimpressione"
 
 msgctxt "#30023"
 msgid "Choose stream automatically"
-msgstr "Scegli fonte automaticamente"
+msgstr "Scegli lo stream automaticamente"
 
 msgctxt "#30024"
 msgid "Get updates for pre-releases"
@@ -118,7 +118,7 @@ msgstr "Abilita aggiornamenti di anteprime"
 
 msgctxt "#30025"
 msgid "Limit rates after initial buffering only"
-msgstr ""
+msgstr "Limitare la banda dopo il buffer iniziale"
 
 msgctxt "#30026"
 msgid "Library path"
@@ -130,11 +130,11 @@ msgstr "Limite connessioni"
 
 msgctxt "#30028"
 msgid "Download after play was stopped"
-msgstr ""
+msgstr "Continua il download dopo aver interrotto la riproduzione"
 
 msgctxt "#30029"
 msgid "Session saving frequency (seconds)"
-msgstr "Frequenza di salvataggio sessione (secondi)"
+msgstr "Frequenza di salvataggio dells sessione (secondi)"
 
 msgctxt "#30030"
 msgid "Overlay status vertical offset"
@@ -142,7 +142,7 @@ msgstr "Posizionamento verticale modalità sovraimpressione"
 
 msgctxt "#30031"
 msgid "Disable providers failing health check"
-msgstr "Disabilità provider in cattivo stato"
+msgstr "Disabilita provider in cattivo stato"
 
 msgctxt "#30032"
 msgid "Allowed failures before provider is disabled"
@@ -182,7 +182,7 @@ msgstr "API key"
 
 msgctxt "#30041"
 msgid "Stream sorting"
-msgstr "Ordinamento fonti"
+msgstr "Ordine fonti"
 
 msgctxt "#30042"
 msgid "Sorting mode for Movies"
@@ -214,7 +214,7 @@ msgstr "Preferenze risoluzione per serie TV"
 
 msgctxt "#30049"
 msgid "Percentage of additional seeders required before choosing next resolution"
-msgstr "Percentuale supplementare di seeder richiesta, prima di scegliere la risoluzione successiva"
+msgstr "Percentuale di seeder aggiuntivi richiesta prima di scegliere la risoluzione successiva"
 
 msgctxt "#30050"
 msgid "Disable DHT"
@@ -226,7 +226,7 @@ msgstr "Limite rapporto di condivisione (percentuale)"
 
 msgctxt "#30052"
 msgid "Seed time ratio limit (percent)"
-msgstr "Limite rapporto tempo di seeding  (percentuale)"
+msgstr "Limite rapporto tempo di seeding (percentuale)"
 
 msgctxt "#30053"
 msgid "Seed time limit (hours)"
@@ -254,19 +254,19 @@ msgstr "Autorizzare Elementum"
 
 msgctxt "#30059"
 msgid "Library update delay on startup (seconds)"
-msgstr "Ritarda aggiornamento della libreria all'avvio (secondi)"
+msgstr "Ritardo aggiornamento della libreria all'avvio (secondi)"
 
 msgctxt "#30060"
 msgid "Library update frequency (hours)"
-msgstr "Frequenza d'aggiornamento della libreria (ore)"
+msgstr "Frequenza di aggiornamento della libreria (ore)"
 
 msgctxt "#30061"
 msgid "Sync frequency of Trakt lists to library (hours)"
-msgstr "Frequenza di sincronizzazione tra le liste di Trakt e la libreria (ore)"
+msgstr "Frequenza di sincronizzazione delle liste di Trakt alla libreria (ore)"
 
 msgctxt "#30062"
 msgid "Ask to keep the files after streaming"
-msgstr "Chiedi se conservare il file dopo lo streaming"
+msgstr "Chiedi se conservare i file dopo lo streaming"
 
 msgctxt "#30063"
 msgid "Disable UPNP & NATPMP"
@@ -298,7 +298,7 @@ msgstr "SOCKS5"
 
 msgctxt "#30070"
 msgid "SOCKS5 password"
-msgstr "SOCKS5 password"
+msgstr "Password SOCKS5"
 
 msgctxt "#30071"
 msgid "HTTP"
@@ -306,7 +306,7 @@ msgstr "HTTP"
 
 msgctxt "#30072"
 msgid "HTTP password"
-msgstr "HTTP password"
+msgstr "Password HTTP"
 
 msgctxt "#30073"
 msgid "i2p"
@@ -318,7 +318,7 @@ msgstr "Falsifica user agent (altamente sconsigliato)"
 
 msgctxt "#30075"
 msgid "Default advisable (acceptable)"
-msgstr ""
+msgstr "Consigliabile di default (accettabile)"
 
 msgctxt "#30076"
 msgid "libtorrent (Rasterbar) 1.1.0"
@@ -362,7 +362,7 @@ msgstr "Vuze 5.7.3.0"
 
 msgctxt "#30086"
 msgid "Enable tuned storage settings"
-msgstr "Abilità impostazioni d'archiviazione ottimizzate"
+msgstr "Abilita impostazioni d'archiviazione ottimizzate"
 
 msgctxt "#30087"
 msgid "Ask to delete the files after streaming"
@@ -370,64 +370,64 @@ msgstr "Chiedi se cancellare i file dopo lo streaming"
 
 msgctxt "#30088"
 msgid "Initial buffering timeout (seconds)"
-msgstr ""
+msgstr "Timeout (in secondi) del buffer iniziale"
 
 msgctxt "#30089"
 msgid "Automatically re-scan Kodi library after updates"
-msgstr ""
+msgstr "Re-scan automatico della libreria di Kodi dopo aggiornamenti"
 
 msgctxt "#30090"
 msgid "Listen interfaces"
-msgstr ""
+msgstr "Interfaccie d'ascolto"
 
 msgctxt "#30091"
 msgid "Outgoing interfaces"
-msgstr ""
+msgstr "Interfaccie d'uscita"
 
 msgctxt "#30092"
 msgid "Use default fanart"
-msgstr ""
+msgstr "Usa i Fanart di default"
 
 msgctxt "#30093"
 msgid "Disable notification sound"
-msgstr ""
+msgstr "Disabilita notifica sonora"
 
 msgctxt "#30094"
 msgid "Disable background progress dialog"
-msgstr ""
+msgstr "Disabilita la finestra di avanzamento di background"
 
 msgctxt "#30095"
 msgid "Sync watched progress with Kodi"
-msgstr ""
+msgstr "Sincronizza stato dei già visti con Kodi"
 
 msgctxt "#30096"
 msgid "Never"
-msgstr ""
+msgstr "Mai"
 
 msgctxt "#30097"
 msgid "Always"
-msgstr ""
+msgstr "Sempre"
 
 msgctxt "#30098"
 msgid "Active torrents only"
-msgstr ""
+msgstr "Solo torrent attivi"
 
 # Interface
 msgctxt "#30100"
 msgid "Elementum has crashed, restarting..."
-msgstr "Elementum si è interrotto, sta riavviando..."
+msgstr "Elementum si è interrotto, si sta riavviando..."
 
 msgctxt "#30101"
 msgid "You must restart Kodi before using Elementum"
-msgstr "Riavvia Kodi prima di usare Elementum"
+msgstr "Devi riavviare Kodi prima di usare Elementum"
 
 msgctxt "#30102"
 msgid "This add-on can only be run from within Elementum"
-msgstr "Questo add-on funziona solo con Elementum avviato"
+msgstr "Questo add-on può essere eseguito solo da Elementum"
 
 msgctxt "#30103"
 msgid "Unable to find Elementum binary[CR]Required platform:"
-msgstr ""
+msgstr "Impossibile trovare il binario di Elementum[CR]Piattaforma richiesa:"
 
 msgctxt "#30104"
 msgid "Insert file or URL"
@@ -455,11 +455,11 @@ msgstr "OK"
 
 msgctxt "#30110"
 msgid "Crashed too many times, aborting..."
-msgstr "Troppi tentativi falliti, sta abbandonando..."
+msgstr "Troppi tentativi falliti, sto abbandonando..."
 
 msgctxt "#30111"
 msgid "Provider failed too many times, disabling..."
-msgstr "Troppi fallimenti del provider, sta disabilitando..."
+msgstr "Troppi fallimenti del provider, sto disabilitando..."
 
 msgctxt "#30112"
 msgid "Unable to disable provider"
@@ -475,64 +475,64 @@ msgstr "TheTVDB"
 
 msgctxt "#30115"
 msgid "TV show scraper used by Kodi library"
-msgstr "TV scraper utilizzato dalla libreria"
+msgstr "Scraper Serie TV utilizzato dalla libreria di Kodi"
 
 msgctxt "#30116"
 msgid "Looks like Elementum is still starting up, give it a few seconds..."
-msgstr ""
+msgstr "Sembra che Elementum si sta ancora avviando, dagli qualche secondo..."
 
 msgctxt "#30117"
 msgid "Resolving torrent files..."
-msgstr ""
+msgstr "Risolvendo i file torrent..."
 
 msgctxt "#30118"
 msgid "Scraping trackers..."
-msgstr ""
+msgstr "Scraping dei trackers..."
 
 msgctxt "#30141"
 msgid "Please support Elementum development by visiting[CR]https://elementum.surge.sh/donate"
-msgstr ""
+msgstr "Per favore supporta lo sviluppo di Elementum visitando[CR]https://elementum.surge.sh/donate"
 
 msgctxt "#30142"
 msgid "Default view for menus in Movies"
-msgstr ""
+msgstr "Vista default per i menu in film"
 
 msgctxt "#30143"
 msgid "Default view for menus in TV Shows"
-msgstr ""
+msgstr "Vista default per i menu in Serie TV"
 
 msgctxt "#30144"
 msgid "Default view for movie genres"
-msgstr ""
+msgstr "Vista default per i generi di film"
 
 msgctxt "#30145"
 msgid "Default view for TV show genres"
-msgstr ""
+msgstr "Vista default per i generi di Serie TV"
 
 msgctxt "#30146"
 msgid "Keep downloading?"
-msgstr ""
+msgstr "Continuare a scaricare?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
-msgstr ""
+msgstr "La cache si sta ancora popolando, dagli un minito o due..."
 
 msgctxt "#30148"
 msgid "Caches warmed up"
-msgstr ""
+msgstr "Cache popolata"
 
 msgctxt "#30149"
 msgid "Trakt username not set, check your settings"
-msgstr ""
+msgstr "Username di Trakt non impostato, controlla i settaggi"
 
 msgctxt "#30199"
 msgid "No available JSON-RPC connection to Kodi.[CR]Enable both Application control options in Service settings / Control and restart Kodi."
-msgstr ""
+msgstr "Nessuna connessione JSON-RPC disponibile verso Kodi[CR]Abilita entrambe le opzioni Controllo Applicazione in Impostazioni Servizi / Controllo e riavvia Kodi."
 
 # Elementum daemon
 msgctxt "#30200"
 msgid "Cache cleared"
-msgstr "Cache svuotata"
+msgstr "Cache pulita"
 
 msgctxt "#30201"
 msgid "Search TV Shows"
@@ -552,7 +552,7 @@ msgstr "Nessun provider è stato trovato"
 
 msgctxt "#30205"
 msgid "No links were found"
-msgstr "Nessun collegamento trovato"
+msgstr "Nessun collegamento è stato trovato"
 
 msgctxt "#30206"
 msgid "Search Movies"
@@ -596,11 +596,11 @@ msgstr "Serie TV"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Incolla URL"
+msgstr "Aggiungi Torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
-msgstr "Incolla magnet o URL"
+msgstr "Incolla Magnet o URL"
 
 msgctxt "#30218"
 msgid "Next page"
@@ -644,7 +644,7 @@ msgstr "Errore aggiornamento Elementum daemon"
 
 msgctxt "#30228"
 msgid "Available streams for"
-msgstr "Stream disponibile per"
+msgstr "Stream disponibili per"
 
 msgctxt "#30229"
 msgid "Torrents"
@@ -704,7 +704,7 @@ msgstr "Controlla"
 
 msgctxt "#30243"
 msgid "Provider failures"
-msgstr "Fallimenti provider"
+msgstr "Fallimento provider"
 
 msgctxt "#30244"
 msgid "Provider settings"
@@ -748,7 +748,7 @@ msgstr "Rimuovi dalla libreria"
 
 msgctxt "#30254"
 msgid "My Watchlist"
-msgstr "Elenco"
+msgstr "Mio elenco"
 
 msgctxt "#30255"
 msgid "Add to watchlist"
@@ -760,7 +760,7 @@ msgstr "Rimuovi dall'elenco"
 
 msgctxt "#30257"
 msgid "My Collection"
-msgstr "Collezione"
+msgstr "Mia Collezione"
 
 msgctxt "#30258"
 msgid "Add to collection"
@@ -784,7 +784,7 @@ msgstr "Usare cronologia di ricerca?"
 
 msgctxt "#30263"
 msgid "My Lists"
-msgstr "Liste"
+msgstr "Mie Liste"
 
 msgctxt "#30264"
 msgid "Reset clearances"
@@ -812,1104 +812,1224 @@ msgstr "Vuoi eliminare i file scaricati?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"
-msgstr ""
+msgstr "Corrispondenza trovata nei tuoi torrent attivi, mettere in play?"
 
 msgctxt "#30271"
 msgid "There is now an official multi-provider for Elementum called [COLOR FFFF6B00]Burst[/COLOR], would you like to install it now?"
-msgstr ""
+msgstr "E' ora disponibile un multi-provider ufficiale per Elementum chiamato [COLOR FFFF6B00]Burst[/COLOR], vuoi installarlo adesso?"
 
 msgctxt "#30272"
 msgid "Installation successful, enjoy Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
-msgstr ""
+msgstr "Installazione completata, goditi Elementum [COLOR FFFF6B00]Burst[/COLOR]!"
 
 msgctxt "#30273"
 msgid "Shoot... It looks like we couldn't install [COLOR FFFF6B00]Burst[/COLOR] automatically, head over to the Elementum Repository, then under the Program add-ons section to install it."
-msgstr ""
+msgstr "Sembra che è impossibile installare [COLOR FFFF6B00]Burst[/COLOR] automaticamente, per installarlo vai sul Repository Elementum, sezione add-ons Programmi."
 
 msgctxt "#30274"
 msgid "Enable all"
-msgstr ""
+msgstr "Abilita tutto"
 
 msgctxt "#30275"
 msgid "Disable all"
-msgstr ""
+msgstr "Disabilita tutto"
 
 msgctxt "#30276"
 msgid "Delete torrent and files"
-msgstr ""
+msgstr "Cancella torrent e i file"
 
 msgctxt "#30277"
 msgid "%s added to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
-msgstr ""
+msgstr "%s aggiunto alla libreria, vuoi scansionarlo?[CR]Altrimenti puoi successivamente utilizzare la funzione di Kodi 'Aggiorna libreria'."
 
 msgctxt "#30278"
 msgid "%s removed from library, do you want to clean it?[CR]You can later use Kodi's 'Clean library' feature instead."
-msgstr ""
+msgstr "%s rimosso dalla libreria, vuoi pulire?[CR]Altrimenti puoi successivamente utilizzare la funzione di Kodi 'Pulisci libreria'."
 
 msgctxt "#30279"
 msgid "Watchlist added to library"
-msgstr ""
+msgstr "Watchlist aggiunto alla libreria"
 
 msgctxt "#30280"
 msgid "Collection added to library"
-msgstr ""
+msgstr "Collezione aggiunta alla libreria"
 
 msgctxt "#30281"
 msgid "List added to library"
-msgstr ""
+msgstr "Lista aggiunta alla libreria"
 
 msgctxt "#30282"
 msgid "Nothing left to remove from Elementum"
-msgstr ""
+msgstr "Non è rimasto nulla da rimuovere da Elementum"
 
 msgctxt "#30283"
 msgid "Merge to library"
-msgstr ""
+msgstr "Unisci alla libreria"
 
 msgctxt "#30284"
 msgid "Show unaired seasons"
-msgstr ""
+msgstr "Mostra le stagioni non trasmesse"
 
 msgctxt "#30285"
 msgid "Show unaired episodes"
-msgstr ""
+msgstr "Mostra gli episodi non trasmessi"
 
 msgctxt "#30286"
 msgid "%s merged to library, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
-msgstr ""
+msgstr "%s unito alla libreria, vuoi scansionarlo?[CR]Altrimenti puoi successivamente utilizzare la funzione di Kodi 'Aggiorna libreria'."
 
 msgctxt "#30287"
 msgid "%s already in library"
-msgstr ""
+msgstr "%s già in libreria"
 
 msgctxt "#30288"
 msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
-msgstr ""
+msgstr "Lbreria aggiornata, vuoi scansionarla?[CR]Altrimenti puoi successivamente utilizzare la funzione di Kodi 'Aggiorna libreria'."
 
 msgctxt "#30289"
 msgid "Genres"
-msgstr ""
+msgstr "Generi"
 
 msgctxt "#30290"
 msgid "Calendars"
-msgstr ""
+msgstr "Calendari"
 
 msgctxt "#30291"
 msgid "My Movies"
-msgstr ""
+msgstr "Miei film"
 
 msgctxt "#30292"
 msgid "My Releases"
-msgstr ""
+msgstr "Miei uscite"
 
 msgctxt "#30293"
 msgid "All Movies"
-msgstr ""
+msgstr "Tutti i film"
 
 msgctxt "#30294"
 msgid "All Releases"
-msgstr ""
+msgstr "Tutti le uscite"
 
 msgctxt "#30295"
 msgid "My Shows"
-msgstr ""
+msgstr "Mie Serie"
 
 msgctxt "#30296"
 msgid "My New Shows"
-msgstr ""
+msgstr "Mie nuove Serie"
 
 msgctxt "#30297"
 msgid "My Premieres"
-msgstr ""
+msgstr "Mie prime"
 
 msgctxt "#30298"
 msgid "All Shows"
-msgstr ""
+msgstr "Tutte le Serie"
 
 msgctxt "#30299"
 msgid "All New Shows"
-msgstr ""
+msgstr "Tutte le nuove Serie"
 
 msgctxt "#30300"
 msgid "All Premieres"
-msgstr ""
+msgstr "Tutte le prime"
 
 msgctxt "#30301"
 msgid "Move finished downloads to separate folders"
-msgstr ""
+msgstr "Sposta i download completati in cartelle diverse"
 
 msgctxt "#30302"
 msgid "Files will only be moved after seeding is finished (see[CR]- BitTorrent settings), and will wait if currently playing"
-msgstr ""
+msgstr "I file verranno spostati solo al termine del seeding (vedi[CR]- Impostazioni BitTorrent), e attenderanno se attualmente in riproduzione"
 
 msgctxt "#30303"
 msgid "RAR archive detected. Download will need to be completed before playback can start and will require around twice the amount of space, continue?"
-msgstr ""
+msgstr "Archivio RAR trovato. Il download dovrà essere completato prima che la riproduzione possa iniziare e richiederà circa il doppio dello spazio, continuare?"
 
 msgctxt "#30304"
 msgid "Error creating output pipe for 'unrar' command"
-msgstr ""
+msgstr "Errore durante la creazione della pipe di output per il comando 'unrar'"
 
 msgctxt "#30305"
 msgid "Error starting 'unrar' command"
-msgstr ""
+msgstr "Errore durante l'avvio del comando 'unrar'"
 
 msgctxt "#30306"
 msgid "Error waiting for 'unrar' command"
-msgstr ""
+msgstr "Errore durante l'attesa del comando 'unrar'"
 
 msgctxt "#30307"
 msgid "Error reading from destination folder"
-msgstr ""
+msgstr "Errore durante la lettura dalla cartella di destinazione"
 
 msgctxt "#30308"
 msgid "Move completed"
-msgstr ""
+msgstr "Spostamento completato"
 
 msgctxt "#30309"
 msgid "Keep"
-msgstr ""
+msgstr "Lascia"
 
 msgctxt "#30310"
 msgid "Ask to delete"
-msgstr ""
+msgstr "Chiedi di cancellare"
 
 msgctxt "#30311"
 msgid "Delete"
-msgstr ""
+msgstr "Cancella"
 
 msgctxt "#30312"
 msgid "Keep files for not finished video"
-msgstr ""
+msgstr "Coserva i file per i video non finiti"
 
 msgctxt "#30313"
 msgid "Keep files for watched/downloaded video"
-msgstr ""
+msgstr "Conserva i file per i video guardati/scaricati"
 
 msgctxt "#30314"
 msgid "Settings were not initialized.[CR]Save addon settings, then restart Kodi."
-msgstr ""
+msgstr "Le impostazioni non sono state inizializzate.[CR] Salva le impostazioni dell'addon, quindi riavvia Kodi."
 
 msgctxt "#30315"
 msgid "Download storage type"
-msgstr ""
+msgstr "Tipo di archiviazione per i download"
 
 msgctxt "#30316"
 msgid "Use files"
-msgstr ""
+msgstr "Usa file"
 
 msgctxt "#30317"
 msgid "Use memory"
-msgstr ""
+msgstr "Usa la memoria"
 
 msgctxt "#30318"
 msgid "Memory size to use for each torrent (Mb)"
-msgstr ""
+msgstr "Quantità di memoria da usare per ogni torrent (Mb)"
 
 msgctxt "#30319"
 msgid "Continue"
-msgstr ""
+msgstr "Continua"
 
 msgctxt "#30320"
 msgid "Ask to stop"
-msgstr ""
+msgstr "Chiedi per lo stop"
 
 msgctxt "#30321"
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 msgctxt "#30322"
 msgid "Use Fat32 files"
-msgstr ""
+msgstr "Usa file Fat32"
 
 msgctxt "#30323"
 msgid "New search"
-msgstr ""
+msgstr "Nuova ricerca"
 
 msgctxt "#30324"
 msgid "Force stream auto-selection from settings"
-msgstr ""
+msgstr "Forza l'auto selezione dello stream dai settaggi"
 
 msgctxt "#30325"
 msgid "Download"
-msgstr ""
+msgstr "Scarica"
 
 msgctxt "#30326"
 msgid "Kodi library"
-msgstr ""
+msgstr "Libreria Kodi"
 
 msgctxt "#30327"
 msgid "Storage"
-msgstr ""
+msgstr "Archiviazione"
 
 msgctxt "#30328"
 msgid "Disable TCP"
-msgstr ""
+msgstr "Disabilita TCP"
 
 msgctxt "#30329"
 msgid "Disable UTP"
-msgstr ""
+msgstr "Disabilita UDP"
 
 msgctxt "#30330"
 msgid "Update Trakt"
-msgstr ""
+msgstr "Aggiorna Trakt"
 
 msgctxt "#30331"
 msgid "MMap File"
-msgstr ""
+msgstr "File MMap"
 
 msgctxt "#30332"
 msgid "Reloading configuration..."
-msgstr ""
+msgstr "Ricaricando configurazione..."
 
 msgctxt "#30333"
 msgid "Try to find other episodes in the torrent"
-msgstr ""
+msgstr "Cerca di trovare altri episodi nel torrent"
 
 msgctxt "#30334"
 msgid "Migration"
-msgstr ""
+msgstr "Migrazione"
 
 msgctxt "#30335"
 msgid "Quasar"
-msgstr ""
+msgstr "Quasar"
 
 msgctxt "#30336"
 msgid "Run migration"
-msgstr ""
+msgstr "Lancia la migrazione"
 
 msgctxt "#30337"
 msgid "This operation will change strm files and cleanup Quasar library![CR]Are you sure you want to do it?"
-msgstr ""
+msgstr "Questa operazione cambierà i file strm e pulirà la libreria di Quasar![CR]Sicuro di farlo?"
 
 msgctxt "#30338"
 msgid "Looking for Quasar database"
-msgstr ""
+msgstr "Cercando il database di Quasar"
 
 msgctxt "#30339"
 msgid "Searching strm files"
-msgstr ""
+msgstr "Cercando i file strm"
 
 msgctxt "#30340"
 msgid "Performing strm migration"
-msgstr ""
+msgstr "Sto eseguendo la migrazione strm"
 
 msgctxt "#30341"
 msgid "Performing database migration"
-msgstr ""
+msgstr "Sto eseguendo la migrazione del database"
 
 msgctxt "#30342"
 msgid "Cannot find Quasar userdata directory"
-msgstr ""
+msgstr "Impossible trovare la directory userdata di Quasar"
 
 msgctxt "#30343"
 msgid "Cannot find Quasar settings.xml path"
-msgstr ""
+msgstr "Impossible trovare il percorso di settings.xml di Quasar"
 
 msgctxt "#30344"
 msgid "Cannot find Quasar library path"
-msgstr ""
+msgstr "Impossible trovare il percorso della libreria di Quasar"
 
 msgctxt "#30345"
 msgid "Successfully migrated items: %s"
-msgstr ""
+msgstr "Oggetti migrati con successo: %s"
 
 msgctxt "#30346"
 msgid "Could not migrate any item"
-msgstr ""
+msgstr "Impossible mgigrare gli oggetti"
 
 msgctxt "#30347"
 msgid "Could not find binary for architecture '%s'![CR]Try to uninstall this addon, re-download and re-install it from the biggest zip."
-msgstr ""
+msgstr "Impossibile trovare il binario per l'architettura '%s'![CR]Prova a disinstallare questo addon, riscarcarlo e installarlo dal file zip più grande."
 
 msgctxt "#30348"
 msgid "Create usual files on the file system and write to them.[CR]Needs selected file's full size to be available on the disk!"
-msgstr ""
+msgstr "Crea i soliti file sul file system e ci scrive.[CR]Ho bisogno che le dimensioni complete del file selezionato siano disponibili sul disco!"
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr ""
+msgstr "Utilizzo la memoria del dispositivo per scaricare parti del torrent.[CR]Il disco viene utilizzato solo per scaricare e salvare il file .torrent,"
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr ""
+msgstr "quindi può essere qualsiasi tipo di archiviazione. Per i dispositivi di memoria da 1 GB[CR]100 MB sono sufficienti per l'archiviazione della memoria, 200-250 MB per i dispositivi più grandi."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
-msgstr ""
+msgstr "Come per la solita archiviazione di file, ma divide i file in molti piccoli file.[CR]Dovrebbe essere usato su file system FAT-32."
 
 msgctxt "#30352"
 msgid "Same as for usual file storage, but using memory[CR]to lower filesystem operations. Experimental storage!"
-msgstr ""
+msgstr "Come per la solita archiviazione di file, ma usando la memoria[CR]per ridurre le operazioni del filesystem. Conservazione sperimentale!"
 
 msgctxt "#30353"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Auto assegna le porte di rete"
 
 msgctxt "#30354"
 msgid "Could not start Torrent client. Please report to github with the Kodi log file!"
-msgstr ""
+msgstr "Impossible avviare il client Torrent. Per favore segnalalo su github con il file di log di Kodi!"
 
 msgctxt "#30355"
 msgid "Changelog"
-msgstr ""
+msgstr "Changelog"
 
 msgctxt "#30356"
 msgid "Not enough free memory!"
-msgstr ""
+msgstr "Non c'è abbastanza memoria libera!"
 
 msgctxt "#30357"
 msgid "Use Trakt information in Trakt lists"
-msgstr ""
+msgstr "Usa le informazioni di Trakt nelle liste Trakt"
 
 msgctxt "#30358"
 msgid "Trakt update started"
-msgstr ""
+msgstr "Aggiornamento Trakt iniziato"
 
 msgctxt "#30359"
 msgid "Do not ask questions before playback"
-msgstr ""
+msgstr "Non fare domande prima della riproduzione"
 
 msgctxt "#30360"
 msgid "My Progress"
-msgstr ""
+msgstr "Mio Progresso"
 
 msgctxt "#30361"
 msgid "My History"
-msgstr ""
+msgstr "Mia cronologia"
 
 msgctxt "#30362"
 msgid "Synchronization"
-msgstr ""
+msgstr "Sincornizzazione"
 
 msgctxt "#30363"
 msgid "Sync items from collections into Kodi library"
-msgstr ""
+msgstr "Sincronizza gli elementi dalle raccolte nella libreria Kodi"
 
 msgctxt "#30364"
 msgid "Sync items from watchlist into Kodi library"
-msgstr ""
+msgstr "Sincronizza gli elementi dalla watchlist nella libreria Kodi"
 
 msgctxt "#30365"
 msgid "Sync items from user lists into Kodi library"
-msgstr ""
+msgstr "Sincronizza gli elementi dagli elenchi utenti nella libreria Kodi"
 
 msgctxt "#30366"
 msgid "Sync watched states from Trakt into Kodi library"
-msgstr ""
+msgstr "Sincronizza gli stati osservati da Trakt nella libreria Kodi"
 
 msgctxt "#30367"
 msgid "Sync back Kodi watched states into Trakt"
-msgstr ""
+msgstr "Sincronizza nuovamente Kodi osservando gli stati in Trakt"
 
 msgctxt "#30368"
 msgid "Use Public DNS (Google, Quad9, Opennic)"
-msgstr ""
+msgstr "Usa i DNS Pubblici (Google, Quad9, Opennic)"
 
 msgctxt "#30369"
 msgid "Disable Upload"
-msgstr ""
+msgstr "Disabilita Upload"
 
 msgctxt "#30370"
 msgid "Auto-assign network IP"
-msgstr ""
+msgstr "Auto assegna IP di rete"
 
 msgctxt "#30371"
 msgid "Auto-assign network ports"
-msgstr ""
+msgstr "Auto assegna porte di rete"
 
 msgctxt "#30372"
 msgid "Force resume playback"
-msgstr ""
+msgstr "Forza la ripresa della riproduzione"
 
 msgctxt "#30373"
 msgid "Languages"
-msgstr ""
+msgstr "Linguaggi"
 
 msgctxt "#30374"
 msgid "Countries"
-msgstr ""
+msgstr "Paesi"
 
 msgctxt "#30375"
 msgid "By size"
-msgstr ""
+msgstr "Per dimensione"
 
 msgctxt "#30376"
 msgid "Choose memory size automatically"
-msgstr ""
+msgstr "Scegli automaticamente la dimensione della memoria"
 
 msgctxt "#30377"
 msgid "Size is chosen automatically, based on[CR]physical amount of memory"
-msgstr ""
+msgstr "La dimensione è scelta automaticamente, in base alla[CR] quantità di memoria fisica"
 
 msgctxt "#30378"
 msgid "Allow memory usage"
-msgstr ""
+msgstr "Permetti l'uso della memoria"
 
 msgctxt "#30379"
 msgid "Minimum - 40MB, Default - 8%, Maximum - 15%"
-msgstr ""
+msgstr "Minimo - 40MB, Default - 8%, Massimo - 15%"
 
 msgctxt "#30380"
 msgid "Minimum"
-msgstr ""
+msgstr "Minimo"
 
 msgctxt "#30381"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 msgctxt "#30382"
 msgid "Maximum"
-msgstr ""
+msgstr "Massimo"
 
 msgctxt "#30383"
 msgid "Use Kodi language for subtitles search"
-msgstr ""
+msgstr "Usa la lingua di Kodi per la ricerca dei sottotitoli"
 
 msgctxt "#30384"
 msgid "Language code for subtitles (example: en, it, es)"
-msgstr ""
+msgstr "Codice linguaggio per i sottotitoli (esempio: en, it, es)"
 
 msgctxt "#30385"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 msgctxt "#30386"
 msgid "Disable background progress dialog on playback"
-msgstr ""
+msgstr "Disabilita la finestra di avanzamento di background durante la riproduzione"
 
 msgctxt "#30387"
 msgid "Caching"
-msgstr ""
+msgstr "Caching"
 
 msgctxt "#30388"
 msgid "Cache selected streams"
-msgstr ""
+msgstr "Cache dei flussi selezionati"
 
 msgctxt "#30389"
 msgid "Cache stream search results"
-msgstr ""
+msgstr "Cache dei risultati della ricerca del flusso"
 
 msgctxt "#30390"
 msgid "Cache search results duration, seconds"
-msgstr ""
+msgstr "Cache durata dei risultati di ricerca, secondi"
 
 msgctxt "#30391"
 msgid "List of public DNS IPs"
-msgstr ""
+msgstr "Elenco IP dei DNS pubblici"
 
 msgctxt "#30392"
 msgid "List of Opennic DNS IPs"
-msgstr ""
+msgstr "Elenco IP del DNS Opennic"
 
 msgctxt "#30393"
 msgid "Status"
-msgstr ""
+msgstr "Stato"
 
 msgctxt "#30394"
 msgid "Version"
-msgstr ""
+msgstr "Versione"
 
 msgctxt "#30395"
 msgid "IP address"
-msgstr ""
+msgstr "Indirizzo IP"
 
 msgctxt "#30396"
 msgid "Port"
-msgstr ""
+msgstr "Porta"
 
 msgctxt "#30397"
 msgid "Web UI"
-msgstr ""
+msgstr "Interfaccia grafica Web"
 
 msgctxt "#30398"
 msgid "Debug information (with kodi.log)"
-msgstr ""
+msgstr "Informazioni di Debug (con kodi.log)"
 
 msgctxt "#30399"
 msgid "Addresses"
-msgstr ""
+msgstr "Indirizzi"
 
 msgctxt "#30400"
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiche"
 
 msgctxt "#30401"
 msgid "Torrent library status"
-msgstr ""
+msgstr "Stato libreria Torrent"
 
 msgctxt "#30402"
 msgid "Size of cache.db"
-msgstr ""
+msgstr "Dimensione del cache.db"
 
 msgctxt "#30403"
 msgid "Size of app.db"
-msgstr ""
+msgstr "Dimensione del app.db"
 
 msgctxt "#30404"
 msgid "Assigned torrent files"
-msgstr ""
+msgstr "File torrent assegnati"
 
 msgctxt "#30405"
 msgid "Search queries"
-msgstr ""
+msgstr "Cerca query"
 
 msgctxt "#30406"
 msgid "Remove from history"
-msgstr ""
+msgstr "Rimuovere dalla cronologia"
 
 msgctxt "#30407"
 msgid "Print only Error messages in the Kodi log"
-msgstr ""
+msgstr "Stampa solo messaggi di errore nel log di Kodi"
 
 msgctxt "#30408"
 msgid "Plugin Connectivity"
-msgstr ""
+msgstr "Connettività Plugin"
 
 msgctxt "#30409"
 msgid "Local port"
-msgstr ""
+msgstr "Porta locale"
 
 msgctxt "#30410"
 msgid "Remote port"
-msgstr ""
+msgstr "Porta remota"
 
 msgctxt "#30411"
 msgid "Remote host"
-msgstr ""
+msgstr "Host remoto"
 
 msgctxt "#30412"
 msgid "Do not start binary"
-msgstr ""
+msgstr "Non eseguire il binario"
 
 msgctxt "#30413"
 msgid "Yes"
-msgstr ""
+msgstr "Sì"
 
 msgctxt "#30414"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgctxt "#30415"
 msgid "Next page (%s)"
-msgstr ""
+msgstr "Prossima pagina (%s)"
 
 msgctxt "#30416"
 msgid "Percents of playback to mark as watched"
-msgstr ""
+msgstr "Percentuale di riproduzione da marcare come visto"
 
 msgctxt "#30417"
 msgid "Add to Trakt, when movie/show is added to Kodi library"
-msgstr ""
+msgstr "Aggiungi a Trakt, quando film/serie sono aggiunti alla libreria di Kodi"
 
 msgctxt "#30418"
 msgid "Add to ..."
-msgstr ""
+msgstr "Aggiungi a..."
 
 msgctxt "#30419"
 msgid "Remove from Trakt, when movie/show is deleted from Kodi library"
-msgstr ""
+msgstr "Rimuovi da Trakt, quando file/serie sono cancellati dalla libreria di Kodi"
 
 msgctxt "#30420"
 msgid "Remove from ..."
-msgstr ""
+msgstr "Rimuovi da..."
 
 msgctxt "#30421"
 msgid "Load torrents from torrents folder on startup"
-msgstr ""
+msgstr "All'avvio carica i torrent dalla cartetella dei torrent"
 
 msgctxt "#30422"
 msgid "Popular lists"
-msgstr ""
+msgstr "Elenchi popolari"
 
 msgctxt "#30423"
 msgid "Recommendations"
-msgstr ""
+msgstr "Raccomandazioni"
 
 msgctxt "#30424"
 msgid "Progress"
-msgstr ""
+msgstr "Progresso"
 
 msgctxt "#30425"
 msgid "Color of an air date"
-msgstr ""
+msgstr "Colore di una data di trasmissione"
 
 msgctxt "#30426"
 msgid "Color of a show name"
-msgstr ""
+msgstr "Colore del nome di una serie"
 
 msgctxt "#30427"
 msgid "Color of an episode name"
-msgstr ""
+msgstr "Colore del nome di un episodio"
 
 msgctxt "#30428"
 msgid "Hide unaired episodes"
-msgstr ""
+msgstr "Nascondi episodi non trasmessi"
 
 msgctxt "#30429"
 msgid "Sort shows in the list"
-msgstr ""
+msgstr "Ordina serie nella lista"
 
 msgctxt "#30430"
 msgid "By latest watched"
-msgstr ""
+msgstr "Per ultimo visto"
 
 msgctxt "#30431"
 msgid "By show name"
-msgstr ""
+msgstr "Per nome serie"
 
 msgctxt "#30432"
 msgid "By air date (newer)"
-msgstr ""
+msgstr "Per data di trasmissione (più nuovo)"
 
 msgctxt "#30433"
 msgid "By air date (older)"
-msgstr ""
+msgstr "Per data di trasmissione (più vecchio)"
 
 msgctxt "#30434"
 msgid "Date format"
-msgstr ""
+msgstr "Formato data"
 
 msgctxt "#30435"
 msgid "Select userlist"
-msgstr ""
+msgstr "Seleziona la userlist"
 
 msgctxt "#30436"
 msgid "Userlist"
-msgstr ""
+msgstr "Userlist"
 
 msgctxt "#30437"
 msgid "Selected userlist"
-msgstr ""
+msgstr "Userlist selezionata"
 
 msgctxt "#30438"
 msgid "Userlists"
-msgstr ""
+msgstr "Userlist"
 
 msgctxt "#30439"
 msgid "Debug information (without kodi.log)"
-msgstr ""
+msgstr "Informazioni di Debug (senza kodi.log)"
 
 msgctxt "#30440"
 msgid "Color of an unaired episode name"
-msgstr ""
+msgstr "Colore del nome di un episodio non trasmesso"
 
 msgctxt "#30441"
 msgid "Select userlist for movies"
-msgstr ""
+msgstr "Seleziona la userlist per i film"
 
 msgctxt "#30442"
 msgid "Userlist for movies"
-msgstr ""
+msgstr "Userlist per i film"
 
 msgctxt "#30443"
 msgid "Selected userlist for movies"
-msgstr ""
+msgstr "Userlist selezionata per i film"
 
 msgctxt "#30444"
 msgid "Select userlist for shows"
-msgstr ""
+msgstr "Seleziona Userlist per le serie"
 
 msgctxt "#30445"
 msgid "Userlist for shows"
-msgstr ""
+msgstr "Userlist per le serie"
 
 msgctxt "#30446"
 msgid "Selected userlist for shows"
-msgstr ""
+msgstr "Userlist selezionata per le serie"
 
 msgctxt "#30447"
 msgid "Add to Trakt, when movie is added to Kodi library"
-msgstr ""
+msgstr "Aggiungi a Trakt, quando un film è aggiunto alla libreria di Kodi"
 
 msgctxt "#30448"
 msgid "Add to Trakt, when show is added to Kodi library"
-msgstr ""
+msgstr "Aggiungi a Trakt, quando una serie è aggiunta alla libreria di Kodi"
 
 msgctxt "#30449"
 msgid "Remove from Trakt, when movie is deleted from Kodi library"
-msgstr ""
+msgstr "Rimuovi da Trakt, quando un film è cancellato dalla libreria di Kodi"
 
 msgctxt "#30450"
 msgid "Remove from Trakt, when show is deleted from Kodi library"
-msgstr ""
+msgstr "Rimuovi da Trakt, quando una serie è cancellata dalla libreria di Kodi"
 
 msgctxt "#30451"
 msgid "Torrent files path"
-msgstr ""
+msgstr "Percorso file torrent"
 
 msgctxt "#30452"
 msgid "Reset all paths"
-msgstr ""
+msgstr "Resetta tutti i percorsi"
 
 msgctxt "#30453"
 msgid "Upload /debug/bundle (with kodi.log) to pastebin"
-msgstr ""
+msgstr "Upload /debug/bundle (con kodi.log) a pastebin"
 
 msgctxt "#30454"
 msgid "Paste url:[CR]%s"
-msgstr ""
+msgstr "Incolla url: [CR]%s"
 
 msgctxt "#30455"
 msgid "Logging"
-msgstr ""
+msgstr "Logging"
 
 msgctxt "#30456"
 msgid "Upload /debug/all (no kodi.log) to pastebin"
-msgstr ""
+msgstr "Upload /debug/all (no kodi.log) a pastebin"
 
 msgctxt "#30457"
 msgid "Uploading file to pastebin"
-msgstr ""
+msgstr "Uploading file a pastebin"
 
 msgctxt "#30458"
 msgid "Deleted movies"
-msgstr ""
+msgstr "Film cancellati"
 
 msgctxt "#30459"
 msgid "Deleted shows"
-msgstr ""
+msgstr "Serie cancellate"
 
 msgctxt "#30460"
 msgid "Database"
-msgstr ""
+msgstr "Database"
 
 msgctxt "#30461"
 msgid "Show information"
-msgstr ""
+msgstr "Mostra informazioni"
 
 msgctxt "#30462"
 msgid "Clear deleted movies"
-msgstr ""
+msgstr "Pulisi i film cancellati"
 
 msgctxt "#30463"
 msgid "Clear deleted shows"
-msgstr ""
+msgstr "Pulisi le serie cancellate"
 
 msgctxt "#30464"
 msgid "Clear torrents history"
-msgstr ""
+msgstr "Cancella la cronologia dei torrent"
 
 msgctxt "#30465"
 msgid "Clear search history"
-msgstr ""
+msgstr "Cancella la cronologia delle ricerche"
 
 msgctxt "#30466"
 msgid "Clear the database"
-msgstr ""
+msgstr "Pulisi il database"
 
 msgctxt "#30467"
 msgid "Cache"
-msgstr ""
+msgstr "Cache"
 
 msgctxt "#30468"
 msgid "Clear TMDB cache"
-msgstr ""
+msgstr "Pulisci la cache di TMDB"
 
 msgctxt "#30469"
 msgid "Clear Trakt cache"
-msgstr ""
+msgstr "Pulisci la cache di Trakt"
 
 msgctxt "#30470"
 msgid "Clear the cache"
-msgstr ""
+msgstr "Pulisci la cache"
 
 msgctxt "#30471"
 msgid "Are you sure you want to do it?"
-msgstr ""
+msgstr "Sei sicuro di farlo?"
 
 msgctxt "#30472"
 msgid "Database cleared"
-msgstr ""
+msgstr "Database pulito"
 
 msgctxt "#30473"
 msgid "Select network interface"
-msgstr ""
+msgstr "Seleziona l'interfaccia di rete"
 
 msgctxt "#30474"
 msgid "Network interfaces"
-msgstr ""
+msgstr "Interfaccie di rete"
 
 msgctxt "#30475"
 msgid "Strm files language"
-msgstr ""
+msgstr "Linguaggio dei file strm"
 
 msgctxt "#30476"
 msgid "Select language"
-msgstr ""
+msgstr "Seleziona linguaggio"
 
 msgctxt "#30477"
 msgid "Original"
-msgstr ""
+msgstr "Originale"
 
 msgctxt "#30478"
 msgid "Searching"
-msgstr ""
+msgstr "Cercando"
 
 msgctxt "#30479"
 msgid "Automatically run Kodi library update after add/delete"
-msgstr ""
+msgstr "Aggiorna automaticamente la libreria di Kodi dopo l'aggiunta/cancellazione"
 
 msgctxt "#30480"
 msgid "Run Kodi library update after add/delete"
-msgstr ""
+msgstr "Aggiorna la libreria di Kodi dopo l'aggiunta/cancellazione"
 
 msgctxt "#30481"
 msgid "Automatically"
-msgstr ""
+msgstr "Automaticamente"
 
 msgctxt "#30482"
 msgid "Ask"
-msgstr ""
+msgstr "Chiedi"
 
 msgctxt "#30483"
 msgid "Create NFO files for Movie scrapers"
-msgstr ""
+msgstr "Crea file NFO per i film scrapers"
 
 msgctxt "#30484"
 msgid "Create NFO files for TV Show scrapers"
-msgstr ""
+msgstr "Crea file NFO per le serie scrapers"
 
 msgctxt "#30485"
 msgid "Concurrent connections limit"
-msgstr ""
+msgstr "Limite connessioni simulatanee"
 
 msgctxt "#30486"
 msgid "Automatic concurrent connections limit"
-msgstr ""
+msgstr "Limite automatico connessioni simulatanee"
 
 msgctxt "#30487"
 msgid "Enable built-in HTTP proxy"
-msgstr ""
+msgstr "Abilita il Proxy HTTP integrato"
 
 msgctxt "#30488"
 msgid "Internal Proxy Port"
-msgstr ""
+msgstr "Porta del Proxy interno"
 
 msgctxt "#30489"
 msgid "Log Internal proxy requests"
-msgstr ""
+msgstr "Logga le richieste del proxy interno"
 
 msgctxt "#30490"
 msgid "Internal HTTP proxy"
-msgstr ""
+msgstr "Proxy HTTP interno"
 
 msgctxt "#30491"
 msgid "Use Fanart.tv for posters/images"
-msgstr ""
+msgstr "Usa Fanart.tv per locandine/immagini"
 
 msgctxt "#30492"
 msgid "Use Proxy for downloading .torrent files"
-msgstr ""
+msgstr "Usa il Proxy per scaricare i file .torrent"
 
 msgctxt "#30493"
 msgid "Use Proxy for trackers"
-msgstr ""
+msgstr "Usa il Proxy per i trackers"
 
 msgctxt "#30494"
 msgid "Use Proxy for torrent downloading"
-msgstr ""
+msgstr "Usa il Proxy per il download dei torrent"
 
 msgctxt "#30495"
 msgid "Use internal DNS resolver"
-msgstr ""
+msgstr "Usa il DNS interno per le rosoluzioni"
 
 msgctxt "#30496"
 msgid "Turn off if you use Tor addresses, or you want to pass resolve to local network settings"
-msgstr ""
+msgstr "Disattivare se si utilizzano gli indirizzi Tor, o si desidera passare la risoluzione alle impostazioni della rete locale"
 
 msgctxt "#30497"
 msgid "Use antizapret proxy if possible"
-msgstr ""
+msgstr "Usa il proxy antizapret se possibile"
 
 msgctxt "#30498"
 msgid "Reset this path to '/'"
-msgstr ""
+msgstr "Resetta questo path a '/'"
 
 msgctxt "#30499"
 msgid "Automatically adjust memory size[CR]for heavy torrents, if possible"
-msgstr ""
+msgstr "Regola automaticamente la dimensione della memoria[CR]per i torrent pesanti, se possibile"
 
 msgctxt "#30500"
 msgid "Automatically adjust buffer size[CR]for heavy torrents"
-msgstr ""
+msgstr "Regola automaticamente la dimensione del buffer[CR]per i torrent pesanti"
 
 msgctxt "#30501"
 msgid "Filter files with size less than, MB"
-msgstr ""
+msgstr "Filtra i file con dimensione minore di, MB"
 
 msgctxt "#30502"
 msgid "Adjust buffer according to Kodi advancedsettings, if set"
-msgstr ""
+msgstr "Regola il buffer in base alle impostazioni advancedsettings di Kodi, se impostato"
 
 msgctxt "#30503"
 msgid "Use libtorrent.config to override torrent engine settings"
-msgstr ""
+msgstr "Usa libtorrent.config per sovrascrivere le impostazioni del motore torrent"
 
 msgctxt "#30504"
 msgid "Located at USERDATA/plugin.video.elementum/libtorrent.config file[CR]Settings apply automatically. Visit https://libtorrent.org for info."
-msgstr ""
+msgstr "File situato in USERDATA/plugin.video.elementum/libtorrent.config[CR]Le impostazioni si applicano automaticamente. Visita https://libtorrent.org per informazioni."
 
 msgctxt "#30505"
 msgid "Add episode number to the title"
-msgstr ""
+msgstr "Aggiungi il numero dell'episodio al titolo"
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
-msgstr ""
+msgstr "Abilita il loggin di libtorrent"
 
 msgctxt "#30507"
 msgid "Magnet trackers"
-msgstr ""
+msgstr "Magnet trackers"
 
 msgctxt "#30508"
 msgid "Leave as is"
-msgstr ""
+msgstr "Lascia com'è"
 
 msgctxt "#30509"
 msgid "Remove all"
-msgstr ""
+msgstr "Rimuovi tutto"
 
 msgctxt "#30510"
 msgid "Add retrackers"
-msgstr ""
+msgstr "Aggiungi retrackers"
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
-msgstr ""
+msgstr "Impostazioni profilo Libtorrent"
 
 msgctxt "#30512"
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 msgctxt "#30513"
 msgid "Minimal memory"
-msgstr ""
+msgstr "Memoria minima"
 
 msgctxt "#30514"
 msgid "High speed"
-msgstr ""
+msgstr "Alta velocità"
 
 msgctxt "#30515"
 msgid "Load torrents from torrents folder paused"
-msgstr ""
+msgstr "Carica torrent dalla cartella torrents in pausa"
 
 msgctxt "#30516"
 msgid "... resume N seconds earlier"
-msgstr ""
+msgstr "... riprendi N secondi prima"
 
 msgctxt "#30517"
 msgid "In Kodi library"
-msgstr ""
+msgstr "Nella libreria di Kodi"
 
 msgctxt "#30518"
 msgid "Use libtorrent deadlines"
-msgstr ""
+msgstr "Usa le scadenze libtorrent"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr ""
+msgstr "Usa il trucco di pausa/ripresa libtorrent per i torrent aggiunti"
 
 msgctxt "#30520"
 msgid "Add item to start menu"
-msgstr ""
+msgstr "Aggiungi elemento al menu start"
 
 msgctxt "#30521"
 msgid "Delete item from start menu"
-msgstr ""
+msgstr "Elimina l'elemento dal menu start"
 
 msgctxt "#30522"
 msgid "Minimum file size"
-msgstr ""
+msgstr "Dimensione minima del file"
 
 msgctxt "#30523"
 msgid "Minimum file size for Movies, MB"
-msgstr ""
+msgstr "Dimensione minima del file per film, MB"
 
 msgctxt "#30524"
 msgid "Minimum file size for Shows, per minute, MB"
-msgstr ""
+msgstr "Dimensione minima del file per serie, per minuto, MB"
 
 msgctxt "#30525"
 msgid "Automatically start downloading next episode"
-msgstr ""
+msgstr "Inizia automaticamente a scaricare il prossimo episodio"
 
 msgctxt "#30526"
 msgid "Use english title as 'original' for Anime search"
-msgstr ""
+msgstr "Usa il titolo inglese come 'originale' per la ricerca di Anime"
 
 msgctxt "#30527"
 msgid "Donate"
-msgstr ""
+msgstr "Dona"
 
 msgctxt "#30528"
 msgid "Automatically load first found subtitles"
-msgstr ""
+msgstr "Carica automaticamente i sottotitoli trovati per primi"
 
 msgctxt "#30529"
 msgid "Number of subtitles to load automatically"
-msgstr ""
+msgstr "Numero di sottotitoli da caricare automaticamente"
 
 msgctxt "#30530"
 msgid "Delete autoloaded subtitles on player stop"
-msgstr ""
+msgstr "Elimina i sottotitoli caricati automaticamente all'arresto del lettore"
 
 msgctxt "#30531"
 msgid "Download all files from torrent"
-msgstr ""
+msgstr "Scarica tutti i file dal torrent"
 
 msgctxt "#30532"
 msgid "Stop Downloading all files"
-msgstr ""
+msgstr "Interrompere il download di tutti i file"
 
 msgctxt "#30533"
 msgid "Store Resume position for downloaded files"
-msgstr ""
+msgstr "Memorizza la posizione Riprendi per i file scaricati"
 
 msgctxt "#30534"
 msgid "Ask to use stored Resume position"
-msgstr ""
+msgstr "Chiedere di utilizzare la posizione Riprendi memorizzata"
 
 msgctxt "#30535"
 msgid "Continue playback from [COLOR gold][B]%s[/B][/COLOR]?"
-msgstr ""
+msgstr "Continuare la riproduzione da [COLOR gold][B]%s[/B][/COLOR]?"
 
 msgctxt "#30536"
 msgid "Skip IPv6 addresses resolving"
-msgstr ""
+msgstr "Salta risoluzione indirizzi IPv6"
 
 msgctxt "#30537"
 msgid "Torrents history"
-msgstr ""
+msgstr "Cronologia torrent"
 
 msgctxt "#30538"
 msgid "Use torrents history?"
-msgstr ""
+msgstr "Usare la cronologia dei torrent?"
 
 msgctxt "#30539"
 msgid "Store N torrents in history"
-msgstr ""
+msgstr "Salva N torrent nella cronologia"
 
-#~ msgctxt "#30001"
-#~ msgid "Download path (not FAT32)"
-#~ msgstr "Percorso di archiviazione (non FAT32)"
+msgctxt "#30540"
+msgid "Subtitles"
+msgstr "Sottotitoli"
 
-#~ msgctxt "#30021"
-#~ msgid "Enable pagination"
-#~ msgstr "Abilita impaginazione"
+msgctxt "#30541"
+msgid "Automatic Subtitles Search"
+msgstr "Ricerca automatica sottotitoli"
 
-#~ msgctxt "#30025"
-#~ msgid "Limit rates after buffering only"
-#~ msgstr "Limita banda dopo il buffering"
+msgctxt "#30542"
+msgid "Disabled if subtitles available in player"
+msgstr "Disabilitato se i sottotitoli sono disponibili nel lettore"
 
-#~ msgctxt "#30028"
-#~ msgid "Background handling of torrents"
-#~ msgstr "Gestione dei torrent in background"
+msgctxt "#30543"
+msgid "Subtitles included in torrent"
+msgstr "Sottotitoli inclusi in torrent"
 
-#~ msgctxt "#30075"
-#~ msgid "Default from libtorrent (acceptable)"
-#~ msgstr "Default da libtorrent (accettabile)"
+msgctxt "#30544"
+msgid "Automatic Scrape"
+msgstr "Scraping automatico"
 
-#~ msgctxt "#30103"
-#~ msgid "Unable to find Elementum binary"
-#~ msgstr "Binario di Elementum non trovato"
+msgctxt "#30545"
+msgid "Automatic scraping allows to scrape connected providers[CR]to find new movies, if there are results,"
+msgstr "Lo scraping automatico consente di fare scraping ai provider collegati[CR]per trovare nuovi film, se ci sono risultati"
+
+msgctxt "#30546"
+msgid "Strategy"
+msgstr "Strategia"
+
+msgctxt "#30547"
+msgid "Find in each provider"
+msgstr "Cerca in ogni provider"
+
+msgctxt "#30548"
+msgid "Find in overall"
+msgstr "Cerca in generale"
+
+msgctxt "#30549"
+msgid "Number of results to find"
+msgstr "Numero di risultati da trovare"
+
+msgctxt "#30550"
+msgid "What to search"
+msgstr "Cosa cercare"
+
+msgctxt "#30551"
+msgid "How to search"
+msgstr "Come cercare"
+
+msgctxt "#30552"
+msgid "Search each N hours"
+msgstr "Cerca ogni N ore"
+
+msgctxt "#30553"
+msgid "Find 4K resolution"
+msgstr "Cerca risoluzioni 4K"
+
+msgctxt "#30554"
+msgid "Find 1080p resolution"
+msgstr "Cerca risoluzioni 1080p"
+
+msgctxt "#30555"
+msgid "and movie passes checks for number of results[CR]movie can be added to the library."
+msgstr "e il film passa i controlli per il numero di risultati[CR]film può essere aggiunto alla libreria."
+
+msgctxt "#30556"
+msgid "Add to the library"
+msgstr "Aggiungi alla libreria"
+
+msgctxt "#30557"
+msgid "Number of popular movies to search"
+msgstr "Numero di film popolari da cercare"
+
+msgctxt "#30558"
+msgid "Latest available movies"
+msgstr "Ultimi film disponibili"
+
+msgctxt "#30559"
+msgid "Skip searching for installed providers"
+msgstr "Salta la ricerca per i provider installati"
+
+msgctxt "#30560"
+msgid "Files: %s"
+msgstr "File: %s"
+
+msgctxt "#30561"
+msgid "Interval between requests, seconds"
+msgstr "Intervallo tra richieste, secondi"
+
+msgctxt "#30562"
+msgid "Open directory with Kodi file browser"
+msgstr "Apri la directory con il browser di file di Kodi"
+
+msgctxt "#30563"
+msgid "Synchronize frequency of Trakt (minutes)"
+msgstr "Sincronizza la frequenza di Trakt (minuti)"
+
+msgctxt "#30564"
+msgid "Sync hidden items"
+msgstr "Sincronizza oggetti nascosti"
+
+msgctxt "#30565"
+msgid "Sync playback progress into Kodi library"
+msgstr "Sincronizza l'avanzamento della riproduzione nella libreria Kodi"
+
+msgctxt "#30566"
+msgid "Lists"
+msgstr "Liste"
+
+msgctxt "#30567"
+msgid "Show \"All seasons\" in shows"
+msgstr "Mostra \"Tutte le stagioni\" nelle serie"
+
+msgctxt "#30568"
+msgid "Seasons order"
+msgstr "Ordine delle stagioni"
+
+msgctxt "#30569"
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgctxt "#30570"
+msgid "Descending"
+msgstr "Discendente"
+
+msgctxt "#30571"
+msgid "* All seasons"
+msgstr "* Tutte le stagioni"
+
+msgctxt "#30572"
+msgid "Log response body"
+msgstr "Corpo della risposta del log"
+
+msgctxt "#30573"
+msgid "Select file to play"
+msgstr "Seleziona file da riprodurre"
+
+msgctxt "#30574"
+msgid "Automatically answer Yes after timeout"
+msgstr "Rispondi automaticamente Sì dopo il timeout"
+
+msgctxt "#30575"
+msgid "Timeout, seconds"
+msgstr "Timeout, secondi"
