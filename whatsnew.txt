@@ -2,7 +2,8 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
-[B][COLOR red]0.1.42[/COLOR][/B]
+[B][COLOR red]0.1.42-0.1.43[/COLOR][/B]
+    - Fixed segfault issue on Linux builds, caused by static linkage. 0.1.42 release is cancelled!
     - Changed Smart episode play to start download even when playlist is empty.
     - Moved back to using libC for binary compilation, instead of Musl.
     - Changed Kodi library synchronization to avoid deadlocks.
