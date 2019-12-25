@@ -2049,3 +2049,11 @@ msgstr "Размер буфера перед просмотром, начало 
 msgctxt "#30579"
 msgid "Settings"
 msgstr "Настройки"
+
+msgctxt "#30580"
+msgid "Custom Trakt API Client ID"
+msgstr "Пользовательский Trakt API Client ID"
+
+msgctxt "#30581"
+msgid "Custom Trakt API Client Secret"
+msgstr "Пользовательский Trakt API Client Secret"

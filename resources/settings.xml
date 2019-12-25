@@ -258,6 +258,8 @@
         <setting type="action" label="30330" action="RunPlugin(plugin://plugin.video.elementum/trakt/update)" />
         <setting id="trakt_refresh_token" type="text" label="Trakt refresh token" default="" visible="false" />
         <setting id="trakt_token_expiry" type="number" label="Trakt token expiry" default="0" visible="false" />
+        <setting id="trakt_client_id" type="text" label="30580" default="" />
+        <setting id="trakt_client_secret" type="text" label="30581" default="" />
 
         <setting label="30362" type="lsep" />
         <setting id="trakt_sync_collections" type="bool" label="30363" default="true" />

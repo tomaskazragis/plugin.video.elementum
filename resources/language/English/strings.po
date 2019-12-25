@@ -2048,3 +2048,11 @@ msgstr ""
 msgctxt "#30579"
 msgid "Settings"
 msgstr ""
+
+msgctxt "#30580"
+msgid "Custom Trakt API Client ID"
+msgstr ""
+
+msgctxt "#30581"
+msgid "Custom Trakt API Client Secret"
+msgstr ""
