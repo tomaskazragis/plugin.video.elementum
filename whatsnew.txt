@@ -2,6 +2,16 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.42[/COLOR][/B]
+    - Changed Smart episode play to start download even when playlist is empty.
+    - Moved back to using libC for binary compilation, instead of Musl.
+    - Changed Kodi library synchronization to avoid deadlocks.
+    - Fixes for having duplicated watches in Trakt.
+    - Changed deletion of movies/shows detection. (Will not update items - removed from Kodi library).
+    - Added Settings link to main menu.
+    - Added settings for customizing Trakt Client ID and Secret key.
+    - Added settings for customizing end of file buffer size (default is 4mb). 
+
 [B][COLOR red]0.1.41[/COLOR][/B]
     - Added Autoclose settings for closing Confirm Dialogs with timeout.
     - Added functionality to select which file to play, in list of active torrents.
