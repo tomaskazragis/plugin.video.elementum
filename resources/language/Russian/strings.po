@@ -2057,3 +2057,7 @@ msgstr "Пользовательский Trakt API Client ID"
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
 msgstr "Пользовательский Trakt API Client Secret"
+
+msgctxt "#30582"
+msgid "Settings for %s provider"
+msgstr "Настройки дополнения %s"

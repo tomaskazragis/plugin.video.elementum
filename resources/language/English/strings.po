@@ -2056,3 +2056,7 @@ msgstr ""
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
 msgstr ""
+
+msgctxt "#30582"
+msgid "Settings for %s provider"
+msgstr ""
