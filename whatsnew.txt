@@ -2,6 +2,11 @@
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]0.1.44[/COLOR][/B]
+    - Fixed CloudFlare bypass module to bypass latest CloudFlare defense.
+    - Fixed issue with removing shows from the Kodi library.
+    - Added Settings links for Elementum and searchers to the main menu.
+
 [B][COLOR red]0.1.42-0.1.43[/COLOR][/B]
     - Fixed segfault issue on Linux builds, caused by static linkage. 0.1.42 release is cancelled!
     - Changed Smart episode play to start download even when playlist is empty.
