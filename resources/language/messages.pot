@@ -2072,3 +2072,7 @@ msgstr ""
 msgctxt "#30582"
 msgid "Settings for %s provider"
 msgstr ""
+
+msgctxt "#30583"
+msgid "Resolving magnet link"
+msgstr ""

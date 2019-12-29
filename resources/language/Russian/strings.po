@@ -2061,3 +2061,7 @@ msgstr "Пользовательский Trakt API Client Secret"
 msgctxt "#30582"
 msgid "Settings for %s provider"
 msgstr "Настройки дополнения %s"
+
+msgctxt "#30583"
+msgid "Resolving magnet link"
+msgstr "Ищем magnet ссылку"
