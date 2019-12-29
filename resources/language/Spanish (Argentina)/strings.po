@@ -596,7 +596,7 @@ msgstr "Series de TV"
 
 msgctxt "#30216"
 msgid "Add Torrent"
-msgstr "Añadir URL"
+msgstr "Añadir Torrent"
 
 msgctxt "#30217"
 msgid "Paste Magnet or URL"
@@ -608,7 +608,7 @@ msgstr "Siguiente página"
 
 msgctxt "#30219"
 msgid "Add / Remove from library"
-msgstr "Agregar / Quitar de librería"
+msgstr "Añadir / Quitar de Colección"
 
 msgctxt "#30220"
 msgid "Library path not set"
@@ -616,11 +616,11 @@ msgstr "No se ha configurado la ruta de la Colección"
 
 msgctxt "#30221"
 msgid "Item successfully added to library"
-msgstr "Se agregó correctamente a la librería"
+msgstr "Se agregó correctamente a la Colección"
 
 msgctxt "#30222"
 msgid "Item removed from library"
-msgstr "Se ha quitado de la librería"
+msgstr "Se ha quitado de la Colección"
 
 msgctxt "#30223"
 msgid "Files"
@@ -792,7 +792,7 @@ msgstr "Restablecer acreditaciones"
 
 msgctxt "#30265"
 msgid "Item already in library"
-msgstr "El elemento ya está en la librería"
+msgstr "El elemento ya está en la Colección"
 
 msgctxt "#30266"
 msgid "Ignore duplicates"
@@ -848,15 +848,15 @@ msgstr "%s removido de la Colección ¿Quiere limpiarla?[CR]Puede utilizar luego
 
 msgctxt "#30279"
 msgid "Watchlist added to library"
-msgstr "Watchlist añadida a la librería"
+msgstr "Watchlist añadida a la Colección"
 
 msgctxt "#30280"
 msgid "Collection added to library"
-msgstr "Colección añadida a la librería"
+msgstr "Colección añadida"
 
 msgctxt "#30281"
 msgid "List added to library"
-msgstr "Lista añadida a la librería"
+msgstr "Lista añadida a la Colección"
 
 msgctxt "#30282"
 msgid "Nothing left to remove from Elementum"
@@ -880,7 +880,7 @@ msgstr "%s fusionados en la Colección ¿Quiere volver a escanearla?[CR]Puede ut
 
 msgctxt "#30287"
 msgid "%s already in library"
-msgstr "ya está en la librería"
+msgstr "ya está en la Colección"
 
 msgctxt "#30288"
 msgid "Library updated, do you want to rescan it?[CR]You can later use Kodi's 'Update library' feature instead."
@@ -1128,11 +1128,11 @@ msgstr "Crea archivos habituales en sistema de archivos y escribe en ellos.[CR]�
 
 msgctxt "#30349"
 msgid "Using device's memory to download parts of the torrent.[CR]Disk is used only to download and save .torrent file,"
-msgstr "Utiliza la memoria del dispositivo para descargar partes del torrent.[CR]El disco sólo se utiliza para descargar y guardar archivos .torrent."
+msgstr "Utiliza la RAM del dispositivo p/descargar partes del torrent.[CR]Sólo se utiliza disco p/guardar archivos .torrent."
 
 msgctxt "#30350"
 msgid "so can be any storage. For 1gb memory devices[CR]100mb is enough for memory storage, 200-250mb for bigger devices."
-msgstr "así que puede ser cualquier tipo de almacenamiento. Para dispositivos de memoria de 1gb[CR]100mb es suficiente para almacenamiento en memoria, 200-250mb para dispositivos más grandes."
+msgstr "así que puede ser cquier tipo de almacenamiento. Para dispositivos con 1gb de RAM[CR]100mb es suficiente p/almacenamiento en RAM, 200-250mb p/dispositivos con mas RAM."
 
 msgctxt "#30351"
 msgid "Same as for usual file storage, but splits file into many small files.[CR]Should be used on FAT-32 file-systems."
@@ -1336,7 +1336,7 @@ msgstr "Estadísticas"
 
 msgctxt "#30401"
 msgid "Torrent library status"
-msgstr "Estado de biblioteca torrent"
+msgstr "Estado de biblioteca torrents"
 
 msgctxt "#30402"
 msgid "Size of cache.db"
@@ -1400,11 +1400,11 @@ msgstr "% de reproducción para marcar como ya visto"
 
 msgctxt "#30417"
 msgid "Add to Trakt, when movie/show is added to Kodi library"
-msgstr "Agregar a Trakt cuando película/serie se agrega a Colección Kodi"
+msgstr "Añadir a Trakt cuando película/serie se añade a Colección Kodi"
 
 msgctxt "#30418"
 msgid "Add to ..."
-msgstr "Agregar a ..."
+msgstr "Añadir a ..."
 
 msgctxt "#30419"
 msgid "Remove from Trakt, when movie/show is deleted from Kodi library"
@@ -1520,11 +1520,11 @@ msgstr "Userlist para series seleccionada"
 
 msgctxt "#30447"
 msgid "Add to Trakt, when movie is added to Kodi library"
-msgstr "Agregar a Trakt cuando peli se agrega a Colección Kodi"
+msgstr "Añadir a Trakt cuando peli se añade a Colección Kodi"
 
 msgctxt "#30448"
 msgid "Add to Trakt, when show is added to Kodi library"
-msgstr "Agregar a Trakt cuando serie se agrega a Colección Kodi"
+msgstr "Añadir a Trakt cuando serie se añade a Colección Kodi"
 
 msgctxt "#30449"
 msgid "Remove from Trakt, when movie is deleted from Kodi library"
@@ -1648,11 +1648,11 @@ msgstr "Buscando"
 
 msgctxt "#30479"
 msgid "Automatically run Kodi library update after add/delete"
-msgstr "Actualizar automáticamente Colección Kodi luego de agregar/quitar"
+msgstr "Actualizar automáticamente Colección Kodi luego de añadir/quitar"
 
 msgctxt "#30480"
 msgid "Run Kodi library update after add/delete"
-msgstr "Actualizar Colección Kodi luego de agregar/quitar"
+msgstr "Actualizar Colección Kodi luego de añadir/quitar"
 
 msgctxt "#30481"
 msgid "Automatically"
@@ -1752,7 +1752,7 @@ msgstr "En USERDATA/plugin.video.elementum/libtorrent.config[CR]Valores se aplic
 
 msgctxt "#30505"
 msgid "Add episode number to the title"
-msgstr "Agregar nro. de episodio al título"
+msgstr "Añadir nro. de episodio al título"
 
 msgctxt "#30506"
 msgid "Enable libtorrent logging"
@@ -1772,7 +1772,7 @@ msgstr "Borrar todo"
 
 msgctxt "#30510"
 msgid "Add retrackers"
-msgstr "Agregar retrackers"
+msgstr "Añadir retrackers"
 
 msgctxt "#30511"
 msgid "Libtorrent settings profile"
@@ -1808,11 +1808,11 @@ msgstr "Usar deadlines libtorrent"
 
 msgctxt "#30519"
 msgid "Use libtorrent pause/resume trick for added torrents"
-msgstr "Usar truco pause/resume de libtorrent para torrents agregados"
+msgstr "Usar truco pause/resume de libtorrent para torrents añadidos"
 
 msgctxt "#30520"
 msgid "Add item to start menu"
-msgstr "Agregar ítem a menú inicial"
+msgstr "Añadir ítem a menú inicial"
 
 msgctxt "#30521"
 msgid "Delete item from start menu"
@@ -1912,7 +1912,7 @@ msgstr "Scrape automático"
 
 msgctxt "#30545"
 msgid "Automatic scraping allows to scrape connected providers[CR]to find new movies, if there are results,"
-msgstr "Scrape automático permite scrapear proveedores[CR]para buscar nuevas pelis, si hay resultados,"
+msgstr "Scrape automático permite scrapear proveedores[CR]para buscar nuevas pelis, si hay resultados"
 
 msgctxt "#30546"
 msgid "Strategy"
@@ -1952,11 +1952,11 @@ msgstr "Buscar en resol. 1080p"
 
 msgctxt "#30555"
 msgid "and movie passes checks for number of results[CR]movie can be added to the library."
-msgstr ""
+msgstr "y la peli supera chequeos de nro. resultados[CR]entonces la misma puede ser añadida a Colección."
 
 msgctxt "#30556"
 msgid "Add to the library"
-msgstr ""
+msgstr "Añadir a Colección"
 
 msgctxt "#30557"
 msgid "Number of popular movies to search"
@@ -2021,3 +2021,39 @@ msgstr "* Todas las temporadas"
 msgctxt "#30572"
 msgid "Log response body"
 msgstr "Registrar cuerpo rta."
+
+msgctxt "#30573"
+msgid "Select file to play"
+msgstr "Seleccionar archivo a reproducir"
+
+msgctxt "#30574"
+msgid "Automatically answer Yes after timeout"
+msgstr "Auto-responder Sí luego de cierto tiempo"
+
+msgctxt "#30575"
+msgid "Timeout, seconds"
+msgstr "Tiempo espera (segs.)"
+
+msgctxt "#30576"
+msgid "Trakt authentication needs to be updated!"
+msgstr "¡Debe acrualizar su autenticaciónn en Trakt!"
+
+msgctxt "#30577"
+msgid "End of file Buffer size (MB)"
+msgstr "Tamaño buffer de fin de archivo (MB)"
+
+msgctxt "#30578"
+msgid "Beginning of file Buffer size (MB)"
+msgstr "Tamaño buffer de comienzo de archivo (MB)"
+
+msgctxt "#30579"
+msgid "Settings"
+msgstr "Ajustes"
+
+msgctxt "#30580"
+msgid "Custom Trakt API Client ID"
+msgstr "ID Cliente API Trakt personalizado"
+
+msgctxt "#30581"
+msgid "Custom Trakt API Client Secret"
+msgstr "Secreto Cliente API Trakt personalizado"
