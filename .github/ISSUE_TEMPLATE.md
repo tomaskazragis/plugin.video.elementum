@@ -1,3 +1,10 @@
+<!--- 
+      DEVELOPMENT OF plugin.video.elementum is stopped! 
+      YOU WILL NOT GET SUPPORT or HELP!
+      
+      Feel free to fork the project!
+-->
+
 <!--- ISSUES ABOUT PROVIDERS DO NOT BELONG HERE -->
 <!--- If you open an issue about providers, it will get closed,
       its title and content will get removed, and your GitHub
