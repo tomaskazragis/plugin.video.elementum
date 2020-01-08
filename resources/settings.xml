@@ -266,6 +266,7 @@
         <setting id="trakt_sync_watchlist" type="bool" label="30364" default="true" />
         <setting id="trakt_sync_userlists" type="bool" label="30365" default="true" />
         <setting id="trakt_sync_watched" type="bool" label="30366" default="true" />
+        <setting id="trakt_sync_watched_single" type="bool" label="30584" default="false" />
         <setting id="trakt_sync_watchedback" type="bool" label="30367" default="true" />
         <setting id="trakt_sync_playback_progress" type="bool" label="30565" default="true" />
         <setting id="trakt_sync_hidden" type="bool" label="30564" default="true" />

@@ -2065,3 +2065,7 @@ msgstr "Настройки дополнения %s"
 msgctxt "#30583"
 msgid "Resolving magnet link"
 msgstr "Ищем magnet ссылку"
+
+msgctxt "#30584"
+msgid "Remove multiple plays from history, leave 1"
+msgstr "Удалить несколько записей в истории, оставить 1"

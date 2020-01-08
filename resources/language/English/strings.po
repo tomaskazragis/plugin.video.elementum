@@ -2064,3 +2064,7 @@ msgstr ""
 msgctxt "#30583"
 msgid "Resolving magnet link"
 msgstr ""
+
+msgctxt "#30584"
+msgid "Remove multiple plays from history, leave 1"
+msgstr ""
