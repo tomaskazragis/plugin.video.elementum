@@ -3,6 +3,7 @@
     <requires>
         <import addon="xbmc.addon" version="16.0.0" />
         <import addon="xbmc.python" version="2.24.0" />
+        <import addon="script.module.kodi-six" />
         <import addon="repository.elementum" optional="true" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="navigation.py">
