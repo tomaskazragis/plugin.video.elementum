@@ -2057,3 +2057,15 @@ msgstr "ID Cliente API Trakt personalizado"
 msgctxt "#30581"
 msgid "Custom Trakt API Client Secret"
 msgstr "Secreto Cliente API Trakt personalizado"
+
+msgctxt "#30582"
+msgid "Settings for %s provider"
+msgstr "Ajustes para proveedor %s"
+
+msgctxt "#30583"
+msgid "Resolving magnet link"
+msgstr "Resolviendo link magnet"
+
+msgctxt "#30584"
+msgid "Remove multiple plays from history, leave 1"
+msgstr "Dejar sólo 1 reproducción en historial, borrar anteriores"
