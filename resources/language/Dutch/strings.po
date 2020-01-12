@@ -510,7 +510,7 @@ msgid "Default view for TV show genres"
 msgstr "Standaard weergave voor serie genres"
 
 msgctxt "#30146"
-msgid "Keep downloading?"
+msgid "Keep downloading '%s'?"
 msgstr ""
 
 msgctxt "#30147"
@@ -807,8 +807,8 @@ msgid "Toggle watched"
 msgstr "Toggle bekeken"
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
-msgstr "Gedownloade bestanden verwijderen?"
+msgid "Delete downloaded files '%s'?"
+msgstr "Gedownloade bestanden verwijderen '%s'?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"

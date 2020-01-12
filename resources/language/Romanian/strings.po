@@ -513,7 +513,7 @@ msgid "Default view for TV show genres"
 msgstr ""
 
 msgctxt "#30146"
-msgid "Keep downloading?"
+msgid "Keep downloading '%s'?"
 msgstr ""
 
 msgctxt "#30147"
@@ -810,8 +810,8 @@ msgid "Toggle watched"
 msgstr "Comutare vizionare"
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
-msgstr "Păstrează fișierele descărcate?"
+msgid "Delete downloaded files '%s'?"
+msgstr "Păstrează fișierele descărcate '%s'?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"

@@ -509,8 +509,8 @@ msgid "Default view for TV show genres"
 msgstr "Tv-sarjojen lajityyppien oletusnäkymä"
 
 msgctxt "#30146"
-msgid "Keep downloading?"
-msgstr "Jatketaanko lataamista?"
+msgid "Keep downloading '%s'?"
+msgstr "Jatketaanko lataamista '%s'?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
@@ -806,8 +806,8 @@ msgid "Toggle watched"
 msgstr "Merkitse katsotuksi"
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
-msgstr "Poistetaanko ladatut tiedostot?"
+msgid "Delete downloaded files '%s'?"
+msgstr "Poistetaanko ladatut tiedostot '%s'?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"

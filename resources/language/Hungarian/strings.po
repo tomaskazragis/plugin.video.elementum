@@ -511,8 +511,8 @@ msgid "Default view for TV show genres"
 msgstr "Alapértelmezett sorozat műfaj nézet"
 
 msgctxt "#30146"
-msgid "Keep downloading?"
-msgstr "Folytassa a letöltést?"
+msgid "Keep downloading '%s'?"
+msgstr "Folytassa a letöltést '%s'?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
@@ -808,8 +808,8 @@ msgid "Toggle watched"
 msgstr "Látottnak jelölés"
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
-msgstr "Törölje a letöltött fájlokat?"
+msgid "Delete downloaded files '%s'?"
+msgstr "Törölje a letöltött fájlokat '%s'?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"

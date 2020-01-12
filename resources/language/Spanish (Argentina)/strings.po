@@ -509,8 +509,8 @@ msgid "Default view for TV show genres"
 msgstr "Vista por omisión para géneros de Series"
 
 msgctxt "#30146"
-msgid "Keep downloading?"
-msgstr "¿Continuar descargando?"
+msgid "Keep downloading '%s'?"
+msgstr "¿Continuar descargando '%s'?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
@@ -807,8 +807,8 @@ msgid "Toggle watched"
 msgstr "Marcar como ya vista"
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
-msgstr "¿Borrar los archivos descargados?"
+msgid "Delete downloaded files '%s'?"
+msgstr "¿Borrar los archivos descargados '%s'?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"

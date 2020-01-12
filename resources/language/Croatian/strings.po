@@ -518,8 +518,8 @@ msgid "Default view for TV show genres"
 msgstr "Zadani prikaz žanrova TV serija"
 
 msgctxt "#30146"
-msgid "Keep downloading?"
-msgstr "Nastavi preuzimanje?"
+msgid "Keep downloading '%s'?"
+msgstr "Nastavi preuzimanje '%s'?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
@@ -820,8 +820,8 @@ msgid "Toggle watched"
 msgstr "Uklj/Isklj gledane"
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
-msgstr "Obriši preuzete datoteke?"
+msgid "Delete downloaded files '%s'?"
+msgstr "Obriši preuzete datoteke '%s'?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"
