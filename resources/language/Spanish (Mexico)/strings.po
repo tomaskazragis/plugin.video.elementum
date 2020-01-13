@@ -509,7 +509,7 @@ msgid "Default view for TV show genres"
 msgstr ""
 
 msgctxt "#30146"
-msgid "Keep downloading?"
+msgid "Keep downloading '%s'?"
 msgstr ""
 
 msgctxt "#30147"
@@ -806,7 +806,7 @@ msgid "Toggle watched"
 msgstr ""
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
+msgid "Delete downloaded files '%s'?"
 msgstr ""
 
 msgctxt "#30270"

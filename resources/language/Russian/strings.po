@@ -510,8 +510,8 @@ msgid "Default view for TV show genres"
 msgstr "Вид по-умолчанию для жанров Сериалов"
 
 msgctxt "#30146"
-msgid "Keep downloading?"
-msgstr "Продолжать скачивание?"
+msgid "Keep downloading '%s'?"
+msgstr "Продолжать скачивание '%s'?"
 
 msgctxt "#30147"
 msgid "Caches are still warming up, give it a minute or two..."
@@ -807,8 +807,8 @@ msgid "Toggle watched"
 msgstr "Переключить 'Посмотренный'"
 
 msgctxt "#30269"
-msgid "Delete downloaded files?"
-msgstr "Удалить скачанные файлы?"
+msgid "Delete downloaded files '%s'?"
+msgstr "Удалить скачанные файлы '%s'?"
 
 msgctxt "#30270"
 msgid "Match found in your active torrents, play it?"

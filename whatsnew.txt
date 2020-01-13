@@ -6,10 +6,12 @@
     - Do not expect any support, help and other things like that.
     - Source is open, so you can fork everything.
 
-[B][COLOR red]0.1.45[/COLOR][/B]
+[B][COLOR red]0.1.45-0.1.47[/COLOR][/B]
     - Changed Trakt API keys per addon. Users need to re-authorize!
     - Added option to cleanup Trakt history (to leave only the latest info about watch date). It will hugely decrease Trakt load, so it highly recommended to enable!
     - Modified next episode launcher.
+    - Small changes to avoid segmentation faults.
+    - Python scripts modified to support Kodi 19.
 
 [B][COLOR red]0.1.44[/COLOR][/B]
     - Fixed CloudFlare bypass module to bypass latest CloudFlare defense.
